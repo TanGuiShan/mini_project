@@ -1,2 +1,2 @@
-# mini_project
+# Anime-Analysis
 SC1015
