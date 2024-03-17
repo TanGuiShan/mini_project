@@ -27,8 +27,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Learning Outcome from this project
 
 ## Reference
-https://www.kaggle.com/datasets/aludosan/myanimelist-anime-dataset-as-20190204
-https://www.kaggle.com/datasets/azathoth42/myanimelist/data
-https://www.kaggle.com/datasets/svanoo/myanimelist-dataset/data
+  https://www.kaggle.com/datasets/aludosan/myanimelist-anime-dataset-as-20190204
+  https://www.kaggle.com/datasets/azathoth42/myanimelist/data
+  https://www.kaggle.com/datasets/svanoo/myanimelist-dataset/data
 
 SC1015_23/24
