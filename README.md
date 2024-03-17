@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   5. Neural Network
   
 ## Contributors
-  - @TanGuiShan - Adminstration
+  - @TanGuiShan - Adminstration, Data Preparation
   - @
   - @
   
