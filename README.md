@@ -1,7 +1,7 @@
 # Anime-Analysis
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from the MyAnimeList Database APIs. For detailed walkthrough, please view the source code in order from:
-  1. Data Extraction
+  1. Data Preparation
   2. Data Visualization
   3. Data Resampling and Splitting
   4. Logistic Regression
