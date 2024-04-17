@@ -1,6 +1,6 @@
 title,Average Rank of Related,Related_Adaptation,Related_Sequel,Related_Side story,Related_Alternative version,Related_Prequel,Related_Summary,Related_Other,Related_Spin-off,Related_Alternative setting,Related_Character,Related_Parent story,Related_Full story
 Inu x Boku SS,1145.5,1,1,0,0,0,0,0,0,0,0,0,0
-Seto no Hanayome,1781.75,1,1,1,1,0,0,0,0,0,0,0,0
+Seto no Hanayome,2507.75,1,1,1,1,0,0,0,0,0,0,0,0
 Shugo Chara!! Doki,2561.0,1,1,0,0,1,0,0,0,0,0,0,0
 Princess Tutu,2278.5,1,0,0,0,0,1,0,0,0,0,0,0
 Bakuman. 3rd Season,1450.75,1,0,0,0,2,0,1,0,0,0,0,0
@@ -17,7 +17,7 @@ Bleach,2155.25,1,0,7,0,0,0,0,0,0,0,0,0
 Chobits,2723.6666666666665,1,0,1,0,0,1,0,0,0,0,0,0
 Kimi ni Todoke,1128.6666666666667,1,1,0,0,0,1,0,0,0,0,0,0
 Naruto: Shippuuden,1110.6666666666667,3,2,8,0,1,0,2,2,0,0,0,0
-Ranma ½,1087.0,1,1,4,0,0,0,6,0,0,0,0,0
+Ranma ½,1450.9166666666667,1,1,4,0,0,0,6,0,0,0,0,0
 Toradora!,2223.0,1,0,2,0,0,1,0,0,0,0,0,0
 Bakuman. 2nd Season,1376.2,1,1,0,0,1,1,1,0,0,0,0,0
 Gakuen Alice,941.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -48,7 +48,7 @@ Daa! Daa! Daa!,919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kimi ni Todoke 2nd Season,1350.75,1,0,1,0,2,0,0,0,0,0,0,0
 Sekaiichi Hatsukoi,321.2,1,1,1,0,0,0,1,1,0,0,0,0
 Code-E,1805.3333333333333,2,1,0,0,0,0,0,0,0,0,0,0
-Junjou Romantica,316.8333333333333,2,1,1,0,0,0,1,1,0,0,0,0
+Junjou Romantica,520.1666666666666,2,1,1,0,0,0,1,1,0,0,0,0
 Kiniro no Corda: Primo Passo,2434.5,1,1,1,0,0,0,0,1,0,0,0,0
 D.Gray-man Hallow,355.0,1,0,0,0,1,0,0,0,0,0,0,0
 Sengoku☆Paradise Kiwami,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -67,6 +67,7 @@ Soul Buster,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Death Billiards,3599.5,0,0,0,1,0,0,3,0,0,0,0,0
 Live On Cardliver Kakeru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Triage X,5640.5,1,1,0,0,0,0,0,0,0,0,0,0
+Densha Kamo Shirenai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nanatsu no Bitoku,7702.5,0,0,1,0,0,0,1,0,0,0,0,0
 Hai to Gensou no Grimgar Special,830.0,1,0,0,0,0,0,0,0,0,0,1,0
 Duel Masters Movie 1: Yami no Shiro no Maryuuou,7537.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -132,18 +133,20 @@ Princess Principal,3740.6666666666665,0,1,1,0,0,1,0,0,0,0,0,0
 Nyanpire The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kira Kira 5th Anniversary Live Anime: Kick Start Generation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tenpou Ibun: Ayakashi Ayashi,1898.0,1,1,0,0,0,0,0,0,0,0,0,0
-Persona 4 the Animation,2684.222222222222,1,1,0,1,0,1,2,0,3,0,0,0
+Persona 4 the Animation,2934.3333333333335,1,1,0,1,0,1,2,0,3,0,0,0
 Fate/stay night Movie: Unlimited Blade Works,485.0,0,0,0,3,1,0,0,0,0,0,0,0
 Boku dake no Hentai Kanojo The Animation,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
 Luv Wave,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Lupin III: Seven Days Rhapsody,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ski Jumping Pairs: Road to Torino 2006,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Thermae Romae x LOFT Collaboration,3217.0,0,0,0,0,0,0,1,0,0,0,0,0
 Fairy Tail,1839.888888888889,1,1,3,0,0,0,2,1,0,1,0,0
 Marvel Future Avengers,3219.5,1,1,0,0,0,0,0,0,2,0,0,0
 Super Seisyun Brothers,3827.0,1,0,0,0,0,0,0,0,0,0,0,0
 Baku Ane: Otouto Shibocchau zo! The Animation,0.0,1,1,0,0,0,0,0,0,0,0,0,0
 Sei Shoujo The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ryoujoku Guerrilla Kari 3,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Seto no Hanayome Fan Disc,727.0,0,0,0,0,0,0,0,0,0,0,1,0
 Momo Kyun Sword,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bust to Bust: Chichi wa Chichi ni,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Onara Gorou,9444.5,0,0,0,0,1,0,1,0,0,0,0,0
@@ -158,6 +161,7 @@ Shoujo kara Shoujo e...,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Angel&#039;s Feather,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Busou Shoujo Machiavellianism: Doki! ""Goken-darake"" no Ian Ryokou",3029.0,0,0,0,0,1,0,0,0,0,0,0,0
 Shugo Chara! Party!,1508.0,0,0,0,0,1,0,0,0,0,0,0,0
+Devilman Memorial,5715.0,0,0,0,0,0,0,0,0,0,0,0,1
 Working&#039;!!,1609.25,1,1,0,0,1,0,1,0,0,0,0,0
 Haikara-san ga Tooru,1664.3333333333333,1,0,0,1,0,0,1,0,0,0,0,0
 Henbou Moral Hazard,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -167,14 +171,17 @@ Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,372.5,1,0,0,0,0,0,0,0,0,0
 Meshimase Lodoss-tou Senki: Sorette Oishii no?,1576.0,0,0,0,1,0,0,0,0,0,0,0,0
 Dragon Ball Specials,369.0,0,0,0,0,0,0,0,0,0,0,1,0
 Petit Eva: Evangelion@School,2591.0,2,0,0,0,0,0,0,1,0,0,0,0
-City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo,659.5,0,2,0,0,0,0,0,0,0,0,0,0
+City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo,3120.0,0,2,0,0,0,0,0,0,0,0,0,0
 Binan Koukou Chikyuu Boueibu LOVE!,1380.5,1,1,0,0,0,0,0,0,0,0,0,0
 Ghiblies,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 WWW.Working!!,1711.3333333333333,1,0,0,0,0,0,1,0,1,0,0,0
+Balloon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Mitsubachi Maya no Bouken,5887.0,0,0,0,0,1,0,0,0,0,0,0,0
 R.O.D the TV,500.0,1,0,0,0,1,0,0,0,0,0,0,0
 Kuroko no Basket: Baka ja Katenai no yo!,183.0,1,0,0,0,0,0,0,0,0,0,1,0
 Hacka Doll The Animation,3997.0,1,0,0,0,0,0,1,0,0,0,0,0
+Ranma ½: 1994 Music Calendar,802.0,0,0,0,0,0,0,1,0,0,0,0,0
+Yami no Purple Eye,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Anime Koukyoushi: Jungle Taitei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Akai Koudan Zillion: Utahime Yakyoku,4562.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sore Ike! Anpanman: Kirakira Boshi no Namida,0.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -183,13 +190,16 @@ Kiss x Sis (TV),2849.0,1,0,0,0,0,0,0,0,0,0,1,0
 Kanojo x Kanojo x Kanojo: Sanshimai to no DokiDoki Kyoudou Seikatsu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kanzen Mushusei: Sorezore no Houkago,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yakin Byoutou Ni,9689.25,1,1,0,0,1,0,1,0,0,0,0,0
-Tennis no Ouji-sama,1542.3333333333333,1,1,7,1,0,0,2,0,0,0,0,0
+Tennis no Ouji-sama,1691.0833333333333,1,1,7,1,0,0,2,0,0,0,0,0
+Egao,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnm,1359.5,1,0,0,0,0,0,1,0,0,0,0,0
 Kami nomi zo Shiru Sekai: Natsu-iro Surprise,2028.0,0,0,0,0,0,0,1,0,0,0,0,0
 T7S Longing for Summer Again and Again: Harukaze,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detective Conan Movie 21: The Crimson Love Letter,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kakko Kawaii Sengen!,5164.333333333333,1,1,0,0,0,0,1,0,0,0,0,0
 Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?,1916.0,0,0,0,0,1,0,0,0,0,0,0,0
+Zhan Long Si Qu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Tang Lang Bu Chan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 To Heart 2 AD Plus,2558.6666666666665,1,1,0,0,1,0,0,0,0,0,0,0
 Ojamajo Doremi Dokkaan!,2352.0,0,0,0,0,1,0,0,0,0,0,0,0
 Danna ga Nani wo Itteiru ka Wakaranai Ken,1632.0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -202,7 +212,7 @@ Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa,573.3333333333334,1,1,0,0,0,
 Dominion,2318.0,1,1,0,0,0,0,0,1,0,0,0,0
 Darker than Black: Kuro no Keiyakusha,683.3333333333334,1,1,1,0,0,0,0,0,0,0,0,0
 Teekyuu,4120.0,1,1,0,0,0,0,1,1,0,0,0,0
-Aoi Bungaku Series,818.3333333333334,0,0,0,5,0,1,0,0,0,0,0,0
+Aoi Bungaku Series,2652.6666666666665,0,0,0,5,0,1,0,0,0,0,0,0
 Natsuyuki Rendezvous,2281.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars,1659.5,0,0,0,1,1,0,0,0,0,0,0,0
 Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -210,8 +220,10 @@ Mai-Otome Special: Otome no Inori,2153.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bakuretsu Hunters OVA,4230.0,0,0,0,0,1,0,0,0,0,0,0,0
 Ontama!,3924.0,1,0,0,0,0,0,0,0,0,0,0,0
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),4300.0,1,0,0,0,0,0,1,0,0,0,0,0
+Mikan-Seijin,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 BOY&#039;s LOVE Nitro+CHiRAL,6237.0,0,0,0,0,0,0,2,0,0,0,0,0
 Aachi wa Ssipak,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Douluo Dalu,1166.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ao no Exorcist Movie Special,4390.5,0,0,0,0,0,0,2,0,0,0,0,0
 Kore ga UFO da! Soratobu Enban,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Notari Matsutarou,7218.0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -231,8 +243,10 @@ Aru Zombie Shoujo no Sainan,0.0,1,0,0,0,0,0,1,0,0,0,0,0
 Hetalia Axis Powers,1410.25,1,1,2,0,0,0,0,0,0,0,0,0
 Mugen Kouro,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Wind: A Breath of Heart (TV),0.0,1,0,1,1,0,0,1,0,0,0,0,0
+Mahoutsukai Tai! vs. Shamanic Princess,3686.0,0,0,0,0,2,0,0,0,0,0,0,0
 Yousei Dick,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kachikachi Yama (1940),0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biohazard 4D-Executer,6149.0,0,0,0,0,0,0,1,0,0,0,0,0
 Brave Witches: Petersburg Daisenryaku,3940.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ginga Tetsudou 999: Glass no Clair,595.0,0,0,0,1,0,0,0,0,0,0,0,0
 Toaru Majutsu no Index-tan II,2117.5,0,0,0,0,1,0,0,1,0,0,0,0
@@ -246,6 +260,7 @@ Tamayura: Sotsugyou Shashin Part 3 - Akogare,611.5,0,1,0,0,1,0,0,0,0,0,0,0
 Saimin Jutsu Zero Special,12919.0,0,0,0,0,0,0,0,0,0,0,1,0
 Saint Seiya: Tenkai-hen Josou - Overture,3368.0,0,1,0,0,1,0,0,0,0,0,0,0
 One Piece Movie 1,0.0,0,0,0,0,0,0,0,0,0,0,1,0
+Jungle Taitei Leo: Hon-o-ji,4891.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ergo Proxy,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Doraemon Movie 13: Nobita to Kumo no Oukoku,517.0,1,0,0,0,0,0,0,0,0,0,1,0
 Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes,2912.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -292,8 +307,10 @@ Initial D Battle Stage,560.75,0,1,0,0,0,0,0,0,0,0,0,3
 Cheburashka Arere?,1884.0,0,0,1,0,0,0,0,0,0,0,0,0
 Devil May Cry,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ihatov Gensou: Kenji no Haru,2179.0,0,0,0,0,0,0,0,1,0,0,0,0
+Chuumon no Ooi Ryouriten (1991),0.0,0,0,0,2,0,0,0,0,0,0,0,0
 Hyakka Ryouran: Samurai Girls,4146.0,1,1,1,0,0,0,0,0,0,0,0,0
 Hanayamata,2112.0,1,0,0,0,0,0,0,0,0,0,0,0
+3D Kanojo: Real Girl,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Harmony,3204.0,1,0,0,0,0,0,0,0,0,0,0,0
 Jungle wa Itsumo Hare nochi Guu Deluxe,829.5,0,1,0,0,1,0,0,0,0,0,0,0
 Mai-HiME: Kuro no Mai/Saigo no Bansan,1500.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -356,9 +373,10 @@ JK to Ero Giin Sensei,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Code Geass: Hangyaku no Lelouch R2 Picture Drama,2691.0,0,0,1,0,0,0,0,0,0,0,1,0
 Chou Seimeitai Transformers Beast Wars Metals: Convoy Daihenshin!,3952.6666666666665,0,0,0,0,0,0,2,0,0,0,1,0
 Megami Tantei Vinus File,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
+Puyo Puyo: Madou Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Alps no Shoujo Heidi: Alm no Yama-hen,2514.0,0,0,0,0,0,0,0,0,0,0,0,1
 Kono Subarashii Sekai ni Shukufuku wo! OVA,361.0,0,0,0,0,0,0,0,0,0,0,1,0
-Qin Shi Ming Yue: Bai Bu Fei Jian,1288.8333333333333,0,1,0,0,1,0,0,4,0,0,0,0
+Qin Shi Ming Yue: Bai Bu Fei Jian,3264.0,0,1,0,0,1,0,0,4,0,0,0,0
 Tight-rope,2634.0,1,0,0,0,0,0,0,0,0,0,0,0
 Di Gi Charat: Hoshi no Tabi,5220.5,0,0,1,0,1,0,0,0,0,0,0,0
 Wagamama☆Fairy Mirumo de Pon!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -368,7 +386,7 @@ Sister Princess: Re Pure,5873.666666666667,1,0,1,0,1,0,0,0,0,0,0,0
 Chicchana Yukitsukai Sugar,3122.5,1,1,0,0,0,0,0,0,0,0,0,0
 Mai-Otome Zwei,2077.3333333333335,1,0,1,0,1,0,0,0,0,0,0,0
 Master Keaton OVA,1111.0,1,0,0,0,1,0,0,0,0,0,0,0
-Layton Kyouju to Eien no Utahime,0.0,0,0,0,0,0,0,1,0,0,0,0,0
+Layton Kyouju to Eien no Utahime,2997.0,0,0,0,0,0,0,1,0,0,0,0,0
 Precure All Stars DX the Dance Live♥: Miracle Dance Stage e Youkoso,2082.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shounan Bakusouzoku,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Toki no Tabibito: Time Stranger,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -379,9 +397,11 @@ Inazuma Eleven Go: TCG CM NG-shuu,2775.0,0,0,0,0,0,0,1,0,0,0,0,0
 Corpse Party: Missing Footage,3561.0,0,1,0,0,0,0,0,0,0,0,0,0
 One Piece 3D: Mugiwara Chase,1804.5,0,0,0,0,0,0,1,0,0,0,1,0
 Blossom,0.0,0,0,0,0,0,0,2,0,0,0,0,0
+Kojin Toshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ramayana: The Legend of Prince Rama,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys,1433.0,1,0,0,0,0,0,0,0,0,0,1,0
 gdgd Fairies 2,2379.3333333333335,0,1,1,0,1,0,0,0,0,0,0,0
+Around,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hikari no Densetsu,4796.0,1,0,0,0,0,0,0,0,0,0,0,0
 Haiyore! Nyaruko-san F,2414.0,1,0,0,0,1,0,0,0,0,0,0,0
 Kemeko Deluxe!,5746.5,1,0,0,0,0,0,1,0,0,0,0,0
@@ -400,6 +420,7 @@ Detective Conan Movie 02: The Fourteenth Target,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 DRAMAtical Murder OVA: Data_xx_Transitory,6461.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tasogare Otome x Amnesia,1059.5,1,1,0,0,0,0,0,0,0,0,0,0
 Teekyuu 9,3053.3333333333335,1,0,1,0,1,0,0,0,0,0,0,0
+Kiekaketa Monogataritachi no Tame ni,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gokusen,1725.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kemonozume,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin,219.0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -428,6 +449,7 @@ Detective Conan Movie 07: Crossroad in the Ancient Capital,0.0,0,0,0,0,0,0,0,0,0
 Muteki Robo Trider G7,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Major S6,72.33333333333333,1,1,0,0,1,0,0,0,0,0,0,0
 Nana,1687.5,1,0,0,0,0,1,0,0,0,0,0,0
+Black Jack: Sora kara Kita Kodomo,809.0,1,0,0,0,0,0,0,0,0,0,1,0
 Luck & Logic,4363.0,1,0,0,0,0,0,2,0,0,0,0,0
 Black Shout,5323.25,0,0,0,0,0,0,3,0,0,0,1,0
 Sakura Taisen: Sumire,5576.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -445,15 +467,17 @@ Shukufuku no Campanella Specials,6139.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tantei Opera Milky Holmes: Summer Special,3581.0,0,0,0,0,0,0,0,0,0,0,1,0
 Romeo no Aoi Sora,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Crusher Joe,3859.3333333333335,1,1,0,0,0,0,0,0,0,1,0,0
-Saiki Kusuo no Ψ-nan (TV),4946.0,1,1,0,0,0,0,1,0,0,0,0,0
+Saiki Kusuo no Ψ-nan (TV),4963.333333333333,1,1,0,0,0,0,1,0,0,0,0,0
 Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan,1121.0,0,1,0,0,1,0,0,0,0,0,1,0
 Owari no Seraph: Nagoya Kessen-hen,1530.3333333333333,1,0,0,0,1,0,1,0,0,0,0,0
 Pretty Rhythm: Rainbow Live,3811.0,0,0,0,1,0,1,1,1,2,0,0,0
 Kara no Kyoukai 8: Shuushou,180.33333333333334,1,1,0,0,1,0,0,0,0,0,0,0
 Golgo 13: Queen Bee,3128.0,1,1,0,0,1,0,0,0,0,0,0,0
 Seitokai no Ichizon,1822.0,1,1,0,0,0,0,0,0,0,0,0,0
+Saiki Kusuo no Ψ-nan (TV) 2,3749.0,1,0,0,0,1,0,0,0,0,0,0,0
 Pokemon Diamond & Pearl,3600.294117647059,1,1,9,0,1,0,1,2,2,0,0,0
 Sora no Otoshimono: Forte,1273.6666666666667,1,1,0,0,1,0,0,0,0,0,0,0
+Origami Warriors,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dennou Coil,244.66666666666666,2,0,0,0,0,1,0,0,0,0,0,0
 Haunted Junction,4269.0,1,0,0,0,0,0,0,0,0,0,0,0
 Akina to Onsen de H Shiyo!,12919.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -470,7 +494,7 @@ Strike the Blood II,1507.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
 Tamayura: Sotsugyou Shashin Part 2 - Hibiki,964.0,0,1,0,0,1,0,0,0,0,0,0,0
 Keroro,741.0,1,0,0,1,0,0,0,0,0,0,0,0
 Doraemon: Doraemon Comes Back (Movie),2616.5,0,0,0,1,0,0,1,0,0,0,0,0
-Backkom Meogeujan Yeohaeng,0.0,0,0,0,1,0,0,0,0,0,1,0,0
+Backkom Meogeujan Yeohaeng,3725.0,0,0,0,1,0,0,0,0,0,1,0,0
 Majin Tantei Nougami Neuro,1082.0,1,0,0,0,0,0,0,0,0,0,0,0
 Garakuta-doori no Stain,5957.0,0,0,0,0,0,0,1,0,0,0,0,0
 3-Nen C-Gumi 14-Ban Kubozono Chiyoko no Nyuukaku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -505,6 +529,7 @@ Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai,921.0,0
 The iDOLM@STER,2589.8333333333335,1,1,0,1,0,0,0,2,7,0,0,0
 Passion,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahoutsukai no Yome Recap,238.0,0,0,0,0,0,0,0,0,0,0,0,1
+Toji no Miko,6264.0,1,0,0,0,0,1,0,0,0,0,0,0
 Angel Heart,1468.0,1,0,0,0,0,0,0,1,0,0,0,0
 Princess Rouge,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Usavich II,2998.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -550,7 +575,7 @@ Vampire Knight,2634.6666666666665,1,1,1,0,0,0,0,0,0,0,0,0
 Working&#039;!! Announcement Specials,1061.5,0,0,0,0,0,0,2,0,0,0,0,0
 Daisougen no Chiisana Tenshi: Bush Baby,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Penguin&#039;s Memory: Shiawase Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Harukanaru Toki no Naka de 3: Kurenai no Tsuki,3007.0,0,1,1,0,1,0,0,0,0,0,0,0
+Harukanaru Toki no Naka de 3: Kurenai no Tsuki,4338.0,0,1,1,0,1,0,0,0,0,0,0,0
 Pokemon: Pikachu no Fushigi na Fushigi na Daibouken,2690.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bakusou Kyoudai Let&#039;s & Go Special,4023.0,0,0,0,0,0,0,0,0,0,0,1,0
 Naruto SD: Rock Lee no Seishun Full-Power Ninden,168.5,1,0,0,0,0,0,0,1,0,0,0,0
@@ -561,16 +586,19 @@ Aoki Hagane no Arpeggio: Ars Nova Cadenza,758.0,1,0,0,0,1,0,0,0,0,0,0,0
 Sexy Commando Gaiden: Sugoiyo!! Masaru-san Specials,785.0,0,0,0,0,0,0,0,0,0,0,0,1
 Saint Seiya: Shinku no Shounen Densetsu,605.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ninpuu Kamui Gaiden,5747.0,1,0,0,0,0,1,0,0,0,0,0,0
+Xiang Qi Wang,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aa! Megami-sama! (TV),2051.4,1,1,1,1,0,0,0,1,0,0,0,0
 Hungry Heart: Wild Striker,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Itadaki! Seieki♥ Special,12919.0,1,0,0,0,0,0,0,0,0,0,1,0
 Fight Ippatsu! Juuden-chan!! Specials,4492.0,0,0,0,0,0,0,0,0,0,0,1,0
+And And,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Ruri-iro no Yuki,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mitsuboshi Colors,1579.0,1,0,0,0,0,0,0,0,0,0,0,0
 Lupin III: Dead or Alive,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Phi Brain: Kami no Puzzle,1542.6666666666667,2,1,0,0,0,0,0,0,0,0,0,0
 Kaze no Stigma,1851.0,1,0,0,0,0,0,0,0,0,0,0,0
 The Samurai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Butlers: Chitose Momotose Monogatari,7899.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tonari no Totoro,1981.0,0,0,0,0,0,0,0,1,0,0,0,0
 Platonic Chain,5303.666666666667,1,0,2,0,0,0,0,0,0,0,0,0
 Rocket Girls,3652.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -592,7 +620,7 @@ Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!,1270.5,0,1,0,0,0,0,0,0,0,0,
 Hatsumei Boy Kanipan,3942.0,0,1,0,0,0,0,0,0,0,0,0,0
 Nanatsu no Taizai,1082.8,1,1,1,0,0,1,1,0,0,0,0,0
 School Rumble,603.6666666666666,1,1,1,0,0,0,0,0,0,0,0,0
-Dragon Ball Z,2472.875,1,1,25,2,1,0,0,0,0,2,0,0
+Dragon Ball Z,2622.625,1,1,25,2,1,0,0,0,0,2,0,0
 Digimon Frontier: Ornismon Fukkatsu!!,2645.0,0,0,0,0,0,0,0,0,0,0,1,0
 Great Mazinger tai Getter Robo,3047.0,0,0,0,0,0,0,0,2,0,0,0,0
 So Ra No Wo To,1377.5,1,0,1,0,0,0,0,0,0,0,0,0
@@ -612,6 +640,7 @@ Princess Lover! OVA,3716.0,0,0,0,0,0,0,1,0,0,0,0,0
 Baki,0.0,1,0,0,0,0,0,0,0,0,0,0,1
 Kikou Kai Galient,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Sugata Sanshirou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Tairiki Tarou no Mucha Shuugyou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Musaigen no Phantom World: Limitless Phantom World,3908.0,0,0,0,0,0,0,1,0,0,0,1,0
 Inshitsu Otaku ni Ikareru Kanojo,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kunoichi Bakumatsu Kitan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -644,11 +673,13 @@ Shining Hearts: Shiawase no Pan - Kokoro ga Todoita Picture Drama,6807.0,0,0,0,0
 Digimon Adventure tri. 1: Saikai,1634.5,0,1,0,0,1,0,0,0,0,0,0,0
 Flutter of Birds: Tori-tachi no Habataki,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Blue Seed,2221.0,1,1,1,1,0,0,0,0,0,0,0,0
+Kaumori,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fate/stay night: Unlimited Blade Works - Prologue,126.0,0,1,0,0,1,0,0,0,0,0,0,0
 Stitch!: Zutto Saikou no Tomodachi Special,7513.5,0,1,0,0,1,0,0,0,0,0,0,0
 Hidamari Sketch x ☆☆☆,826.75,1,1,0,0,1,1,0,0,0,0,0,0
 Mother: Saigo no Shoujo Eve,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Doraemon: Obaachan no Omoide,1570.0,0,0,0,0,0,0,1,0,0,0,0,0
+Ahiru no Otegara,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",1432.6666666666667,1,1,0,1,0,0,0,0,0,0,0,0
 Mokkai Shiyo?,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Seraphim Call,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -677,6 +708,7 @@ Shoujo-tachi no Sadism The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Neon Genesis Evangelion: Death & Rebirth,223.0,0,0,0,0,0,0,0,0,0,0,1,0
 Detective Conan Movie 05: Countdown to Heaven,0.0,1,0,0,0,0,0,0,0,0,0,1,0
 Harukanaru Toki no Naka de: Hachiyou Shou,3387.5714285714284,1,2,2,1,0,1,0,0,0,0,0,0
+Ravex in Tezuka World,3523.0,0,0,0,0,0,0,0,0,1,0,0,0
 Poka Poka Mori no Rascal,4649.0,0,0,0,1,0,0,0,0,0,0,0,0
 Gowapper 5 Gordam,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Daiakuji: The Xena Buster Specials,12919.0,0,0,0,1,0,0,0,0,0,0,0,0
@@ -696,10 +728,11 @@ Imakara Atashi......,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Arcana Famiglia: Capriccio - stile Arcana Famiglia,5949.0,0,0,0,0,0,0,0,0,0,0,1,0
 Cross Game,102.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal,491.0,1,1,0,0,1,0,0,0,0,0,0,0
+Eyeshield 21: Jump Festa 2005 Special,487.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ninja Senshi Tobikage,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rurouni Kenshin Special,168.0,1,0,0,0,0,0,0,0,0,0,1,0
 Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan,0.0,0,0,0,0,1,0,0,0,0,0,1,0
-Di Gi Charat,3600.6363636363635,1,0,6,2,1,0,0,1,0,0,0,0
+Di Gi Charat,4016.181818181818,1,0,6,2,1,0,0,1,0,0,0,0
 Dororon Enma-kun Meeramera,5146.333333333333,1,0,0,2,0,0,0,0,0,0,0,0
 Suzumiya Haruhi no Shoushitsu,2334.6666666666665,1,0,0,1,1,0,0,0,0,0,0,0
 Tales of Symphonia The Animation: Sylvarant-hen,2035.8,2,1,1,0,0,0,0,0,0,1,0,0
@@ -733,6 +766,7 @@ Uta Kata Special,4256.0,0,0,0,0,1,0,0,0,0,0,0,0
 Chain Chronicle: Haecceitas no Hikari,3903.5,0,0,0,3,1,0,0,0,0,0,0,0
 Dragoon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Doraemon: Nobita&#039;s the Night Before a Wedding,2642.0,0,0,0,0,0,0,1,0,0,0,0,0
+Fashion,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sakura Taisen: New York,3756.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bari Bari Densetsu,2392.0,1,0,0,0,0,1,0,0,0,0,0,0
 Mama wa Shougaku 4 Nensei,2531.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -765,7 +799,7 @@ Pokemon,3199.740740740741,2,1,15,0,0,4,3,0,2,0,0,0
 "Umi no Yami, Tsuki no Kage",7226.0,1,0,0,0,0,0,0,0,0,0,0,0
 Matou Kitan Zankan!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Genshiken Nidaime,1192.6666666666667,1,0,1,0,1,0,0,0,0,0,0,0
-Baka to Test to Shoukanjuu,1592.4,1,1,2,0,0,0,0,1,0,0,0,0
+Baka to Test to Shoukanjuu,2514.8,1,1,2,0,0,0,0,1,0,0,0,0
 Handa-kun,944.0,1,1,0,0,0,0,0,0,0,0,0,0
 Growlanser IV: Wayfarer of the Time,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Vandread,2655.25,2,1,0,0,0,1,0,0,0,0,0,0
@@ -799,6 +833,7 @@ Coyote Ragtime Show,4693.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shakugan no Shana: Friagne to Marianne no Naze Nani Shana! Nandemo Shitsumonbako!,2064.6666666666665,0,1,1,0,0,0,0,0,0,0,1,0
 Nichijou: Original Jikai Yokoku,96.0,0,0,0,0,0,0,0,0,0,0,1,0
 White Fantasy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Sword Art Online Alternative: Gun Gale Online,4094.2,1,0,0,0,0,1,2,0,1,0,0,0
 Kidou Keisatsu Patlabor 2 the Movie,3383.0,0,1,0,0,1,0,1,0,0,0,0,0
 Shin Tennis no Ouji-sama,1023.5,1,1,1,0,1,0,0,0,0,0,0,0
 "Wake Up, Girl Zoo!",1697.0,0,1,0,0,0,0,0,1,0,0,0,0
@@ -809,7 +844,7 @@ Gintama°,88.83333333333333,1,1,2,0,2,0,0,0,0,0,0,0
 Precure All Stars Movie New Stage 3: Eien no Tomodachi,2536.0,0,0,0,0,1,0,0,0,0,0,0,0
 Patapata Hikousen no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 King of Fighters: Another Day,5517.8,0,0,0,0,0,0,1,4,0,0,0,0
-Ouritsu Uchuugun: Honneamise no Tsubasa,0.0,0,1,0,0,0,0,1,0,0,0,0,0
+Ouritsu Uchuugun: Honneamise no Tsubasa,3607.5,0,1,0,0,0,0,1,0,0,0,0,0
 1000-nen Joou: Queen Millennia,3274.0,1,1,0,1,0,0,0,0,0,0,0,0
 Hakuouki Hekketsuroku Episode 0,1112.6666666666667,0,1,0,1,0,0,0,0,0,0,0,1
 Kyonyuu Reijou MC Gakuen,6459.5,2,0,0,0,0,0,0,0,0,0,0,0
@@ -828,13 +863,16 @@ Battle Spirits: Ryuuko no Ken,4295.0,0,0,0,0,0,0,0,1,0,0,0,0
 Pokemon: Pikachu no Fuyuyasumi,3643.5,0,1,0,0,0,0,0,0,0,0,1,0
 Tetsujin 28-gou (1980),5351.0,0,0,0,0,1,0,0,0,0,0,0,0
 Spider Riders: Oracle no Yuusha-tachi,4374.0,0,1,0,0,0,0,0,0,0,0,0,0
+"Yasashii Fue, Tori, Ishi",0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Peace Hame!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tenbatsu Angel Rabbie☆,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bamboo Blade: Fanfu-Fufe-Fo,1003.0,0,0,0,0,0,0,1,0,0,0,1,0
 Girls Bravo: First Season,2094.5,1,1,0,0,0,0,0,0,0,0,0,0
-Hana wa Saku: Touhoku ni Saku,2145.3333333333335,0,0,0,0,0,0,1,0,0,2,0,0
+Hana wa Saku: Touhoku ni Saku,4115.666666666667,0,0,0,0,0,0,1,0,0,2,0,0
 Gantz:O,2779.0,1,0,0,0,0,0,2,0,0,0,0,0
 Yurumates,3996.3333333333335,1,1,0,0,0,0,1,0,0,0,0,0
+Melody,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Aki no Puzzle,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Getsuyoubi no Tawawa Specials,5553.0,0,0,0,0,1,0,0,0,0,0,1,0
 Tanoshii Muumin Ikka Bouken Nikki,771.5,0,0,1,0,1,0,0,0,0,0,0,0
 Kurenai no Buta,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -863,6 +901,7 @@ Mitsubachi Maya no Bouken,6050.0,0,1,0,0,0,0,0,0,0,0,0,0
 Garo: Vanishing Line Recap,2420.0,0,0,0,0,0,0,0,0,0,0,0,1
 Ao no Strada,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Etotama,2955.0,1,1,1,0,0,0,0,0,0,0,0,0
+San Ge Heshang,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Saver,11030.0,0,0,0,0,1,0,0,0,0,0,0,0
 "Boku no Imouto wa ""Osaka Okan""",0.0,0,0,2,0,0,0,0,0,0,0,0,0
 Jewelpet Magical Change,2815.0,0,0,0,0,0,0,0,0,7,0,0,0
@@ -878,6 +917,7 @@ Kill la Kill,600.5,1,0,1,0,0,0,0,0,0,0,0,0
 Key the Metal Idol,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuru Camp△ Specials,195.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yami no Teio: Kyuuketsuki Dracula,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Ahiru Rikusentai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detective Conan Movie 01: The Timed Skyscraper,0.0,1,0,0,0,0,0,0,0,0,0,1,0
 Ganbare Goemon,5083.5,0,0,1,0,0,0,0,0,0,1,0,0
 Aki-Sora,9778.0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -892,6 +932,7 @@ Ginga Eiyuu Densetsu Gaiden (1999),232.66666666666666,1,0,0,0,1,0,0,0,0,0,1,0
 Lime-iro Senkitan: Nankoku Yume Roman,7559.5,0,1,0,0,1,0,0,0,0,0,0,0
 Dokidoki! Precure,2480.6470588235293,0,0,1,0,0,0,0,2,14,0,0,0
 Rewrite 2nd Season,4290.0,0,0,0,0,1,0,0,0,0,0,0,0
+Kitsutsuki Keikaku,0.0,0,0,0,0,0,0,0,0,0,1,0,0
 Gegege no Kitarou (2007),2303.1111111111113,1,0,2,4,0,0,1,1,0,0,0,0
 Resort Boin,12919.0,1,0,0,0,1,0,0,0,0,0,0,0
 Choujin Locke: Shinsekai Sentai,1772.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
@@ -917,8 +958,11 @@ Tales of Symphonia The Animation: Sekai Tougou-hen,2190.0,0,0,1,0,1,0,0,0,0,0,0,
 Shusaku Liberty,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Rokudenashi Majutsu Koushi to Akashic Records,2203.0,1,0,0,0,0,0,0,0,0,0,0,0
 Future Card Buddyfight,1706.75,1,1,0,0,0,1,0,0,0,1,0,0
+Ibara-Hime matawa Nemuri-Hime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Furiko,6740.0,0,0,0,0,0,0,1,0,0,0,0,0
 Aa! Megami-sama!: Chichaitte Koto wa Benri da ne,940.5,1,0,0,0,0,0,0,1,0,0,0,0
 Trouble Chocolate,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Okane wa Mawaru: Kurashi to Kinyuu,0.0,0,0,0,0,0,0,3,0,0,0,0,0
 HeatGuy J,1360.0,1,0,1,0,0,0,0,0,0,0,0,0
 Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku,1560.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kantoku Fuyuki Todoki,7524.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -929,6 +973,7 @@ Yoru wa Mijikashi Arukeyo Otome,133.5,1,0,0,0,0,0,0,0,0,1,0,0
 Shin Chou Kyou Ryo: Condor Hero II,1574.5,0,1,0,0,1,0,0,0,0,0,0,0
 Yume-iro Pâtissière: Mune Kyun Tropical Island!,526.0,0,0,0,0,0,0,0,0,0,0,1,0
 "Kyou, Koi wo Hajimemasu",5256.0,1,0,0,0,0,0,0,0,0,0,0,0
+Yonimo Osoroshii Grimm Douwa,7579.0,0,0,0,0,0,0,1,0,0,0,0,0
 Hakushon Daimaou,0.0,0,0,0,0,0,0,0,1,0,0,0,0
 Xiao Qian,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Miracle Psychicer Seizan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -962,7 +1007,8 @@ Metal Fight Beyblade: Baku,4453.666666666667,0,1,1,0,1,0,0,0,0,0,0,0
 Ghost in the Shell: Arise - Another Mission,1425.0,0,0,0,0,0,0,0,0,0,0,1,0
 Koi wa Ameagari no You ni,1199.0,1,0,0,0,0,0,0,0,0,0,0,0
 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,2924.5,1,1,0,0,0,0,0,0,0,0,0,0
-Komadori Eiga: Komaneko,0.0,0,0,1,1,0,0,1,0,0,0,0,0
+Madonna (Movie),0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Komadori Eiga: Komaneko,3650.6666666666665,0,0,1,1,0,0,1,0,0,0,0,0
 Fujun Isei Kouyuu: Taisetsu na Kimi e,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Legendz: Yomigaeru Ryuuou Densetsu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Yuri Seijin Naoko-san (2012),7582.0,1,0,0,0,0,0,1,0,0,0,0,0
@@ -974,6 +1020,7 @@ Oyome-sama Honey Days♥,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mutant Turtles: Choujin Densetsu-hen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Transformers Victory,2148.0,0,1,0,0,1,0,0,0,0,0,0,0
 Joker: Marginal City,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Ie Naki Ko Remy Specials,509.0,0,0,0,0,0,0,0,0,0,0,1,0
 Seigi wo Aisuru Mono Gekkou Kamen,0.0,0,0,0,0,0,0,0,1,0,0,0,0
 Overlord Picture Drama,478.0,0,0,0,0,0,0,0,0,0,0,1,0
 Street Fighter IV: Aratanaru Kizuna,2629.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -1005,6 +1052,7 @@ Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen,168.0,0,0,0,0,0,0,0,0,0
 Yoroiden Samurai Troopers Message,4473.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!,1890.0,0,0,0,0,0,0,2,0,0,0,0,0
 Akihabara Dennou-gumi,2129.0,1,1,0,0,0,0,0,0,0,0,0,0
+Coluboccoro,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aru Tabibito no Nikki Specials,2673.0,0,0,0,0,0,0,0,0,0,0,1,0
 Show By Rock!!: Legend of Shingan Crimsonz,5399.5,0,0,0,0,0,0,2,0,0,0,0,0
 Koukaku no Pandora,3326.0,1,0,0,0,0,0,2,0,0,0,0,0
@@ -1017,6 +1065,7 @@ Rockman.EXE,2775.2,2,1,0,0,0,0,0,2,0,0,0,0
 Zan Sayonara Zetsubou Sensei Bangaichi,587.0,1,0,0,0,1,0,0,0,0,0,0,0
 Miss Monochrome: The Animation - Soccer-hen,5691.0,0,0,0,0,0,0,0,0,0,0,1,0
 Hitozuma Life: One Time Gal,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Hana no Kage,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Magical Nyan Nyan Taruto,6129.0,1,0,0,0,0,0,0,0,0,0,0,0
 Masuda Kousuke Gekijou Gag Manga Biyori 2,1655.0,1,1,0,0,1,0,0,0,0,0,0,0
 Yotsunoha,5859.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1025,6 +1074,7 @@ Heavy Object,1834.0,1,0,0,0,0,0,1,0,0,1,0,0
 Owari no Seraph: Kyuuketsuki Shahar,1277.0,1,0,0,0,0,0,0,0,0,0,1,0
 Osomatsu-kun,5826.0,1,0,0,1,0,0,0,0,0,1,0,0
 Scared Rider Xechs,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Catman,3031.5,0,1,1,0,0,0,0,0,0,0,0,0
 Platonic Chain: Web,8060.0,0,0,0,0,0,0,0,0,0,0,1,0
 Night Head Genesis,2059.0,2,0,0,0,0,0,0,0,0,0,0,0
 Muu no Hakugei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1032,7 +1082,7 @@ Shaonian Jinyiwei 2nd Season,12020.0,0,0,0,0,1,0,0,0,0,0,0,0
 D-1 Devastator,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Uchuu Senshi Baldios,5352.0,0,0,0,1,0,0,0,0,0,0,0,0
 Moonlight Mile 2nd Season: Touch Down,1311.0,1,0,0,0,1,0,0,0,0,0,0,0
-Kaguya-hime no Monogatari,0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Kaguya-hime no Monogatari,3458.0,0,0,0,1,0,0,0,0,0,0,0,0
 Ninkuu (Movie),1589.0,1,0,0,0,0,0,0,0,0,0,1,0
 Dream Hazard: Akuma no Program,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumon-bako!,1865.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -1048,6 +1098,7 @@ Bishoujo Senshi Sailor Moon R: The Movie,1887.0,0,0,1,0,0,0,0,0,0,0,1,0
 Hyakka Ryouran: Samurai After,4624.5,0,0,1,0,1,0,0,0,0,0,0,0
 Mahou Shoujo Lyrical Nanoha ViVid,3717.5,1,0,1,0,1,1,0,0,0,0,0,0
 Uma no Friends,1042.0,0,0,0,0,0,0,1,0,0,0,0,0
+Universe,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Zettai Bouei Leviathan,7385.0,0,0,1,0,0,0,0,0,0,0,0,0
 Petit Petit Muse,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hataraku Onii-san!,0.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1069,11 +1120,13 @@ Dropout,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Inagawa Junji no Sugo: Ku Kowai Hanashi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shichinin no Nana,2005.0,1,0,0,0,0,0,1,0,0,0,0,0
 Ai wa Kagi no Kazu dake... Fuuzoku Mansion,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Tengen Toppa Gurren Lagann Movie: Lagann-hen Special - Viral no Amai Yume,41.0,0,0,0,0,0,0,0,0,0,0,1,0
 Hajime no Ippo: Boxer no Kobushi,28.0,1,0,0,0,0,0,0,0,0,0,1,0
 Netoge no Yome wa Onnanoko ja Nai to Omotta?,3278.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shin Tenchi Muyou!,2285.5,0,0,1,1,0,0,0,0,0,0,0,0
 Yojouhan Shinwa Taikei,3205.0,0,0,1,0,0,0,0,0,0,1,0,0
 Samuraider: Nazo no Tenkousei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Maze,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yukiyo Ichiya Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kore wa Zombie Desu ka? of the Dead,988.3333333333334,1,1,0,0,1,0,0,0,0,0,0,0
 Bounty Hunter: The Hard,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1089,6 +1142,7 @@ Munto: Toki no Kabe wo Koete,3227.0,0,0,0,1,1,0,0,0,0,0,0,0
 Pokemon XY: Mega Evolution,1393.0,0,0,0,0,0,0,0,0,0,0,2,0
 Nyan Koi!,2352.0,1,0,0,0,0,0,0,0,0,0,0,0
 Eguchi Hisashi no Nantoka Narudesho!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Akai Kutsu! Onnanoko!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Accel World: Infinite∞Burst,1545.0,0,0,0,0,0,0,1,0,0,0,0,0
 Puchimas!: Petit iDOLM@STER Episode 0,2740.0,1,1,0,0,0,0,0,0,0,0,0,0
 Umi no Mizu wa Naze Karai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1125,6 +1179,7 @@ Dokidoki♡Densetsu: Mahoujin Guruguru,1044.0,1,0,0,0,1,0,0,0,0,0,0,0
 Muybridge no Ito,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Terra e... (TV) Specials,2944.0,1,0,0,0,0,0,0,0,0,0,1,0
 Shoujo Senki Soul Eater,12919.0,0,0,0,0,0,0,0,0,0,1,0,0
+Good Morning,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Anime Oyako Gekijou,6800.0,0,1,0,0,0,0,0,0,0,0,0,0
 Hanamaru Youchien,4034.5,1,0,1,0,0,1,0,0,1,0,0,0
 Perman,3099.0,0,1,1,0,0,0,0,0,0,0,0,0
@@ -1137,10 +1192,12 @@ Mashin Eiyuuden Wataru 2,0.0,0,1,0,0,1,0,0,0,0,0,0,0
 Dragon Pink,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Quiz Magic Academy: The Original Animation,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 ViVid Strike!,4293.0,0,0,1,0,0,0,0,0,0,0,1,0
+Basilisk: Ouka Ninpouchou,4375.5,1,0,0,0,1,0,0,0,0,0,0,0
 Sonic: Night of the WereHog,4808.0,0,0,0,0,0,0,0,0,2,0,0,0
 Chibo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Saraiya Goyou,725.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kimi no Kokoro wa Kagayaiteru kai?,1325.3333333333333,0,0,0,0,0,0,2,0,0,0,1,0
+The TV Show,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dororon Enma-kun,4751.333333333333,1,0,0,2,0,0,0,0,0,0,0,0
 Lupin III: Green vs. Red,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ling Qi,1330.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1157,7 +1214,7 @@ Baby Princess 3D Paradise 0 [Love],0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Maid Ane,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Ore ga Ojousama Gakkou ni ""Shomin Sample"" Toshite Gets♥Sareta Ken",0.0,1,0,1,0,0,0,0,0,0,0,0,0
 Love Bitch: Yasashii Onna,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Rokujouma no Shinryakusha!? (TV),0.0,1,0,0,0,0,0,1,0,0,0,0,0
+Rokujouma no Shinryakusha!? (TV),4549.0,1,0,0,0,0,0,1,0,0,0,0,0
 Taiyou no Yuusha Fighbird,2759.4285714285716,0,0,0,0,0,0,0,0,7,0,0,0
 Hey! Bumboo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Seven AO: Aratanari Fukaki Ao,4265.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -1215,10 +1272,12 @@ Futari Daka,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Cream Lemon,7191.5,0,0,2,1,0,0,0,1,0,0,0,0
 Kidou Keisatsu Patlabor: New OVA,2786.0,0,0,0,0,1,0,1,0,0,0,0,0
 Rockman.EXE Axess,3163.0,0,1,0,0,1,0,0,0,0,0,0,0
+Hikaru no Go: Tokubetsu-hen - Sabaki no Ichikyoku! Inishie no Hana yo Sake!!,349.0,0,0,0,1,0,0,0,0,0,0,0,0
 Marvel Disk Wars: The Avengers,8428.5,0,0,0,0,0,0,0,0,2,0,0,0
 Mobile Suit Gundam 0080: War in the Pocket,977.0,1,1,1,0,1,0,0,0,0,0,0,0
 Kamisama no Memochou,1247.0,1,0,0,0,0,0,0,0,0,0,0,0
 Soccer Fever,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Detective Conan OVA 05: The Target is Kogoro! The Detective Boys&#039; Secret Investigation,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Crusher Joe OVA,3805.0,0,0,0,0,1,0,0,0,0,0,0,0
 Cinderella Boy,6178.0,1,0,0,0,0,0,0,0,0,0,0,0
 Masaru Ashita no Yukinojou 2,0.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -1234,6 +1293,7 @@ Tantei Opera Milky Holmes Dai 2 Maku,5540.0,0,1,0,1,1,0,0,0,0,0,0,0
 Huyao Xiao Hongniang: Wangquan Fugui,1889.0,1,1,0,0,1,0,0,0,0,0,0,0
 Detective Conan: A Written Challenge from the Pyramids!,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Precure All Stars Movie: Haru no Carnival♪ - Ima Koko kara,2586.0,0,0,0,0,0,0,2,0,0,0,0,0
+Great Rabbit,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Love Position: Halley Densetsu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tatakae! Chou Robot Seimeitai Transformers,3639.0,0,1,1,0,0,0,1,2,3,0,0,0
 Stella Jogakuin Koutou-ka C³-bu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1244,6 +1304,7 @@ Koihime,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 Juuni Senshi Bakuretsu Eto Ranger,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi,0.0,0,0,0,0,0,0,1,0,0,0,1,0
 Hunter x Hunter Movie 1: Phantom Rouge,4.0,1,0,0,0,0,0,0,0,0,0,1,0
+Shigeo wa Handsome,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ichinen Buri no The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hitozuma Koukan Nikki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 M3: Sono Kuroki Hagane Recap,4803.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1315,7 +1376,7 @@ Bakegyamon,4387.0,1,0,0,0,0,0,0,0,0,0,0,0
 Eightman,3108.0,1,1,0,0,0,0,0,0,0,0,0,0
 Dirty Pair Flash 2,2196.5,0,1,0,0,1,0,0,0,0,0,0,0
 Seitokaichou Hikaru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Domo-kun,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+Domo-kun,5911.0,0,0,1,0,0,0,0,0,0,0,0,0
 Planetarian: Hoshi no Hito,1357.0,1,0,0,0,1,0,0,0,0,0,0,0
 Teizokurei Daydream,6328.0,1,0,0,0,0,0,0,0,0,0,0,0
 Comet Lucifer,6849.0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -1357,6 +1418,7 @@ Planetes,95.0,1,0,0,0,0,0,1,0,0,0,0,0
 Nekota no Koto ga Kininatte Shikatanai. (ONA),6134.0,1,0,0,0,0,0,1,0,0,0,0,0
 "Kono Danshi, Sekika ni Nayandemasu.",2496.0,0,0,0,0,0,0,3,0,0,0,0,0
 Mimi wo Sumaseba,435.5,1,0,0,0,0,0,0,1,0,0,0,0
+Geori-eui Mubeopja,3059.0,0,0,0,0,0,0,1,0,0,0,0,0
 Hatsukoi Limited.: Gentei Shoujo,2019.0,1,0,0,0,0,0,0,0,0,0,1,0
 Esper Mami,3952.6666666666665,1,0,2,0,0,0,0,0,0,0,0,0
 One Piece: Straw Hat Theater,0.0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -1366,7 +1428,7 @@ Ninja Slayer From Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Battle Spirits: Sword Eyes Gekitouden,4132.5,0,1,0,0,1,0,0,0,0,0,0,0
 Fireball Charming,4393.0,0,1,0,0,0,0,0,0,0,0,0,0
 Futakoi Alternative,4420.0,1,0,0,1,0,0,0,0,0,0,0,0
-Persona 3 the Movie 1: Spring of Birth,1538.5,1,1,0,0,0,0,1,0,3,0,0,0
+Persona 3 the Movie 1: Spring of Birth,1913.6666666666667,1,1,0,0,0,0,1,0,3,0,0,0
 Sacred Seven: Shirogane no Tsubasa,5764.0,0,0,0,0,0,0,0,1,0,0,1,0
 Petting a Dog,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tsuki no Sango,6812.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1403,6 +1465,7 @@ Mini Sengoku Basara: Chousokabe-kun to Mouri-kun,2683.0,0,1,0,0,0,0,0,0,0,0,1,0
 Ghost Sweeper GS Mikami,0.0,1,0,1,0,0,0,0,0,0,0,0,0
 Kitakubu Katsudou Kiroku,2121.0,1,0,1,0,0,0,0,0,0,0,0,0
 The iDOLM@STER Live For You!,1090.0,0,0,0,1,0,0,0,0,0,0,0,0
+Nudl Nude 2,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Futari wa Precure,2469.36,2,1,0,0,0,0,3,6,13,0,0,0
 Seikimatsu★Darling,5776.0,1,0,0,0,0,0,0,0,0,0,0,0
 Oushitsu Kyoushi Heine,1413.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1457,7 +1520,7 @@ Arslan Senki (TV),3825.5714285714284,1,1,2,1,0,1,1,0,0,0,0,0
 Sonic X,5465.666666666667,0,0,0,0,0,0,1,0,2,0,0,0
 Hoshi no Koe,2024.0,1,0,0,0,0,0,0,0,0,0,0,0
 Chou Kuse ni Narisou,5592.0,1,0,0,0,0,0,0,0,0,0,0,0
-Qin Shi Ming Yue: Wanli Changcheng,3107.8333333333335,0,1,0,0,1,0,0,4,0,0,0,0
+Qin Shi Ming Yue: Wanli Changcheng,5083.0,0,1,0,0,1,0,0,4,0,0,0,0
 Gunslinger Girl: Il Teatrino OVA,2111.0,1,0,0,0,1,0,0,0,0,0,0,0
 Bakutou Sengen Daigunder,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Meiken Jolie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1467,6 +1530,7 @@ Jormungand: Perfect Order,1173.0,1,0,0,0,2,0,0,0,0,0,0,0
 Tales of Symphonia The Animation: Tethe&#039;alla-hen Specials,1365.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu,4448.0,0,0,0,0,0,0,0,0,0,0,1,0
 Boku no Chikyuu wo Mamotte,3713.3333333333335,1,0,0,0,0,1,1,0,0,0,0,0
+Nil Admirari no Tenbin,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Montana Jones,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 I: Wish You Were Here,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kaichou wa Maid-sama!: Omake dayo!,314.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -1508,12 +1572,13 @@ Starmyu 2nd Season,1912.8,1,1,2,0,1,0,0,0,0,0,0,0
 Kara no Kyoukai 6: Boukyaku Rokuon,1417.8,1,1,0,0,1,1,1,0,0,0,0,0
 00:08,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Guomin Laogong Dai Huijia 2nd season,5644.0,1,1,0,0,1,0,0,0,0,0,0,0
-Jungle Taitei,3686.8571428571427,1,1,2,2,0,0,0,0,1,0,0,0
+Jungle Taitei,4566.285714285715,1,1,2,2,0,0,0,0,1,0,0,0
 Gamers!,2609.0,1,0,0,0,0,0,0,0,0,0,0,0
 Golden Time,715.0,1,0,0,0,0,0,0,0,0,0,0,0
 Maria-sama ga Miteru 3rd,1299.75,1,1,1,0,1,0,0,0,0,0,0,0
 Five Star Stories,4700.0,1,0,0,0,0,0,0,0,0,0,0,0
 Rance 01: Hikari wo Motomete The Animation,12919.0,0,0,1,1,0,0,0,0,0,0,0,0
+Double Hard,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chinpui,2260.6666666666665,1,0,2,0,0,0,0,0,0,0,0,0
 Scandal,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Jewelpet Sunshine,2958.4,0,1,0,0,1,0,0,0,3,0,0,0
@@ -1525,10 +1590,12 @@ Persona 4 the Animation: Mr. Experiment Shorts,1278.0,0,0,0,0,0,0,1,0,0,0,0,0
 Nuwa Chengzhang Riji,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chengyu Donghua Lang,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tokubetsu Byoutou,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
+Youbi Masochist Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dark Shell: Ori no Naka no Namameki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 DušaN,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nyanbo!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Submarine 707R,0.0,1,1,0,0,0,0,0,0,0,0,0,0
+Nanatsu no Hoshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bikini Warriors OVA,6459.5,0,1,0,0,1,0,0,0,0,0,0,0
 Hakkenden: Touhou Hakken Ibun,1221.0,1,1,0,0,0,0,0,0,0,0,0,0
 Kobutori (1929),0.0,0,0,0,2,0,0,0,0,0,0,0,0
@@ -1588,6 +1655,7 @@ Lovely Day: Boku to Kanojo no Nana Nichikan,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Futari wa Precure: Max Heart Movie 1,1726.0,1,0,0,0,0,0,0,0,0,0,1,0
 Mahou Shoujo Lyrical Nanoha: Lyrical Toy Box,4100.0,0,0,0,1,0,0,0,0,0,0,1,0
 Majin Bone,4363.0,1,0,0,0,0,0,0,0,0,0,0,0
+Joukyuusei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Brandish,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Saki Achiga-hen: Episode of Side-A Specials,1288.0,1,0,0,0,1,0,0,0,0,0,1,0
 Ohoshisama no Rail,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1602,6 +1670,7 @@ Fullmetal Alchemist: Brotherhood,802.6,1,0,2,1,0,0,0,1,0,0,0,0
 Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer,168.0,1,0,0,0,1,0,0,0,0,0,0,0
 Next A-Class,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Catblue: Dynamite,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Coffee Tadaiku,8940.0,0,0,0,0,0,0,1,0,0,0,0,0
 Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,2417.0,1,0,0,0,0,0,1,0,0,0,0,0
 Hetalia Axis Powers Fan Disc,1147.0,1,0,0,0,0,0,0,0,0,0,1,0
 Persona 3 the Movie Meets “Walkman”,405.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -1634,7 +1703,7 @@ Capricorn,8246.0,1,0,0,0,0,0,0,0,0,0,0,0
 Monster Strike,1873.0,0,1,1,0,2,0,0,0,0,0,0,0
 69 Pink Riders,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 All Out!!,2757.0,1,0,0,0,0,0,0,0,0,0,0,0
-Katekyo Hitman Reborn!,1425.75,1,0,2,0,0,0,1,0,0,0,0,0
+Katekyo Hitman Reborn!,1708.75,1,0,2,0,0,0,1,0,0,0,0,0
 Bokurano Recap,981.0,0,0,0,0,0,0,0,0,0,0,0,1
 Sunabouzu,1586.0,1,0,0,0,0,0,0,0,0,0,0,0
 Aria The Natural: Sono Futatabi Deaeru Kiseki ni...,134.5,1,0,0,0,0,0,0,0,0,0,1,0
@@ -1646,6 +1715,7 @@ Fairy Tail (2014),604.6666666666666,2,1,1,0,1,0,1,0,0,0,0,0
 Anime Tenchou Movie,5513.5,0,0,0,0,0,0,1,0,0,1,0,0
 Diamond no Ace: Second Season,674.3333333333334,1,0,1,0,1,0,0,0,0,0,0,0
 Gokujou Seitokai,3498.0,1,0,0,0,0,0,0,0,0,0,0,0
+Mahou Shoujo Pretty Sammy Specials,4152.0,0,0,0,0,0,0,0,0,0,0,1,0
 3-gatsu no Lion Recap,148.0,1,0,0,0,0,0,0,0,0,0,0,1
 Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi,9672.0,0,1,0,0,0,0,0,0,0,0,0,0
 Tower of Etruria,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1696,8 +1766,10 @@ Glory Days,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Doupo Cangqiong,0.0,1,2,0,0,0,0,0,0,0,0,0,0
 Pretty x Cation The Animation,12919.0,0,0,0,0,0,0,2,0,0,0,0,0
 Tytania,4014.0,1,0,0,0,0,0,0,0,0,0,0,0
+Ojamajo Doremi OVA,2352.0,0,0,0,0,0,0,0,0,0,0,1,0
 Imouto de Ikou!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Birth,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Made in Japan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Honoo no Haramase Paidol My★Star Gakuen Z The Animation,4306.333333333333,1,0,0,0,0,0,1,0,1,0,0,0
 MahoYome,119.0,0,0,0,0,1,0,0,0,0,0,1,0
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,1698.25,1,1,2,0,0,0,0,0,0,0,0,0
@@ -1742,13 +1814,14 @@ Carnival Phantasm EX Season,292.5,1,0,0,0,0,0,0,0,0,0,1,0
 Girls & Panzer Specials,1217.0,0,0,0,0,0,0,0,0,0,0,1,0
 Atashin&#039;chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou,2060.0,1,0,0,0,0,0,0,0,0,0,1,0
 Cosmo Warrior Zero Gaiden,4922.0,0,0,0,0,1,0,0,0,0,0,0,0
-Girls & Panzer Movie Specials,77.5,0,1,0,0,1,0,0,0,0,0,0,0
+Girls & Panzer Movie Specials,214.0,0,1,0,0,1,0,0,0,0,0,0,0
 Gundam Build Fighters Try,2663.75,0,1,1,0,2,0,0,0,0,0,0,0
 Air Gear Special,1233.0,1,0,0,0,0,0,0,0,0,0,1,0
 Hidamari Sketch x 365,803.6,1,1,0,0,1,1,1,0,0,0,0,0
 Clannad: After Story,1071.0,0,0,0,1,1,0,0,0,1,0,0,0
 Kochira Katsushikaku Kameari Kouenmae Hashutsujo (TV),2307.2,1,0,2,1,0,0,10,0,0,1,0,0
 Change!! Getter Robo: Sekai Saigo no Hi,2424.6666666666665,2,0,0,1,0,0,0,0,0,0,0,0
+High School DxD Hero,2070.0,1,0,0,0,2,0,0,0,0,0,0,0
 Mashou no Nie 3,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Onegai♪My Melody Kirara★,3277.0,0,0,0,0,1,0,0,0,0,0,0,0
 Watashi ga Motete Dousunda,2001.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1758,7 +1831,7 @@ One Piece Movie 7: Karakuri-jou no Mecha Kyohei,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tanken Driland: 1000-nen no Mahou,5739.0,0,0,0,0,0,0,0,0,1,0,0,0
 Scrapped Princess,1704.0,1,0,0,0,0,0,0,0,0,0,0,0
 Denpa Onna to Seishun Otoko: Mayonaka no Taiyou,2517.0,0,0,0,0,1,0,0,0,0,0,0,0
-Grancrest Senki Tsuisou,0.0,0,0,0,0,0,0,0,0,0,0,0,1
+Grancrest Senki Tsuisou,4621.0,0,0,0,0,0,0,0,0,0,0,0,1
 Yumedamaya Kidan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ring ni Kakero 1: Kage Dou-hen,2933.3333333333335,1,1,0,0,1,0,0,0,0,0,0,0
 Shoujo Shuumatsu Jugyou,328.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -1768,11 +1841,14 @@ Little Nemo,0.0,0,0,0,0,0,0,2,0,0,0,0,0
 Mutsugo to Ouma no Monogatari,3086.0,0,0,0,0,0,0,3,0,0,0,0,0
 Brotherhood: Final Fantasy XV,1223.0,0,0,0,0,1,0,0,0,0,0,0,0
 Witch Craft Works,3677.0,1,0,2,0,0,0,0,0,0,0,0,0
+Kataku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Naisho no Wakana-san,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rokudenashi Blues,6332.0,1,1,0,0,0,0,0,0,0,0,0,0
 Makeruna!! Aku no Gundan!,8672.0,1,0,0,0,0,0,0,0,0,0,0,0
 Youkai Apartment no Yuuga na Nichijou,2911.0,1,0,0,0,0,0,0,0,0,0,0,0
 Blame!,6475.75,1,2,0,1,0,0,0,0,0,0,0,0
+Omae wa Mada Gunma wo Shiranai,8726.0,1,0,0,0,0,0,0,0,0,0,0,0
+Fusha no Sha,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mikagura Tanteidan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yousei Hime Ren,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Galilei Donna,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1821,6 +1897,7 @@ Wonder Momo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nishi no Yoki Majo: Astraea Testament,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Noraneko,377.0,0,0,0,0,0,0,1,0,0,0,0,0
 Geisters: Fractions of the Earth,0.0,0,0,0,2,0,0,0,0,0,0,0,0
+Qin Shi Ming Yue: Tian Xing Jiu Ge,4204.714285714285,0,0,1,0,0,0,0,0,0,6,0,0
 Spider Riders: Yomigaeru Taiyou,4732.0,0,0,0,0,1,0,0,0,0,0,0,0
 Tentou Mushi no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Peut-etre Toi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1904,6 +1981,7 @@ Kyuuketsuhime Miyu,1392.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kuroko no Basket: Mou Ikkai Yarimasen ka,146.0,1,0,0,0,0,0,0,0,0,0,1,0
 Strait Jacket,3886.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kanojo ga Nekomimi ni Kigaetara,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Dekobou Shingachou: Meian no Shippai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kenzen Robo Daimidaler,3274.5,1,0,1,0,0,0,0,0,0,0,0,0
 Yokoyama Mitsuteru Sangokushi,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gakuen Sodom,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1934,6 +2012,7 @@ Mokei Senshi Gunpla Builders Beginning G,710.5,0,0,0,0,0,0,2,0,0,0,0,0
 Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future,2350.0,0,0,0,0,1,0,0,0,0,0,0,0
 Koi-ken!: Watashitachi Anime ni Nacchatta!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Babel Nisei (OVA),6458.0,1,0,0,2,0,0,0,0,0,0,0,0
+Renshenguo,2261.0,0,1,0,0,1,0,0,0,0,0,0,0
 Yume Tsukai,5541.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kanojo ga Flag wo Oraretara OVA,5334.0,1,0,0,0,0,0,0,0,0,0,1,0
 Seisai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1948,7 +2027,7 @@ Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning,0.0,0,0,0,0,0,0,0,0
 Musaigen no Phantom World,4696.333333333333,1,1,0,0,0,0,0,1,0,0,0,0
 Mizuiro,9246.0,1,0,0,1,0,0,0,0,0,0,0,0
 "Suisei no Gargantia: Meguru Kouro, Haruka",1618.0,1,0,0,0,1,0,0,0,0,0,0,0
-Rurouni Kenshin: Meiji Kenkaku Romantan,1798.2727272727273,1,1,4,2,1,1,1,0,0,0,0,0
+Rurouni Kenshin: Meiji Kenkaku Romantan,2053.6363636363635,1,1,4,2,1,1,1,0,0,0,0,0
 Samurai Deeper Kyou,3578.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Gundam: The 08th MS Team - Miller&#039;s Report,438.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shugo Chara!,1492.0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -1999,17 +2078,19 @@ Steins;Gate: Soumei Eichi no Cognitive Computing,5.0,0,0,0,0,0,0,1,0,0,0,0,0
 Oda Nobuna no Yabou Recap,1307.0,0,0,0,0,0,0,0,0,0,0,0,1
 Light Lag,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shitamachi Alien PapiPipiPupi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Arakure Junichi no Namida,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gekkan Shoujo Nozaki-kun,524.0,1,0,1,0,0,0,0,0,0,0,0,0
 Shakugan no Shana Specials,1824.0,0,1,0,0,0,0,0,0,0,0,1,0
 One Piece: Taose! Kaizoku Ganzack,2103.5,1,0,0,0,0,0,0,0,0,0,1,0
 Bakuman. 2nd Season Special,108.0,0,0,0,0,0,0,1,0,0,0,0,0
-Superflat First Love,0.0,0,0,0,0,1,0,0,0,0,0,0,0
-Dr. Slump: Arale-chan,1527.5,1,0,11,1,0,0,1,1,5,0,0,0
+Superflat First Love,4988.0,0,0,0,0,1,0,0,0,0,0,0,0
+Dr. Slump: Arale-chan,1911.8,1,0,11,1,0,0,1,1,5,0,0,0
 Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey,852.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sidonia no Kishi,1266.0,1,1,0,0,0,1,0,0,0,0,0,0
 Angel Beats!: Another Epilogue,227.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sex Pistols,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu,2396.0,0,0,0,0,0,0,1,0,0,0,0,0
+Hyoutan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Makaryuudo Demon Hunter,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Grisaia no Kajitsu,1366.6666666666667,1,1,1,0,0,0,0,0,0,0,0,0
 Binkan Athlete,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2050,6 +2131,7 @@ Ookami Shoujo to Kuro Ouji,3435.75,1,0,1,0,0,1,1,0,0,0,0,0
 Final Fantasy: Unlimited,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yutori-chan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Gundam ZZ: Gundam Frag.,4504.0,0,0,0,0,0,0,0,0,0,0,1,0
+Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special,3734.0,0,0,0,0,0,0,0,0,0,0,1,0
 Maken-Ki! OVA,5491.0,1,1,0,0,1,0,0,0,0,0,0,0
 High School DxD OVA,1095.5,0,1,0,0,1,0,0,0,0,0,0,0
 Itsuka Tenma no Kuro Usagi,3354.25,1,0,1,0,0,0,2,0,0,0,0,0
@@ -2076,11 +2158,13 @@ Ikoku Meiro no Croisée: Yune & Alice,1729.0,0,0,0,0,0,0,1,0,0,0,0,0
 Onegai☆Twins,2826.5,1,1,0,0,0,0,0,0,0,0,2,0
 Rasen Sokou no Dystopia,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Battle Athletess Daiundoukai (TV),2595.5,1,0,0,1,0,0,0,0,0,0,0,0
+Choujikuu Robo Meguru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 VitaminX Addiction,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kowaremono The Animation,12919.0,1,0,0,0,0,0,1,0,0,0,0,0
 Apfelland Monogatari,7166.0,1,0,0,0,0,0,0,0,0,0,0,0
 Egao no Hana,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kaiba,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Rokujouma no Shinryakusha!?,3511.0,1,0,0,1,0,0,0,0,0,0,0,0
 Bakusou Kyoudai Let&#039;s & Go MAX,1663.0,1,0,0,0,1,0,0,0,0,0,0,0
 Joshikousei: Girl&#039;s High Specials,4969.0,0,0,0,0,0,0,0,0,0,0,1,0
 Robin-kun to 100 nin no Otomodachi Season 2,0.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -2094,7 +2178,7 @@ Yurumates 3D OVA,5911.0,1,0,0,0,0,0,0,0,0,0,2,0
 Dennou Boukenki Webdiver,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuusha Exkaiser,2424.8571428571427,0,0,0,0,0,0,0,0,7,0,0,0
 Pokemon: Meloetta no Kirakira Recital,5098.5,0,0,0,0,0,0,1,0,0,0,1,0
-Hakuouki,1761.4166666666667,4,1,2,1,1,1,2,0,0,0,0,0
+Hakuouki,1871.8333333333333,4,1,2,1,1,1,2,0,0,0,0,0
 Sushi Police,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,6246.5,1,0,1,0,0,0,0,0,0,0,0,0
 Jungle de Ikou!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2117,6 +2201,7 @@ DD Hokuto no Ken 2 Ichigo Aji+,2742.4,2,0,0,0,0,0,3,0,0,0,0,0
 Time Bokan Series: Yatterman,2512.75,0,0,0,1,0,0,1,0,1,1,0,0
 Pokemon: Pikachu no Natsuyasumi,1575.5,0,0,0,0,0,0,1,0,0,0,1,0
 It&#039;s a Rumic World: 50th Anniversary Weekly★Shonen Sunday,836.3333333333334,0,0,0,0,0,0,0,0,3,0,0,0
+Hinomaru Hatanosuke: Bakemonoyashiki no Maki,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Yaruki Manman,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 Boku to Misaki-sensei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Monkey Punch: Manga Katsudou Daishashin,0.0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -2174,6 +2259,7 @@ Log Horizon Recap,448.0,0,0,0,0,0,0,0,0,0,0,0,1
 Pia Carrot e Youkoso!!,8683.0,0,1,1,1,0,0,0,0,0,0,0,0
 Hi Gekiga Ukiyoe Senya Ichiya,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 R-15,4666.0,1,1,0,0,0,0,0,0,0,0,0,0
+Dragon Ball Z: Summer Vacation Special,3324.6363636363635,0,0,1,0,0,0,0,0,0,0,0,10
 Custom Reido,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tsurikichi Sanpei,3018.0,1,0,0,0,0,0,0,0,0,0,0,0
 Makiba no Shoujo Katri,0.0,0,0,0,0,0,1,0,0,0,0,0,0
@@ -2204,13 +2290,14 @@ Oniisama e...,800.0,1,0,0,0,0,0,0,0,0,0,0,0
 Glass no Kamen Desu ga,514.25,1,1,0,0,0,0,2,0,0,0,0,0
 Kamen Rider Den-O: Imagin Anime 2,5192.5,0,1,0,0,1,0,0,0,0,0,0,0
 """0""",0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Utsukushii Hoshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Binetsu Hime: Zange no Shou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Afro Samurai Pilot,1959.0,0,0,0,0,0,0,1,0,0,0,0,0
 Mahou no Princess Minky Momo: Yume no Naka no Rondo,2181.0,0,0,1,0,0,0,0,0,0,0,1,0
 Sakura Nagashi,1240.0,0,0,0,0,0,0,1,0,0,0,0,0
 Ero Semi: Ecchi ni Yaruki ni ABC - The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shining☆Romance,3222.5,0,0,0,0,0,0,2,0,0,0,0,0
-Mahou Shoujo Pretty Sammy (1996),2980.25,0,0,1,2,0,0,0,1,0,0,0,0
+Mahou Shoujo Pretty Sammy (1996),4528.75,0,0,1,2,0,0,0,1,0,0,0,0
 Evil or Live Recap,7364.0,0,0,0,0,0,0,0,0,0,0,0,1
 Doraemon Movie 04: Nobita no Kaitei Kiganjou,258.5,1,0,0,0,0,0,2,0,0,0,1,0
 Arc the Lad,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2218,6 +2305,7 @@ Saint Beast: Seijuu Kourin-hen,5737.666666666667,0,0,1,0,1,0,0,0,0,1,0,0
 Seton Doubutsuki,4637.0,0,0,0,0,0,0,0,0,1,0,0,0
 Francesca,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shiiku x Kanojo: Tenshi no Kousoku-hen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Sengoku Majin Goushougun: Toki no Etranger,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Momoiro Bouenkyou Anime Edition,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gintama x Mameshiba,1348.5,0,0,0,0,0,0,1,0,0,0,1,0
 Akame ga Kill! Recap,869.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2227,7 +2315,7 @@ Detective Conan Movie 08: Time Travel of the Silver Sky,300.0,0,0,0,0,0,0,0,0,0,
 Majimoji Rurumo,3883.0,1,0,0,0,0,0,0,0,0,0,0,0
 Aoki Densetsu Shoot!,1990.0,1,1,0,0,0,0,0,0,0,0,0,0
 SF Saiyuuki Starzinger,0.0,0,0,1,0,0,0,0,0,0,0,0,0
-Robotics;Notes,2721.8333333333335,1,0,0,0,0,0,0,0,5,0,0,0
+Robotics;Notes,2722.5,1,0,0,0,0,0,0,0,5,0,0,0
 Kino no Tabi: The Beautiful World - Tou no Kuni,140.0,1,0,0,0,0,0,0,0,0,0,1,0
 Haitai Nanafa 2nd Season,7112.0,0,0,0,0,1,0,0,0,0,0,0,0
 Hibike! Euphonium Movie: Kitauji Koukou Suisougaku-bu e Youkoso,967.0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -2239,6 +2327,7 @@ Captain Earth,5707.0,1,0,0,0,0,0,0,0,0,0,0,0
 Sukitte Ii na yo.: Dareka ga,588.5,1,0,0,0,1,0,0,0,0,0,0,0
 Saki Biyori Animation,752.5,1,0,0,0,0,0,0,0,0,0,1,0
 Kiddy Grade: Ignition,2570.5,0,1,0,0,0,0,0,0,0,0,0,1
+Rurouni Kenshin DVD-BOX Special Ending,168.0,1,0,0,0,0,0,0,0,0,0,1,0
 Wakaba*Girl: Onsen Tsukaritai,3723.0,0,0,0,0,1,0,0,0,0,0,0,0
 .hack//Gift,3980.0,0,0,0,0,0,0,0,0,0,0,2,0
 Suteki Tantei Labyrinth,4088.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -2255,7 +2344,7 @@ Mottainai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shikatte Ingo: Misaki Shunin no Buka Kyouiku-hen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Binan Koukou Chikyuu Boueibu LOVE! LOVE! LOVE!,920.3333333333334,1,1,0,0,1,0,0,0,0,0,0,0
-Mobile Suit Gundam 0083: Stardust Memory,785.8571428571429,2,1,2,0,1,0,0,0,1,0,0,0
+Mobile Suit Gundam 0083: Stardust Memory,1772.0,2,1,2,0,1,0,0,0,1,0,0,0
 Spirit of Wonder: Shounen Kagaku Club,1517.0,1,0,1,0,1,0,0,0,0,0,0,0
 Yuru Yuri Nachuyachumi!,891.6666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Four Seasons: Fuuka to Nanami,0.0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -2263,7 +2352,7 @@ Tsubasa: Shunraiki,182.66666666666666,1,0,1,0,1,0,0,0,0,0,0,0
 Michi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sin: The Movie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Usagi-chan de Cue!!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Mahoutsukai Tai! OVA,1307.3333333333333,1,2,0,0,0,0,0,0,0,0,0,0
+Mahoutsukai Tai! OVA,3297.0,1,2,0,0,0,0,0,0,0,0,0,0
 Yariman Fudousan,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tom Sawyer no Bouken,5172.5,0,0,1,0,0,1,0,0,0,0,0,0
 Words Worth Gaiden,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -2273,7 +2362,7 @@ Kaze no Shoujo Emily,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Toki wa Meguru: Tokyo Station,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gakkou no Kaidan,1579.0,0,0,1,0,0,1,0,0,0,0,0,0
 Tokyo Underground,4776.0,1,0,0,0,0,0,0,0,0,0,0,0
-Queen&#039;s Blade: Rebellion,2818.3333333333335,3,1,1,0,2,0,0,0,1,1,0,0
+Queen&#039;s Blade: Rebellion,3563.5555555555557,3,1,1,0,2,0,0,0,1,1,0,0
 Ikkitousen,4603.5,1,1,0,0,0,0,0,0,0,0,0,0
 Shuukaku no Yoru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Abunai Sisters: Koko & Mika,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2301,6 +2390,7 @@ Kore wa Zombie Desu ka?,789.0,1,1,0,0,0,0,0,0,0,0,0,0
 Suzuka,3490.0,1,1,0,0,0,0,0,0,0,0,0,0
 Futari no Aniyome,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kinkyuu Hasshin Saver Kids,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Nakedyouth,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nagareboshi Lens,5473.5,1,0,0,1,0,0,0,0,0,0,0,0
 Hidamari Sketch x SP,1008.3333333333334,1,1,0,0,1,0,0,0,0,0,0,0
 Hatsune Miku: Hiyashite Narasou Okashi no Ii Oto,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2308,6 +2398,7 @@ Garon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kure-nai,2518.6666666666665,2,0,0,0,0,0,0,0,1,0,0,0
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,1077.0,1,1,0,0,0,0,0,0,0,0,0,0
 Calimero,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Red Colored Bridge,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Koihime†Musou OVA,4183.5,0,1,0,0,0,0,0,1,0,0,0,0
 Ai Shimai Tsubomi... Kegashite Kudasai,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Digimon Adventure,2814.2,1,1,1,0,1,0,1,5,0,0,0,0
@@ -2320,17 +2411,20 @@ Kimi to Boku. 2,878.0,1,0,0,0,1,0,0,0,0,0,0,0
 Paul no Miracle Daisakusen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Prison School,970.5,1,1,0,0,0,0,0,0,0,0,0,0
 Kemono to Chat,6792.0,1,0,0,0,0,0,0,0,0,0,0,0
+Karo to Piyobupt: Ouchi,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Soutai Sekai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi,1213.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bastard!!: Ankoku no Hakaishin,4023.0,1,0,0,0,0,0,0,0,0,0,0,0
 Arslan Senki (TV): Fuujin Ranbu,3845.5,1,0,1,0,1,0,1,0,0,0,0,0
+Kuro Nyago,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Vampire Knight: Guilty,2447.0,1,0,0,0,1,0,0,0,0,0,0,0
 Rin x Sen + Ran -> Sem: Cross Mix,12919.0,0,0,0,0,2,0,0,0,0,0,0,0
-Mobile Suit Gundam,2591.404761904762,4,2,6,1,0,6,12,10,0,1,0,0
+Mobile Suit Gundam,2776.3333333333335,4,2,6,1,0,6,12,10,0,1,0,0
 Sagurare Otome The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Wellber no Monogatari: Sisters of Wellber Zwei,4605.0,0,0,0,0,1,0,0,0,0,0,0,0
 Space Adventure Cobra,434.0,1,0,0,1,0,0,0,0,0,0,0,0
 Corrector Yui,3902.0,2,0,0,0,0,0,0,0,0,0,0,0
+Kujira (1952),0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Armitage III: Dual-Matrix,2990.0,0,0,0,0,1,0,0,0,0,0,0,0
 Requiem,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shuumatsu no Izetta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2347,6 +2441,7 @@ Last Waltz: Hakudaku Mamire no Natsu Gasshuku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Wonder (Movie),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hakujaden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kino no Tabi: The Beautiful World - The Animated Series,140.0,1,0,0,1,0,0,0,0,0,0,0,0
+Perfect Day,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Seikon no Qwaser Picture Drama,4724.0,0,0,0,0,0,0,0,0,0,0,1,0
 Juusenki L-Gaim,0.0,0,0,0,0,0,2,1,0,0,0,0,0
 Starship Troopers: Invasion,5676.0,0,1,0,1,0,0,0,0,0,0,0,0
@@ -2413,6 +2508,7 @@ Space☆Dandy 2nd Season Picture Drama,3635.5,0,0,0,0,0,0,2,0,0,0,0,0
 Astroganger,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fullmetal Alchemist: Premium Collection,687.5,0,0,0,0,0,0,0,0,0,0,2,0
 Buddy Spirits,8746.0,1,0,0,0,0,0,0,0,0,0,0,0
+Natsu no Shisen 1942,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tiger Mask Nisei,2621.0,1,1,0,0,1,0,0,0,0,0,0,0
 Kenpuu Denki Berserk,2183.2,1,1,0,3,0,0,0,0,0,0,0,0
 Binetsukko ♭37℃ The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -2462,7 +2558,7 @@ Two Car,8010.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kanojo wa Dare to demo Sex Suru.,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Dragon Ball,1876.2727272727273,1,2,0,5,0,0,0,1,0,2,0,0
 Shingetsutan Tsukihime,2005.5,1,0,0,0,0,0,0,0,0,1,0,0
-Hellsing,480.3333333333333,1,0,0,1,0,0,1,0,0,0,0,0
+Hellsing,1521.3333333333333,1,0,0,1,0,0,1,0,0,0,0,0
 One Piece: Jango no Dance Carnival,1250.0,0,0,0,0,0,0,0,0,0,0,1,1
 Kidou Keisatsu Patlabor the Movie,2424.3333333333335,0,1,0,0,1,0,1,0,0,0,0,0
 Futsuu no Joshikousei ga [Locodol] Yattemita. OVA,1904.0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -2491,6 +2587,7 @@ Psycho-Pass Movie,766.5,0,0,0,0,1,0,1,0,0,0,0,0
 Toaru Kagaku no Railgun: Motto Marutto Railgun,835.0,0,0,0,0,0,0,0,0,0,0,1,0
 Oneechan ga Kita Special,5650.0,0,0,0,0,1,0,0,0,0,0,0,0
 PriPara Movie: Mi~nna Atsumare! Prism☆Tours,1311.0,0,0,0,0,0,0,1,0,0,0,0,0
+Tachibanakan Triangle,8538.0,1,0,0,0,0,0,0,0,0,0,0,0
 World&#039;s End Umbrella,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 3-D Heaven,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Himesama Gentei!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2500,7 +2597,7 @@ Gokudou-kun Manyuuki,1377.0,1,0,0,0,0,0,0,0,0,0,0,0
 Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza,961.0,0,0,0,0,0,0,0,0,0,0,1,0
 High School DxD BorN,1958.4,1,2,1,0,1,0,0,0,0,0,0,0
 Dareka no Manazashi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Hanoka,0.0,0,0,0,0,0,1,0,0,0,0,0,0
+Hanoka,9425.0,0,0,0,0,0,1,0,0,0,0,0,0
 Anne no Nikki,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Shaman King,1497.5,1,0,0,0,0,1,0,0,0,0,0,0
 Septem Charm Magical Kanan,9575.0,0,1,0,1,0,0,0,0,0,0,0,0
@@ -2526,10 +2623,11 @@ Pandra The Animation: Shiroki Yokubou Kuro no Kibou,8612.666666666666,1,1,0,0,1,
 Stratos 4 OVA: Stratos 4.1 - Dutch Roll,4171.0,0,0,0,0,0,0,0,0,1,0,0,0
 Mobile Suit Gundam: Iron-Blooded Orphans,344.6666666666667,1,1,0,0,0,0,1,0,0,0,0,0
 Futatsu no Kurumi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Qin Shi Ming Yue: Zhu Zi Bai Jia,1745.8333333333333,0,1,0,0,1,0,0,4,0,0,0,0
+Qin Shi Ming Yue: Zhu Zi Bai Jia,3721.0,0,1,0,0,1,0,0,4,0,0,0,0
 Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna,114.0,0,0,0,0,0,0,0,0,0,0,1,0
 Uta no☆Prince-sama♪ Maji Love Revolutions,2087.0,0,1,0,0,1,0,0,0,0,0,0,0
 Mangchi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Ari-chan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Queen Emeraldas,2071.8,1,0,0,1,0,0,1,0,0,2,0,0
 Andes Shounen Pepero no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahou Shoujo Lyrical Nanoha,3378.8,1,1,0,2,0,0,0,1,0,0,0,0
@@ -2549,6 +2647,7 @@ Berserk Recap,4739.0,0,0,0,0,0,0,0,0,0,0,0,1
 Doraemon Movie 26: Nobita no Kyouryuu 2006,1190.0,0,0,0,1,0,0,0,0,0,0,1,0
 Trinity Seven Movie: Eternity Library to Alchemic Girl,977.5,1,0,0,0,0,0,0,0,0,0,1,0
 Princess Lover!: Magical Knight Maria-chan,3716.0,0,0,0,0,0,0,0,0,0,0,1,0
+Makkuramori no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Harukoi Otome,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Audition,9658.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kuroshitsuji Movie: Book of the Atlantic,385.0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -2572,6 +2671,7 @@ Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,2484.0,1,0,0,0,0,0,1,0,0,0,0,0
 Sora no Otoshimono Final: Eternal My Master,1187.5,1,0,0,0,1,0,0,0,0,0,0,0
 Aishen Qiaokeli-ing... 2nd Season,2707.0,0,0,0,0,1,0,0,0,0,0,0,0
 Overlord: Ple Ple Pleiades,3088.25,0,2,0,0,0,0,1,0,0,0,1,0
+Sougen no Ko Tenguri,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Getsuyoubi no Tawawa,4961.0,0,1,0,0,0,0,0,0,0,0,0,0
 Mushishi Zoku Shou,51.8,1,2,0,0,2,0,0,0,0,0,0,0
 Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku,1964.0,0,0,0,1,0,0,0,0,0,0,1,0
@@ -2596,16 +2696,18 @@ Night Wizard,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nee Summer!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special,6521.0,0,0,0,0,0,0,0,0,0,0,1,0
 Shingeki! Kyojin Chuugakkou,1715.0,1,0,0,0,0,0,0,0,0,0,1,0
-Detective Conan Movie 10: Requiem of the Detectives,0.0,0,0,0,0,0,1,0,0,0,0,1,0
+◯,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Detective Conan Movie 10: Requiem of the Detectives,420.5,0,0,0,0,0,1,0,0,0,0,1,0
 Akikan!: Kan Ippatsu!? Onsen Panic,6258.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tsuideni Tonchinkan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Cutey Honey F,1310.5,1,0,1,1,0,0,1,0,0,0,0,0
 Hina Logi: From Luck & Logic,5592.5,1,0,0,0,0,0,1,0,0,0,0,0
 Imouto Paradise!,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
-High School DxD Hero: Taiikukan-ura no Holy,574.0,0,1,0,0,1,0,0,0,0,0,0,0
+High School DxD Hero: Taiikukan-ura no Holy,1287.5,0,1,0,0,1,0,0,0,0,0,0,0
 Mobile Suit Gundam: The Origin,381.5,1,0,0,1,0,0,0,0,0,0,0,0
 Chikan Densha,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 Boyfriend,9764.0,1,0,0,0,0,0,0,0,0,0,0,0
+Shinano Mainichi Shinbun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Senbon Matsubara,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shion,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shuudan Chikan Densha,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -2654,7 +2756,7 @@ Kill Me Baby: Butsuzou Kegatte Nise Halloween,3779.0,1,0,0,0,0,0,0,0,0,0,1,0
 Black Jack: Dr. Pinoko no Mori no Bouken,1110.0,0,0,0,0,0,0,1,0,0,0,1,0
 Himouto! Umaru-chan R,2022.0,1,0,0,0,1,0,0,0,0,0,0,0
 Mahou no Star Magical Emi: Semishigure,4499.0,0,0,0,0,1,0,0,0,0,0,0,0
-Boku no Hero Academia 2nd Season,749.0,1,1,1,0,2,0,0,0,0,0,0,0
+Boku no Hero Academia 2nd Season,756.2,1,1,1,0,2,0,0,0,0,0,0,0
 Izumo: Takeki Tsurugi no Senki,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Rance: Sabaku no Guardian,12919.0,0,0,0,1,0,0,0,0,0,0,0,0
 HenSemi,5161.0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -2705,7 +2807,7 @@ Mezame no Hakobune,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fresh Precure!,2511.1363636363635,1,0,1,0,0,0,0,6,14,0,0,0
 Brothers Conflict Special,4621.0,0,0,0,0,1,0,1,0,0,0,0,0
 Etsuraku no Tane The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Astro Boy: Tetsuwan Atom,1901.875,2,0,1,2,1,0,0,0,1,1,0,0
+Astro Boy: Tetsuwan Atom,2883.375,2,0,1,2,1,0,0,0,1,1,0,0
 HORIZON feat. Hatsune Miku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Onna Kyoushi,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -2725,7 +2827,7 @@ UFO Senshi Dai Apolon,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Inuyashiki,697.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Gundam MS IGLOO: The Hidden One Year War,2115.0,0,1,0,0,0,0,0,0,0,0,1,0
 Happy Kappy,0.0,0,0,0,0,0,1,0,0,0,0,0,0
-Hoozuki no Reitetsu 2nd Season,528.6666666666666,1,1,0,0,1,0,0,0,0,0,0,0
+Hoozuki no Reitetsu 2nd Season,827.0,1,1,0,0,1,0,0,0,0,0,0,0
 Uchuu no Kishi Tekkaman,3291.0,0,0,0,1,0,0,0,0,0,1,0,0
 Unkai no Meikyuu Zeguy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 3-gatsu no Lion,2031.6,1,1,0,0,0,1,2,0,0,0,0,0
@@ -2734,8 +2836,9 @@ Touhai Densetsu Akagi: Yami ni Maiorita Tensai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Pokemon Black and White 2: Introduction Movie,5075.0,0,0,0,0,0,0,0,0,1,0,0,0
 Cyborg 009: The Cyborg Soldier,3652.1111111111113,1,0,1,6,0,0,1,0,0,0,0,0
 Doushitemo Eto ni Hairitai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Thermae Romae,402.125,1,0,2,0,0,0,5,0,0,0,0,0
+Thermae Romae,1289.5,1,0,2,0,0,0,5,0,0,0,0,0
 Nurarihyon no Mago,3157.0,1,1,1,0,0,1,0,0,0,0,0,0
+Heungnyong Wang gwa Bihodongja,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai,1543.0,0,1,0,0,1,0,0,0,0,0,0,0
 Major S4,93.0,1,1,0,0,1,0,0,0,0,0,0,0
 Hunter x Hunter: Greed Island,118.0,1,1,0,1,1,0,0,0,0,0,0,0
@@ -2744,10 +2847,11 @@ D.Gray-man,505.0,1,1,0,0,0,0,0,0,0,0,0,0
 Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!,3507.0,0,1,0,0,1,0,0,0,0,0,1,0
 Major: World Series,112.0,1,1,0,0,1,0,0,0,0,0,0,0
 Dual Parallel! Trouble Adventures Special,2959.0,0,0,0,0,1,0,0,0,0,0,0,0
-Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma,209.5,1,1,0,1,1,0,0,0,0,0,0,0
+Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma,280.5,1,1,0,1,1,0,0,0,0,0,0,0
 Super Street Fighter IV,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Mahou Shoujo-tai Arusu,4078.0,0,0,1,0,0,0,0,0,0,0,0,0
 Asu no Yoichi!,3728.0,1,0,0,0,0,0,0,0,0,0,0,0
+Beluga,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aria The Origination: Sono Choppiri Himitsu no Basho ni...,35.0,1,0,0,0,0,0,0,0,0,0,1,0
 Pokemon: Pikachu Tankentai,1882.5,0,0,0,0,0,0,1,0,0,0,1,0
 Seirei Tsukai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -2758,6 +2862,7 @@ Kamen no Maid Guy,3502.5,1,0,1,0,0,0,0,0,0,0,0,0
 Neppuu Kairiku Bushi Road,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Boku no Hero Academia 2nd Season: Hero Note,86.0,0,1,0,0,0,0,0,0,0,0,0,1
 Chuuka Ichiban!,1099.0,1,0,0,0,0,0,0,0,0,0,0,0
+Yokoo&#039;s 3 Animation Films,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Digimon Adventure tri. 3: Kokuhaku,1292.5,0,1,0,0,1,0,0,0,0,0,0,0
 Uchuu no Kishi Tekkaman Blade,5344.0,0,1,2,2,0,0,0,0,0,0,0,0
 Bishoujo Animerama: Miyuki-chan SOS-H Shichauzo,12919.0,0,0,0,0,0,0,3,0,0,0,0,0
@@ -2798,14 +2903,15 @@ Mermaid Forest,2445.25,1,0,0,2,1,0,0,0,0,0,0,0
 Hetalia World Series,992.5,1,1,1,0,1,0,0,0,0,0,0,0
 Dragon Ball Movie 3: Makafushigi Daibouken,2152.6666666666665,0,1,0,1,1,0,0,0,0,0,0,0
 Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Street Fighter II V,657.25,1,0,0,1,0,0,1,0,1,0,0,0
+Street Fighter II V,2705.75,1,0,0,1,0,0,1,0,1,0,0,0
 Fantasista Stella,7080.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ozma,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Utawarerumono Specials,1026.0,0,0,0,0,0,0,0,0,0,0,1,0
 Strike the Blood: Valkyria no Oukoku-hen,2261.0,0,0,0,0,0,0,0,0,0,0,1,0
+Fushigi Sekai Atagoul Monogatari,7301.0,0,0,0,0,0,0,0,0,0,1,0,0
 B-Legend! Battle B-Daman Fire Spirits!,3086.0,1,0,0,0,1,0,0,0,0,0,0,0
 Kime Koi!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Full Metal Panic! The Second Raid,703.1428571428571,2,1,2,0,2,0,0,0,0,0,0,0
+Full Metal Panic! The Second Raid,793.0,2,1,2,0,2,0,0,0,0,0,0,0
 Boku no Yayoi-san 2,12919.0,1,0,0,0,1,0,0,0,0,0,0,0
 Sekai de Ichiban Tsuyoku Naritai! Specials,7526.0,0,0,0,0,0,0,0,0,0,0,1,0
 Seiyou Kottou Yougashiten: Antique,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -2836,6 +2942,7 @@ Bakunyuu Maid Kari,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta,228.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yoru ga Kuru!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Endless Serenade,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Mahou Shoujo Site,5723.0,1,0,0,0,0,0,0,0,0,0,0,0
 Sora wo Kakeru Shoujo Picture Drama,3385.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kannagi,2557.0,1,1,0,0,0,0,0,0,0,0,0,0
 Bondage Game: Shinsou no Reijoutachi,12919.0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -2857,15 +2964,17 @@ Hanaukyou Maid-tai: La Verite,4793.0,0,0,0,0,0,0,0,0,1,0,0,0
 Black Cat,2146.5,1,0,1,0,0,0,0,0,0,0,0,0
 Special A,1071.0,1,0,0,0,0,0,0,0,0,0,0,0
 Chou Kousoku Galvion,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Wangpai Yushi Di 0 Ji,4380.0,0,1,0,0,0,0,0,0,0,0,0,0
 Bungou Stray Dogs: Hitori Ayumu,536.5,1,0,0,0,1,0,0,0,0,0,0,0
 Overlord II,1022.6,1,1,0,0,1,0,2,0,0,0,0,0
 Vassalord.,3479.0,1,0,0,0,0,0,0,0,0,0,0,0
 Lovely x Cation The Animation,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Queen&#039;s Blade: Rebellion Specials,5774.0,0,0,0,0,0,0,0,0,0,0,1,0
+Tentoumushi no Otomurai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Machine-Doll wa Kizutsukanai,3270.0,1,0,1,0,0,0,0,0,0,0,0,0
 Uta no☆Prince-sama♪ Maji Love 2000%,2049.6666666666665,1,1,0,0,1,0,0,0,0,0,0,0
 Teekyuu 6,3310.5,1,1,1,0,1,0,0,0,0,0,0,0
-Konjiki no Gash Bell!!,984.8,1,0,4,0,0,0,0,0,0,0,0,0
+Konjiki no Gash Bell!!,2976.0,1,0,4,0,0,0,0,0,0,0,0,0
 Usagi Drop,298.0,1,0,1,0,0,0,0,0,0,0,0,0
 Kyoukai no Kanata: Mini Theater,760.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kingdom Hearts χ Back Cover,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2936,6 +3045,7 @@ Macross F Movie 1: Itsuwari no Utahime,549.5,0,1,0,1,0,0,0,0,0,0,0,0
 Shin Shirayuki-hime Densetsu Prétear,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Punch Line,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nendo no Tatakai,9507.0,0,1,0,0,0,0,0,0,0,0,0,0
+Rusuban,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chibi Maruko-chan: Watashi no Suki na Uta,891.0,0,0,0,0,1,0,0,0,0,0,0,0
 Noblesse: Awakening,750.5,1,0,0,0,1,0,0,0,0,0,0,0
 Gothicmade: Hana no Utame,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -2994,6 +3104,7 @@ Tengai Makyou: Jiraiya Oboro-hen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kanadian Families: Episode Zero,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Servamp,2205.5,1,0,3,0,0,0,0,0,0,0,0,0
 Alps Monogatari: Watashi no Annette,0.0,0,0,0,0,0,1,0,0,0,0,0,0
+Tobira wo Akete (1995),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Koihime†Musou: Otome Tairan,3979.5,0,0,0,0,1,0,0,1,0,0,0,0
 Hello Kitty no Minna no Mori wo Mamore!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bishoujo Senshi Sailor Moon,1833.75,1,1,0,1,0,1,0,0,0,0,0,0
@@ -3035,7 +3146,7 @@ Garo: Guren no Tsuki,810.6,0,0,1,0,0,0,2,0,2,0,0,0
 The Cockpit,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Jarinko Chie (TV),1388.0,1,0,0,0,0,0,0,0,0,1,0,0
 MiniPato,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Ai Tenshi Densetsu Wedding Peach,1493.3333333333333,1,1,1,0,0,0,0,0,0,0,0,0
+Ai Tenshi Densetsu Wedding Peach,3476.3333333333335,1,1,1,0,0,0,0,0,0,0,0,0
 Persona 4 the Animation: A Brief Lesson on Izanagi & Izanami,1278.0,0,0,0,0,0,0,1,0,0,0,0,0
 Koihime†Musou,3646.5,1,1,0,0,0,0,1,1,0,0,0,0
 Amagami SS,2451.6,1,1,2,0,0,0,1,0,0,0,0,0
@@ -3048,7 +3159,8 @@ Gyakkyou Burai Kaiji: Hakairoku-hen,109.0,1,0,0,0,1,0,0,0,0,0,0,0
 Taiko no Tatsujin,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars,1634.25,2,0,0,1,0,0,1,0,0,0,0,0
 .hack//Tasogare no Udewa Densetsu,4474.833333333333,1,0,2,0,1,0,1,0,1,0,0,0
-Ginga Patrol PJ,0.0,0,0,0,0,0,0,1,0,0,0,0,0
+Hoshi no Kirby: Pilot,4579.0,0,0,0,0,0,0,1,0,0,0,0,0
+Ginga Patrol PJ,2660.0,0,0,0,0,0,0,1,0,0,0,0,0
 Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu Picture Drama,1811.5,0,0,0,0,0,0,2,0,0,0,0,0
 Yuru Yuri♪♪,997.3333333333334,1,1,0,0,1,0,0,0,0,0,0,0
 Koisuru Tenshi Angelique: Kokoro no Mezameru Toki,4368.2,1,1,1,0,0,0,0,2,0,0,0,0
@@ -3064,6 +3176,7 @@ No Game No Life Specials,162.0,0,0,0,0,0,0,0,0,0,0,1,0
 Shakugan no Shana Movie,3139.3333333333335,0,0,2,0,0,0,0,0,0,0,0,1
 Ojamajo Doremi,2533.5,1,1,0,0,0,0,0,0,0,0,0,0
 Prince of Stride: Alternative,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Spacy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Daishikkin Helena,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 KochinPa! Dainiki,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Seijun Kango Gakuin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3071,7 +3184,7 @@ Vampire Hunter D (2000),2750.0,1,0,0,0,1,0,0,0,0,0,0,0
 Yokorenbo: Immoral Mother,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu,86.0,0,0,0,0,0,0,0,0,0,0,1,0
 Towa no Quon 6: Towa no Quon,1179.0,0,0,0,0,1,0,0,0,0,0,0,0
-Cardcaptor Sakura: Clear Card-hen Recap,0.0,0,0,0,0,0,0,0,0,0,0,0,1
+Cardcaptor Sakura: Clear Card-hen Recap,284.0,0,0,0,0,0,0,0,0,0,0,0,1
 Sky Girls Specials,3244.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yami to Boushi to Hon no Tabibito,2473.5,1,0,0,0,0,0,0,1,0,0,0,0
 Please ♥♥♥♥ Me!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3091,6 +3204,7 @@ Ani ni Tsukeru Kusuri wa Nai!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 3D Onara Gorou ga Dance Dance Dance!!,8161.0,0,0,0,0,0,0,0,0,0,0,1,0
 Neon Genesis Evangelion,2200.8,1,1,0,4,0,1,2,1,0,0,0,0
 Non Non Biyori Repeat: Hotaru ga Tanoshinda,771.0,0,0,0,0,0,0,1,0,0,0,1,0
+Utsu Musume Sayuri,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Soushitsukyou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Heroic Age,1271.0,1,0,0,0,0,0,0,0,0,0,0,0
 Lupin III: Moeyo Zantetsuken!,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -3099,15 +3213,19 @@ Dr. Rin ni Kiitemite!,3906.0,1,0,0,0,0,0,0,0,0,0,0,0
 Soukou Kihei Votoms: Kakuyaku taru Itan,333.0,0,1,0,0,1,0,0,0,0,0,0,0
 Danshi Koukousei no Nichijou,418.5,1,0,1,0,0,0,0,0,0,0,0,0
 Princess Knight☆Catue,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Manga,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bokusatsu Tenshi Dokuro-chan,4326.5,1,1,0,0,0,0,0,0,0,0,0,0
+Ryokunohara Meikyuu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Peeping Life: YouTuber-kun,8441.0,0,0,0,0,0,0,1,0,0,0,0,0
 Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.,1530.0,1,0,0,0,0,0,0,0,0,0,1,0
 Free!: Eternal Summer,705.0,0,2,1,1,1,0,0,0,0,0,0,0
 Karneval,2553.0,1,0,0,0,0,0,0,0,0,0,0,1
 "Kumo no Mukou, Yakusoku no Basho",994.0,1,0,0,0,0,0,0,0,0,0,0,0
+Uju Heukgisa,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Saki Picture Drama,1505.0,1,0,0,0,0,0,0,0,0,0,1,0
 Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Oni Chichi: Re-birth,12919.0,1,1,0,0,1,0,0,0,0,0,0,0
+Nakanaori,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 NG Knight Ramune & 40 EX: Biku Biku Triangle Ai no Arashi Daisakusen,4106.0,0,1,0,0,1,0,0,0,0,0,0,0
 Tekken Chinmi,2134.0,1,0,0,0,0,0,0,0,0,0,0,0
 Danball Senki,2561.0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -3120,6 +3238,7 @@ Nanatsu no Umi no Tico,5172.5,0,0,1,0,0,1,0,0,0,0,0,0
 Tamako Market Specials,2135.0,0,0,0,0,0,0,0,0,0,0,1,0
 Seishou Jogangu Alice Doll,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Strike Witches Movie,610.0,2,0,0,0,1,0,0,0,0,0,0,0
+City Hunter: Ryou no Propose,562.0,0,0,0,0,0,0,1,0,0,0,0,0
 Kiss Dum: Omokage,4667.0,0,0,0,0,0,0,0,0,0,0,1,0
 xxxHOLiC,500.0,2,1,1,0,0,0,0,0,0,1,0,0
 Hakaba Kitarou,2558.0,1,0,0,0,0,0,1,5,0,1,0,0
@@ -3142,6 +3261,7 @@ Majokko Megu-chan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ranma ½ Super,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Beelzebub: Hirotta Akachan wa Daimaou!?,528.0,1,0,0,1,0,0,0,0,0,0,0,0
 Code Geass: Hangyaku no Lelouch R2 Flash Specials,18.0,0,0,0,0,0,0,0,0,0,0,1,0
+Detective Conan OVA 03: Conan and Heiji and the Vanished Boy,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Buki yo Saraba,4384.2,1,0,0,0,0,0,4,0,0,0,0,0
 Gallery Fake,1402.0,1,0,0,0,0,0,0,0,0,0,0,0
 Interstella5555: The 5tory of The 5ecret 5tar 5ystem,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3149,6 +3269,7 @@ Last Exile: Ginyoku no Fam,3650.75,1,0,0,1,1,1,0,0,0,0,0,0
 Kumo to Tulip,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hoshi no Oujisama Petit Prince,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Sakuran Boy DT,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Through the Windows,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima,2907.0,1,0,0,0,0,0,0,0,0,0,1,0
 Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,3173.5,1,0,0,0,0,0,0,0,0,0,1,0
 Cardfight!! Vanguard G: GIRS Crisis-hen,3967.5,0,1,0,0,1,0,0,0,0,0,0,0
@@ -3167,6 +3288,7 @@ Sora no Otoshimono: Project Pink,1297.6666666666667,1,1,0,0,1,0,0,0,0,0,0,0
 JK to Inkou Kyoushi 4,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd,7446.0,0,0,0,0,1,0,0,0,0,0,0,0
 Ginga Tetsudou 999 (Movie),2507.75,1,1,0,1,1,0,0,0,0,0,0,0
+Mori no Andou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Futari wa Milky Holmes,4183.0,0,1,0,0,1,0,0,0,0,0,0,0
 Kurozuka,3463.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Diabolik Lovers More,Blood",3984.5,1,0,0,0,1,0,0,0,0,0,0,0
@@ -3187,6 +3309,8 @@ Asura Cryin&#039;,2659.5,1,1,0,0,0,0,0,0,0,0,0,0
 Tenioha!: Onnanoko datte Honto wa Ecchi da yo?,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Izumo (2003),6311.0,0,1,0,0,0,0,0,0,0,0,0,0
 Nanami-chan 2nd Series,3277.5,0,1,0,0,1,0,0,0,0,0,0,0
+Saredo Tsumibito wa Ryuu to Odoru,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Meitantei Gordon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 En En Nikoli,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bungou Stray Dogs 2nd Season,859.5,2,1,0,0,1,0,0,0,0,0,0,0
 Outbreak Company,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -3195,6 +3319,7 @@ Transformers Superlink,5489.333333333333,0,1,1,0,1,0,0,0,0,0,0,0
 IS: Infinite Stratos 2,3742.8,1,1,1,1,1,0,0,0,0,0,0,0
 Bishoujo Animerama: Manami no Michi Tono Sou Nyuu!?,12919.0,0,0,0,0,0,0,3,0,0,0,0,0
 Ore wa Teppei,4208.0,1,0,0,0,0,0,0,0,0,0,0,0
+Donguri no Ie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kiitarou Shounen no Youkai Enikki,2841.5,1,1,0,0,0,0,0,0,0,0,0,0
 Gensoumaden Saiyuuki OVA,1145.0,0,0,0,0,0,0,0,0,0,0,1,0
 Dokidoki! Precure Movie: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress,3945.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -3205,6 +3330,7 @@ Okaasan ni Naisho,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Harukanaru Toki no Naka de: Ajisai Yumegatari,3897.0,0,1,0,1,0,0,0,0,0,0,0,0
 Genshiken OVA,982.0,1,1,0,0,1,0,0,0,0,0,0,0
 Sayonara Zetsubou Sensei Special,1963.3333333333333,1,0,1,0,0,0,1,0,0,0,0,0
+Usagi ga Kowai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tayu Tayu,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tsuki no Waltz,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuuyake Dandan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3251,6 +3377,7 @@ Kansen: Inyoku no Rensa,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 Leopard Eyes,648.5,0,0,0,0,0,0,1,0,0,0,1,0
 Oishi-sa Hajikeru! One Piece,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Ninja Ryuukenden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Doutei Kawaiya,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Break Blade 3: Kyoujin no Ato,1396.75,1,1,0,1,1,0,0,0,0,0,0,0
 Midnight Panther,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo,852.0,0,0,0,1,0,0,0,0,0,0,0,0
@@ -3268,6 +3395,7 @@ Kamisama Kazoku,2723.0,1,0,0,0,0,0,0,0,0,0,0,0
 Yuuwaku★Office Lover 2,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!,873.0,0,0,0,0,0,0,0,0,0,0,1,0
+Din Dong,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Juuninin no Onna Kyoushi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",2522.0,1,0,0,0,1,0,0,0,0,0,0,0
 Ginyuu Mokushiroku Meine Liebe Wieder,2800.0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -3298,7 +3426,7 @@ Love Bites,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Juushin Enbu: Hero Tales,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bug tte Honey,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Mahou no Angel Sweet Mint,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Sword Art Online II,3819.375,1,1,0,0,1,1,3,0,1,0,0,0
+Sword Art Online II,4124.75,1,1,0,0,1,1,3,0,1,0,0,0
 School Rumble Ichi Gakki Hoshuu,537.0,1,0,0,0,0,0,0,0,0,0,1,0
 Puni Puni☆Poemii,1495.0,0,0,0,0,0,0,0,1,0,0,0,0
 Nikutai Ten&#039;i,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3360,6 +3488,7 @@ Zeno: Kagirinaki Ai ni,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Jikuu Ihoujin Kyoko: Chocola ni Omakase!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 SKET Dance: Tettei Bunseki Special,213.0,0,0,0,0,0,0,0,0,0,0,0,1
 Miyuki,4081.0,1,0,0,0,0,0,0,0,0,0,0,0
+A Piece of Phantasmagoria,5464.0,0,0,0,2,0,0,0,0,0,0,0,0
 Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!,1618.0,0,0,0,0,0,0,0,0,0,0,1,0
 Seoul-yeok,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mini Hama: Minimum Hamatora Movies,4360.0,0,0,0,0,0,0,2,0,0,0,0,0
@@ -3414,8 +3543,9 @@ New Initial D Movie: Legend 2 - Tousou,449.0,1,1,0,0,1,0,0,0,0,0,0,0
 Maria†Holic Alive Special,3417.0,0,0,0,0,0,0,0,0,0,0,1,0
 Rizelmine,5132.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gensoumaden Saiyuuki,2595.5,1,1,3,0,1,0,0,0,0,0,0,0
+Yuureisen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Saikyou Ginga Ultimate Zero: Battle Spirits,3396.5,0,1,0,0,1,0,0,0,0,0,0,0
-Ushinawareta Mirai wo Motomete,2813.3333333333335,2,1,0,0,0,0,0,0,0,0,0,0
+Ushinawareta Mirai wo Motomete,4260.666666666667,2,1,0,0,0,0,0,0,0,0,0,0
 Giant Gorg,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ai Mai! Moe Can Change!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Imouto Jiru,12919.0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -3443,6 +3573,7 @@ Kuma Miko Specials,6226.0,1,0,0,0,0,0,0,0,0,0,1,0
 Akame ga Kill!,3184.0,1,0,0,0,0,1,1,0,0,0,0,0
 Akikan!,6202.5,1,0,1,0,0,0,0,0,0,0,0,0
 Knight&#039;s & Magic,2390.0,1,0,0,0,0,0,0,0,0,0,0,0
+Calm,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Big Wars: Kami Utsu Akaki Kouya ni,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kurenai Sanshirou,5207.0,2,0,0,0,0,0,0,0,0,0,0,0
 Neko Neko Fantasia,7089.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -3470,6 +3601,7 @@ Soratobu Toshi Keikaku,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Inou-Battle wa Nichijou-kei no Naka de,2423.0,1,0,0,0,0,0,0,0,0,0,0,0
 Honoo no Alpenrose,925.75,1,0,0,2,0,0,0,0,0,0,0,1
 Shin Hitou Meguri,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
+Nanatsu no Taizai: Imashime no Fukkatsu,1488.3333333333333,1,0,0,0,2,0,0,0,0,0,0,0
 Amaenaide yo!!: Yasumanaide yo!!,5145.0,0,0,0,0,0,0,0,0,0,0,1,0
 Marin to Yamato: Fushigi na Nichiyoubi,0.0,0,0,0,0,0,0,2,0,0,0,0,0
 Galaxy Angel Specials,3159.0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -3484,6 +3616,7 @@ Wo Jiao Bai Xiaofei,4165.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku,7084.0,0,1,0,0,0,0,0,0,0,0,0,0
 Ice,8061.0,0,0,0,0,0,1,0,0,0,0,0,0
 Kamiusagi Rope x Boruto: Naruto Next Generations,0.0,0,0,0,0,0,0,2,0,0,0,0,0
+Katsudou Shashin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirarin☆Revolution,2461.0,1,0,0,0,0,0,0,0,0,0,0,0
 Persona 3 the Movie 3: Falling Down,633.5,0,1,0,0,1,0,0,0,0,0,0,0
 Pure-tou no Nakama-tachi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3496,6 +3629,7 @@ Uchuu Kaizoku Captain Herlock,2401.5,1,1,2,5,0,0,0,1,1,1,0,0
 Houkago 2 The Animation,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
 Madan no Ou to Vanadis,3402.5,1,0,0,0,0,0,1,0,0,0,0,0
 Samurai Gun,3578.5,1,0,1,0,0,0,0,0,0,0,0,0
+Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai,959.0,0,0,0,0,0,0,0,0,0,0,1,0
 Just Awake,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kara no Kyoukai 2: Satsujin Kousatsu (Zen),1656.8,1,1,0,0,1,1,1,0,0,0,0,0
 Karl to Fushigi na Tou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3549,6 +3683,7 @@ Rinkan Biyaku Chuudoku: Nigeba Nashi! 1428-nin no Seito Zenin ni Sex Sareru Reij
 Kimagure Orange☆Road: Ano Hi ni Kaeritai,1306.0,0,1,0,0,1,0,0,0,0,0,0,0
 ChäoS;Child Episode 0,5471.333333333333,1,1,0,1,0,0,0,0,0,0,0,0
 Amnesia OVA,6259.0,0,0,0,0,0,0,1,0,0,0,0,0
+Hokuto no Ken: Legend of Heroes,600.0,0,0,0,0,0,0,0,0,0,0,1,0
 Xiao Men Shen,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Maid in Heaven SuperS,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Inochi no Chikyuu: Dioxin no Natsu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3557,12 +3692,14 @@ Jikan no Shihaisha,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shounen Ninja Kaze no Fujimaru,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Rozen Maiden (2013),781.5,1,0,0,1,0,0,0,0,0,0,0,0
 Grappler Baki,1947.6666666666667,1,1,0,1,0,0,0,0,0,0,0,0
+Haru no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution,12919.0,0,0,0,1,0,0,0,0,0,0,0,0
 Robo to Shoujo (Kari),0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Virus: Virus Buster Serge,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai shitara Konnani Okkiku Nacchatta!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kaleido Star: Aratanaru Tsubasa - Extra Stage,548.0,0,1,0,0,1,0,0,0,0,0,0,0
 Nanairo Kakumei,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+663114,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahoutsukai Tai!,1366.5,1,0,0,0,1,0,0,0,0,0,0,0
 Lupin III (2015) Specials,602.0,0,0,0,0,0,0,0,0,0,0,1,0
 Accel World: Acchel World.,772.5,1,0,0,0,0,0,0,0,0,0,1,0
@@ -3602,6 +3739,7 @@ Malice@Doll,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuusha Raideen,5647.5,0,0,0,1,0,0,0,1,0,0,0,0
 Gakuen Handsome The Animation,1946.0,0,0,0,0,0,0,3,0,0,0,0,0
 Persona 3 the Movie 4: Winter of Rebirth,4348.0,0,0,0,0,1,0,1,0,0,0,0,0
+Murder,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ookami to Koushinryou,412.5,1,1,0,0,0,0,0,0,0,0,0,0
 Biohazard: Degeneration,4185.0,0,1,0,0,1,0,0,0,0,0,0,0
 "Nemure Omoigo, Sora no Shitone ni",0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3614,6 +3752,7 @@ B-Legend! Battle B-Daman,2816.0,1,1,0,0,0,0,0,0,0,0,0,0
 Hajime no Ippo: Mashiba vs. Kimura,84.33333333333333,1,1,0,0,1,0,0,0,0,0,0,0
 School Days ONA,7313.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kuro no Sumika: Chronus,3118.0,0,0,0,0,0,0,3,0,0,0,0,0
+La Rose de Versailles,180.0,1,0,0,1,0,0,0,0,0,0,0,0
 D-Spray,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Wizard Barristers: Benmashi Cecil,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tetsuwan Birdy Decode: The Cipher,1230.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -3654,6 +3793,7 @@ Mikan Enikki,1233.0,1,1,0,0,0,0,0,0,0,0,0,0
 Haguregumo,6834.0,1,0,0,0,0,0,0,0,0,0,0,0
 Darker than Black: Ryuusei no Gemini,485.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kangoku: Injoku no Jikkentou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Jam,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Toumei Ningen R,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,1296.0,1,0,0,0,1,0,0,0,0,0,0,0
 Maria-sama ga Miteru,1458.0,1,1,1,0,0,0,0,0,0,0,0,0
@@ -3664,7 +3804,7 @@ Fuusen Inu Tinny,10145.0,0,1,0,0,0,0,0,0,0,0,0,0
 Karen Senki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Amazing Nuts!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nudist Beach ni Shuugaku Ryokou de!! The Animation,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
-Kyoto Animation: Suiei-hen,813.7777777777778,0,0,0,0,0,0,8,0,0,0,0,1
+Kyoto Animation: Suiei-hen,2432.777777777778,0,0,0,0,0,0,8,0,0,0,0,1
 Buddy Complex: Daremo Shiranai Ashita e,2551.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shirayuki Hime no Densetsu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fuuma no Kojirou: Yasha-hen,2197.5,1,1,0,0,0,0,0,0,0,0,0,0
@@ -3695,6 +3835,7 @@ Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.,835
 Indie Anibox: Selma Danbaekjil Coffee,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kyousou Giga (TV),2554.3333333333335,0,0,0,0,0,1,1,0,1,0,0,0
 Uchuusen Sagittarius,0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Bara no Hana to Joe,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tactics,2407.0,1,0,0,0,0,0,0,0,0,0,0,0
 Senran Kagura Specials,5815.0,0,0,0,0,0,0,0,0,0,0,1,0
 Mesu Saga: Persona,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -3703,12 +3844,12 @@ Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! Special,6089.0,0,0,0,0,1,0,0,0
 "Wake Up, Girls! Beyond the Bottom",5145.333333333333,0,1,1,0,1,0,0,0,0,0,0,0
 Megane na Kanojo,4589.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ookami to Koushinryou II,1346.3333333333333,1,0,1,0,1,0,0,0,0,0,0,0
-Eyeshield 21,1670.3333333333333,1,0,2,0,0,0,0,0,0,0,0,0
+Eyeshield 21,2999.6666666666665,1,0,2,0,0,0,0,0,0,0,0,0
 Urusei Yatsura Movie 5: Final,1010.0,1,0,0,0,0,0,0,0,0,0,1,0
 Tooi Sekai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechiku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tsundere Inran Shoujo Sukumi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Nanatsu no Taizai: Seisen no Shirushi,167.33333333333334,1,1,0,0,1,0,0,0,0,0,0,0
+Nanatsu no Taizai: Seisen no Shirushi,220.66666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Mogura no Adventure,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hantsu x Trash,8719.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kyonyuu Hitozuma Onna Kyoushi Saimin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3720,11 +3861,12 @@ Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detectiv
 Mitama: Nin,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu",0.0,1,0,0,0,0,0,1,0,0,0,1,0
 Taishou Mebiusline: Chicchai-san,0.0,0,1,0,0,0,0,0,0,0,0,0,0
-Nanatsu no Taizai: Imashime no Fukkatsu Joshou,716.3333333333334,0,1,0,0,0,0,0,0,0,0,0,2
+Nanatsu no Taizai: Imashime no Fukkatsu Joshou,769.6666666666666,0,1,0,0,0,0,0,0,0,0,0,2
 Devilman: Tanjou-hen,3956.285714285714,1,1,0,2,0,0,2,0,1,0,0,0
 21 Emon Uchuu ike! Hadashi no Princess,7071.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kakumeiki Valvrave Recaps,2524.0,0,0,0,0,0,0,0,0,0,0,0,1
 Kyou kara Maou!,703.5,1,1,0,0,0,0,0,0,0,0,0,0
+All That Gundam,763.0,0,0,0,0,0,0,1,0,0,0,0,0
 Usagi Drop Specials,97.0,0,0,0,0,0,0,0,0,0,0,1,0
 Hibi no Awa,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nanase Ren,12919.0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -3757,6 +3899,7 @@ Aikatsu!: Nerawareta Mahou no Aikatsu! Card,1858.5,0,0,0,0,1,0,1,0,0,0,0,0
 Tenchi Muyou! in Love 2: Haruka Naru Omoi,826.0,1,0,0,0,1,0,0,0,0,0,0,0
 Sengoku Basara Movie: The Last Party,3436.6666666666665,0,0,1,1,1,0,0,0,0,0,0,0
 Tokyo Tribe 2,3970.0,1,0,0,0,0,0,0,0,0,0,0,0
+Hitori de Nayamanaide Issho ni Kangaeyou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal",1184.0,0,0,0,0,0,0,0,0,0,0,1,0
 Stranger: Mukou Hadan Pilot,169.0,0,0,0,0,0,0,1,0,0,0,0,0
 Ongaku Shoujo,765.75,0,0,0,0,0,0,4,0,0,0,0,0
@@ -3777,6 +3920,7 @@ Macross Δ,1194.875,4,0,0,0,1,0,3,0,0,0,0,0
 Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama,1057.0,0,0,0,0,0,0,1,0,0,0,0,0
 Marmalade Boy Movie,1304.0,1,1,0,0,0,0,0,0,0,0,0,0
 Shin Hikari Shinwa: Palutena no Kagami,4932.0,0,0,0,0,0,0,0,0,0,1,0,0
+Jumping,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuu☆Yuu☆Hakusho: Eizou Hakusho II,995.5,0,0,0,0,0,0,1,0,0,0,0,1
 Gyakuten Saiban 6 Prologue,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 """Bungaku Shoujo"" Memoire",0.0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -3795,6 +3939,7 @@ Kimi ni Todoke 2nd Season Specials,412.0,0,0,0,0,0,0,0,0,0,0,1,0
 Star Fox Zero: The Battle Begins,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ugokie Kori no Tatehiki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Monster Farm: Legend e no Michi,3957.0,1,0,0,0,1,0,0,0,0,0,0,0
+The Embryo Develops into a Fetus,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dokonjou Gaeru,0.0,1,1,0,0,0,0,0,0,0,0,0,0
 Ushio to Tora: Comically Deformed Theater,2702.0,0,0,0,0,0,0,0,0,0,0,1,0
 Children Record,2859.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -3805,6 +3950,7 @@ Sengoku Majin Goushougun (Movie),0.0,0,0,0,0,0,0,0,0,0,0,0,1
 Meme Iroiro Yume no Tabi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Battle Spirits: Sword Eyes,3991.6666666666665,1,1,0,0,1,0,0,0,0,0,0,0
 Iria: Zeiram The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Saint Seiya: The Hades Chapter Sanctuary - Yomigaerishi Gold Saint-tachi no Shinwa,319.0,0,0,0,0,0,0,0,0,0,0,0,1
 D.C.S.S: Da Capo Second Season Omake,3196.0,0,0,0,0,0,0,0,0,0,0,1,0
 Asa made Jugyou Chu!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Stratos 4 Advance,3800.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -3824,7 +3970,7 @@ So Ra No Wo To Specials,1393.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tenchi Muyou!,2276.6666666666665,0,1,0,1,0,0,0,1,0,0,0,0
 Kizuna: Koi no kara Sawagi,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kansen 3: Shuto Houkai,12919.0,0,1,0,0,1,0,0,0,0,0,0,0
-Qin Shi Ming Yue: Junlin Tianxia,1214.6666666666667,0,0,0,0,1,0,1,4,0,0,0,0
+Qin Shi Ming Yue: Junlin Tianxia,3189.8333333333335,0,0,0,0,1,0,1,4,0,0,0,0
 Clockwork Planet,5236.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nanatsu-iro★Drops,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Dream Festival!,3770.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -3837,10 +3983,13 @@ Umi no Triton,1845.0,1,0,0,1,0,1,0,0,0,0,0,0
 Tales of Zestiria the X: Saiyaku no Jidai,1710.0,0,1,0,0,0,0,0,0,0,0,0,0
 Warau Kangofu The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Diabolik Lovers Recap,7969.0,0,0,0,0,0,0,0,0,0,0,0,1
+Ningen Doubutsuen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Hanoka Recap,9450.0,0,0,0,0,0,0,0,0,0,0,1,0
 Inazuma Eleven: Saikyou Gundan Ogre Shuurai,1148.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kimi no Iru Machi OVA,3166.0,1,0,0,0,0,0,0,0,0,0,1,0
 Golden Boy,502.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ghost in the Shell 2.0,192.0,0,0,0,1,0,0,0,0,0,0,0,0
+Hanasaka Jiisan,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Lupin III: Otakara Henkyaku Daisakusen!!,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Jarinko Chie,2493.3333333333335,1,0,0,1,0,0,0,0,0,1,0,0
 Minami Kamakura Koukou Joshi Jitenshabu,2805.5,1,0,1,0,0,0,0,0,0,0,0,0
@@ -3855,17 +4004,20 @@ Kanokon: Manatsu no Dai Shanikusai,4992.0,0,0,1,0,1,0,0,0,0,0,0,0
 Tokyo Babylon,2733.3333333333335,1,1,0,0,0,0,1,0,0,0,0,0
 Mahoromatic 2,2869.75,0,0,2,0,1,1,0,0,0,0,0,0
 Uchuu Senkan Yamato III,2739.3333333333335,1,1,0,0,1,0,0,0,0,0,0,0
+Layton Mystery Tanteisha: Katri no Nazotoki File,1154.0,0,0,0,0,0,0,1,0,0,0,0,0
 Kazama Mana,12919.0,1,0,0,0,0,0,1,0,0,0,0,0
 Blue Dragon: Tenkai no Shichi Ryuu,5506.0,0,0,0,0,1,0,0,0,0,0,0,0
 The Four Seasons,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Qualidea Code,1994.0,5,0,0,0,0,0,0,0,0,0,0,0
 Mouryou no Nie,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ginga Sengoku Gunyuuden Rai,454.0,1,0,0,0,0,0,0,0,0,0,0,0
+Arisa☆Good Luck,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Be-Boy Kidnapp&#039;n Idol,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kuusen Madoushi Kouhosei no Kyoukan,5490.5,1,1,0,0,0,0,0,0,0,0,0,0
 Cyborg 009 (1979),4293.875,1,0,0,5,0,0,2,0,0,0,0,0
 Kuruneko Season 2,749.5,1,1,1,0,1,0,0,0,0,0,0,0
 Doraemon Movie 16: Nobita no Sousei Nikki,1070.6666666666667,1,0,0,0,0,0,1,0,0,0,1,0
+Memory (ONA),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Madonna,6157.0,1,0,0,0,0,0,0,0,0,0,0,0
 Winter Sonata,2698.0,1,0,1,0,0,0,0,0,0,0,0,0
 Haai Step Jun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3882,6 +4034,7 @@ Anime Yasei no Sakebi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Muv-Luv Alternative: Total Eclipse,4411.333333333333,1,0,0,0,0,1,0,1,0,0,0,0
 Shoujo-tachi wa Kouya wo Mezasu,2988.0,1,0,0,0,0,0,1,0,0,0,0,0
 Kyonyuu Fantasy,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
+Steins;Gate 0,564.75,1,0,0,0,1,0,1,0,1,0,0,0
 Fullmetal Alchemist: The Sacred Star of Milos Specials,1844.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shingeki no Bahamut: Genesis Recap,974.0,0,0,0,0,0,0,0,0,0,0,0,1
 Higurashi no Naku Koro ni Special: Nekogoroshi-hen,218.5,1,0,0,0,0,0,0,0,0,0,1,0
@@ -3900,7 +4053,9 @@ Harmonie,3770.0,0,0,0,0,0,0,3,0,0,0,0,0
 3 Choume no Tama: Uchi no Tama Shirimasenka?,3477.0,0,0,0,0,0,0,2,0,0,0,0,0
 Ichigo 100% Special 2,4401.0,0,0,0,0,0,0,0,0,0,0,1,0
 Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,2134.0,0,0,0,0,0,0,0,0,0,0,1,0
+Catman Series II,4162.0,0,1,1,0,1,0,0,0,0,0,0,0
 Shokugeki no Souma: Ni no Sara,419.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
+Birthday Boy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Buddha Saitan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Okusama ga Seitokaichou!,3910.25,1,1,1,0,0,0,1,0,0,0,0,0
 Hotori: Tada Saiwai wo Koinegau,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3911,8 +4066,9 @@ To Heart 2,5129.6,1,1,1,0,0,0,0,1,1,0,0,0
 Dochinpira,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mach GoGoGo (1997),3058.0,1,0,0,1,0,0,0,1,0,0,0,0
 Akatsuki no Yona,343.0,1,1,0,0,0,0,0,0,0,0,0,0
-Oshiri Kajiri Mushi (TV),4229.0,0,1,0,0,0,0,1,0,0,0,0,0
+Oshiri Kajiri Mushi (TV),8819.0,0,1,0,0,0,0,1,0,0,0,0,0
 Uchuu Kuubo Blue Noah,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Uchuu Senkan Tiramisù,3580.5,1,0,0,0,0,0,1,0,0,0,0,0
 Fukubiki! Triangle: Futaba wa Atafuta ♥,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 D.I.C.E.,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ginga Hyouryuu Vifam,2044.4,0,0,2,1,0,2,0,0,0,0,0,0
@@ -3924,6 +4080,7 @@ Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara Picture Drama,1884.0,0,
 Pygmalio,4048.0,1,0,0,0,0,0,0,0,0,0,0,0
 Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Haruka-san Matsuri,2740.0,1,0,0,0,0,0,0,0,0,0,1,0
 Girls & Panzer,3038.818181818182,2,1,2,0,0,3,3,0,0,0,0,0
+Kizuna (Special),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rakudai Kishi no Cavalry,1000.0,1,0,0,0,0,0,0,0,0,0,0,0
 Honoo no Haramase Doukyuusei,9689.25,1,0,0,0,0,0,2,0,1,0,0,0
 Detective Conan Movie 20: The Darkest Nightmare,0.0,0,1,0,0,0,0,0,0,0,0,1,0
@@ -3947,7 +4104,7 @@ Power Dolls,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Princess Sara,10345.0,0,0,1,0,0,0,0,0,0,0,0,0
 Hana to Hebi The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Brave Beats,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Di Gi Charat Ohanami Special,0.0,0,0,0,0,1,0,0,0,0,0,0,0
+Di Gi Charat Ohanami Special,4571.0,0,0,0,0,1,0,0,0,0,0,0,0
 Shining Hearts: Shiawase no Pan Specials,6807.0,0,0,0,0,0,0,1,0,0,0,0,0
 Soukou Kijo Iris Special,12919.0,0,0,0,0,0,0,0,0,0,0,1,0
 One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -3958,6 +4115,7 @@ Suki Desu Suzuki-kun!!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tenchi Muyou! Manatsu no Eve,1026.0,0,0,0,0,0,0,0,0,1,0,0,0
 Sword Art Online,2841.0,2,1,0,0,0,0,1,0,0,0,0,0
 Shingeki no Bahamut: Virgin Soul,988.5,1,0,0,0,2,0,1,0,0,0,0,0
+Saiyuuki: Son Gokuu Monogatari,0.0,0,0,0,2,0,0,0,0,1,1,0,0
 Anime Koten Bungaku Kan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots,1358.0,0,2,0,0,0,0,0,0,0,0,0,0
 Dore Dore no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3965,6 +4123,7 @@ Towa no Quon 2: Konton no Ranbu,1015.6666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Umacha,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sword Art Online Movie: Ordinal Scale,1394.0,1,1,0,0,1,0,1,0,0,0,0,0
 Kiniro Mosaic,1769.0,1,1,0,0,0,0,0,0,0,0,0,0
+Asience: Kami wa Onna no Inochi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 To Heart: Remember My Memories,1636.3333333333333,1,0,1,0,1,0,0,0,0,0,0,0
 Pokemon Generations,1946.0,0,0,0,0,0,0,1,0,0,0,0,0
 Bakuman. 3rd Season Specials,50.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -3989,6 +4148,7 @@ Touch 2: Sayonara no Okurimono,143.0,0,1,0,1,1,0,0,0,0,0,0,0
 Ro-Kyu-Bu! SS,2297.3333333333335,1,0,0,0,1,1,0,0,0,0,0,0
 Aggressive Retsuko,692.0,0,0,0,1,0,0,0,0,0,0,0,0
 Koneko no Chii: Ponponra Daibouken,416.25,2,1,0,0,1,0,0,0,0,0,0,0
+Kakuriyo no Yadomeshi,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 The Epic Of ZektBach,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ai Yori Aoshi: Enishi - Miyuki,2675.0,0,0,0,0,0,0,0,0,0,0,1,0
 Haitoku no Shoujo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4003,7 +4163,7 @@ UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku,3690.0,0,1,0,0,1,0,0,0,0,0,0,0
 Ginga Tetsudou 999: Eternal Fantasy,995.5,1,0,0,0,1,0,0,0,0,0,0,0
 Rewrite,932.0,1,1,0,0,0,0,0,0,0,0,0,0
 Nejimaki Seirei Senki: Tenkyou no Alderamin,722.0,1,0,0,0,0,0,0,0,0,0,0,0
-Macross 25th Anniversary: All That VF Macross Zero Version,626.5,0,0,0,0,0,0,1,0,0,0,1,0
+Macross 25th Anniversary: All That VF Macross Zero Version,3448.5,0,0,0,0,0,0,1,0,0,0,1,0
 Gate Keepers 21,3406.0,0,0,0,0,1,0,0,0,0,0,0,0
 Maison Ikkoku: Prelude - Meguru Haru no Sakura no you ni...,279.0,0,1,0,0,0,0,0,0,0,0,0,0
 Ku Pao Ying Xiong,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4030,7 +4190,9 @@ Zoids Shinseiki/Zero,2295.6,1,0,0,0,0,0,1,3,0,0,0,0
 Majutsushi Orphen,1282.3333333333333,1,1,0,1,0,0,0,0,0,0,0,0
 eX-Driver,4820.0,0,1,0,0,1,0,0,0,0,0,0,0
 Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,171.0,0,1,0,1,1,0,0,0,0,0,0,0
+Ai Shoujo Pollyanna Story Specials,3698.0,0,0,0,0,0,0,0,0,0,0,0,1
 Ookami Shoujo to Kuro Ouji: Gishinanki – Happening Kiss,3323.3333333333335,1,0,0,0,0,0,1,0,0,0,1,0
+Benkei tai Ushiwaka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tamako Love Story,2714.3333333333335,1,0,0,0,2,0,0,0,0,0,0,0
 Final Approach,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ryoujoku Hitozuma Onsen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4088,7 +4250,7 @@ Neko Ramen,2944.5,1,1,0,0,0,0,0,0,0,0,0,0
 Dyogrammaton,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mizu no Kotoba,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Starship Operators,3387.0,1,0,0,0,0,0,0,0,0,0,0,0
-Nurse Witch Komugi-chan Magikarte Z,2336.5,0,0,1,0,1,0,0,0,0,0,0,0
+Nurse Witch Komugi-chan Magikarte Z,6302.5,0,0,1,0,1,0,0,0,0,0,0,0
 Kikou Kantai Dairugger XV,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou,589.75,1,0,0,0,1,2,0,0,0,0,0,0
 Black Jack (TV),2032.9,1,1,3,2,1,0,1,1,0,0,0,0
@@ -4132,7 +4294,7 @@ Glass no Kantai: La Legende du Vent de l&#039;Univers,6619.0,0,0,1,0,0,0,0,0,0,0
 Love Kome: We Love Rice 2nd Season,9282.0,0,0,0,0,1,0,0,0,0,0,0,0
 Fake,5007.0,1,0,0,0,0,0,0,0,0,0,0,0
 Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunaku Kiseki no Melody♪,2259.0,0,0,0,0,0,0,0,0,0,0,1,0
-6♥Princess,0.0,0,0,0,0,0,0,1,0,0,0,0,0
+6♥Princess,6715.0,0,0,0,0,0,0,1,0,0,0,0,0
 Koe no Katachi,4.0,1,0,0,0,0,0,2,0,0,0,0,0
 Mirai Robo Daltanias,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kupu~!! Mamegoma!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4144,6 +4306,7 @@ Tokimeki Memorial 4 OVA,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fractale,3451.0,1,0,0,0,0,0,0,0,0,0,0,0
 Da Yu Hai Tang,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Xenosaga The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+The Five Killers,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Seireitsukai no Blade Dance Specials,3247.0,0,0,0,0,0,0,1,0,0,0,0,0
 Bakugan Battle Brawlers,6223.0,0,1,0,0,0,0,1,0,0,0,0,0
 Soukyuu no Fafner: Arcadian Memory,2210.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -4174,8 +4337,9 @@ Aoi Kioku: Manmou Kaitaku to Shounen-tachi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Haitai Nanafa,7113.0,0,1,0,0,0,0,0,0,0,0,0,0
 Endride,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sci-fi Harry,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Hagure Yuusha no Aesthetica,2528.6666666666665,1,0,1,0,0,0,0,0,0,1,0,0
+Hagure Yuusha no Aesthetica,4764.333333333333,1,0,1,0,0,0,0,0,0,1,0,0
 Shaman King Specials,833.0,0,0,0,0,0,0,0,0,0,0,1,0
+Dodani,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Garo: Honoo no Kokuin,5556.0,0,1,0,0,0,0,1,0,2,0,0,0
 Enbo,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Flag,3833.0,0,0,0,0,0,1,0,0,0,0,0,0
@@ -4184,9 +4348,11 @@ Grander Musashi RV,3579.0,0,0,0,0,1,0,0,0,0,0,0,0
 Doraemon Movie 14: Nobita to Buriki no Labyrinth,517.0,1,0,0,0,0,0,0,0,0,0,1,0
 Lupin III: Harimao no Zaihou wo Oe!!,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Mai Mai Shinko to Sennen no Mahou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Yonimo Osoroshii Nihon Mukashibanashi,6710.0,0,0,0,0,0,0,1,0,0,0,0,0
 Kagaku Kyuujo-tai TechnoVoyager,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aquarian Age: Saga II - Don&#039;t Forget Me...,6745.0,0,0,0,0,1,0,0,0,0,0,0,0
 Oni Chichi: Rebuild,8612.666666666666,1,1,0,0,1,0,0,0,0,0,0,0
+Hello Kitty no Fushigi na Mizuumi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ojousama☆Yomeiri Kousou!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shaonian Jinyiwei,12021.0,0,1,0,0,0,0,0,0,0,0,0,0
 Lupin III: Hemingway Paper no Nazo,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -4238,6 +4404,7 @@ Kujira no Josephina,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Eromanga-sensei,1955.0,1,0,1,0,0,0,0,0,0,0,0,0
 Himitsu no Akko-chan 2,1893.6666666666667,0,0,1,2,0,0,0,0,0,0,0,0
 Osomatsu-kun: Iyami wa Hitori Kaze no Naka,3897.5,1,0,0,0,0,0,0,0,0,0,1,0
+Cardcaptor Sakura: Clear Card-hen,1043.3333333333333,1,0,0,0,1,1,0,0,0,0,0,0
 Tsuma Shibori,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Inyouchuu Shoku: Ryoushokutou Taimaroku,6459.5,2,2,0,0,1,0,1,0,0,0,0,0
 Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo,3215.6666666666665,1,0,0,0,1,0,1,0,0,0,0,0
@@ -4259,9 +4426,11 @@ Kämpfer für die Liebe,5016.0,1,0,0,0,1,0,0,0,0,0,0,0
 Magical Witch Academy: Boku to Sensei no Magical Lesson The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hell Target,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shinigami no Ballad.,3578.0,1,0,0,0,0,0,0,0,0,0,0,0
+Macross 25th Anniversary: All That VF Macross F Version,3232.0,0,0,0,0,0,0,1,0,0,0,1,0
 Bishoujo Senshi Sailor Moon: Sailor Stars,1545.0,1,0,0,0,1,2,0,0,0,0,0,0
 Lupin III: Twilight Gemini no Himitsu,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Freezing Vibration Specials,3494.0,0,0,0,0,0,0,0,0,0,0,1,0
+Rurouni Kenshin Recap,168.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shin-ban Megami Tantei Vinus File,6459.5,0,0,0,0,1,0,0,0,1,0,0,0
 Kyoushoku Soukou Guyver,3830.3333333333335,1,0,0,1,0,0,0,1,0,0,0,0
 Discipline,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -4272,6 +4441,7 @@ Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA,2875.5,1,0,0,0,0,0,1,0,0,0,0
 Odin: Koushi Hansen Starlight,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pigeon Blood,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Saishuu Heiki Kanojo: Another Love Song,2538.0,0,0,0,0,0,0,0,0,0,0,1,0
+Seimei no Kagaku: Micro Patrol,5061.0,0,0,0,0,0,0,1,0,0,0,0,0
 Senki Zesshou Symphogear GX,2123.0,0,1,0,0,1,0,1,0,0,0,0,0
 Medama Oyaji no April Fools&#039;,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Sekai Meisaku Douwa: Mori wa Ikiteiru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4290,11 +4460,11 @@ The King of Fighters: Destiny,4869.833333333333,0,1,0,0,0,0,1,4,0,0,0,0
 Nisekoi,2050.3333333333335,1,1,0,0,0,0,1,0,0,0,0,0
 Magi: Sinbad no Bouken,488.0,1,0,0,1,0,0,0,0,0,0,0,0
 Megami Kyouju,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Senkaiden Houshin Engi,0.0,1,0,0,1,0,0,0,0,0,0,0,0
-Magic Kaito,296.0,1,0,0,1,0,0,0,1,1,0,0,0
+Senkaiden Houshin Engi,4467.5,1,0,0,1,0,0,0,0,0,0,0,0
+Magic Kaito,626.0,1,0,0,1,0,0,0,1,1,0,0,0
 Kuromukuro,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Godzilla: Kaijuu Wakusei,0.0,0,1,0,0,0,0,0,0,0,0,0,0
-Shamanic Princess,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Shamanic Princess,5969.0,0,1,0,0,0,0,0,0,0,0,0,0
 Drifters,3232.4,1,1,0,1,0,0,2,0,0,0,0,0
 Oda Nobuna no Yabou,2121.0,1,0,0,0,0,1,0,0,0,0,0,0
 King of Prism by Pretty Rhythm Short Anime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4305,10 +4475,11 @@ Hakuouki: Otogisoushi,1522.0,0,0,0,0,0,0,1,0,0,0,0,0
 Chinetsu Karte: The Devilish Cherry,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!,3300.0,0,0,0,0,0,0,0,0,0,0,0,1
 Tales of Symphonia The Animation: Kratos-sensei no Private Lesson,3321.5,0,1,0,0,0,0,0,0,0,0,1,0
+Amanchu! Advance,2106.3333333333335,1,0,0,0,2,0,0,0,0,0,0,0
 Hetalia: The World Twinkle,1208.25,1,0,1,0,1,0,1,0,0,0,0,0
 Outlanders,7090.0,1,0,0,0,0,0,0,0,0,0,0,0
 Yumekuri,8292.0,1,0,0,0,0,0,0,0,0,0,0,0
-Hokuto no Ken,2377.3125,1,1,1,7,3,0,2,1,0,0,0,0
+Hokuto no Ken,2816.5,1,1,1,7,3,0,2,1,0,0,0,0
 R-15 OVA,5081.0,1,0,0,0,1,0,0,0,0,0,0,0
 Tsubasa to Hotaru (2015),4180.0,1,1,0,0,0,0,1,0,0,0,0,0
 Ookami Shoujo to Kuro Ouji Recap,3992.5,0,0,0,0,0,0,1,0,0,0,0,1
@@ -4333,6 +4504,7 @@ Match Shoujo,8107.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kizuoibito,9131.0,1,0,0,0,0,0,0,0,0,0,0,0
 91 Days,6019.0,0,0,1,0,0,1,0,1,0,0,0,0
 Onigamiden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Detective Conan Movie 09: Promo Special,627.0,0,0,0,0,0,0,0,0,0,0,0,1
 Magic Knight Rayearth II,788.5,1,0,0,0,1,0,0,0,0,0,0,0
 Kyoukasho ni Nai!,7879.0,1,0,0,0,0,0,0,0,0,0,0,0
 Jian Wangchao,0.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -4356,6 +4528,7 @@ Shingeki no Kyojin: Lost Girls,237.0,1,0,0,0,0,0,0,0,0,0,1,0
 Uta no☆Prince-sama♪ Maji Love 1000%,895.0,1,1,0,0,0,0,0,0,0,0,0,0
 Love Selection The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 To Be Hero,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Yoru no Hi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kanokon: Manatsu no Dai Shanikusai Specials,4802.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yamato Takeru,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Totsuzen! Neko no Kuni Banipal Witt,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4377,6 +4550,7 @@ Choujigen Game Neptune The Animation,343.5,5,1,0,0,0,0,0,0,0,0,0,0
 Neko Neko Nihonshi,5714.5,1,1,0,0,0,0,0,0,0,0,0,0
 Saiki Kusuo no Ψ-nan,2499.3333333333335,2,0,0,0,0,0,1,0,0,0,0,0
 Galo Sengen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Okashina Hotel,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dual Parallel! Trouble Adventures,3529.0,0,1,0,0,0,0,0,0,0,0,0,0
 Licca-chan to Yamaneko Hoshi no Tabi,1270.25,0,0,0,0,0,0,0,0,0,4,0,0
 Sonic X Pilot,5529.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -4436,6 +4610,7 @@ Ginga Tetsudou 999,3266.9473684210525,1,1,0,7,3,1,5,0,1,0,0,0
 Zero Tester,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 himitsukesshatakanotsume.jp,0.0,0,0,1,0,1,0,1,0,0,0,0,0
 Full Moon wo Sagashite: Kawaii Kawaii Daibouken,489.0,0,0,0,0,0,0,0,0,0,0,1,0
+Doubutsu Mura no Sports Day,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Survival,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yoroiden Samurai Troopers Gaiden,3674.5,0,1,0,0,1,0,0,0,0,0,0,0
 Bohemian Rhapsody,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -4453,13 +4628,13 @@ Elf no Futagohime: Willan to Arsura,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Furueru Kuchibiru Episode 0,12919.0,1,1,0,0,0,0,0,0,0,0,0,0
 Stop!! Hibari-kun!,2908.0,1,0,0,0,0,0,0,0,0,0,0,0
 Daraku: Onna Kyoushi Hakai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Versailles no Bara,1003.6666666666666,1,0,0,1,0,1,0,0,0,0,0,0
+Versailles no Bara,3544.3333333333335,1,0,0,1,0,1,0,0,0,0,0,0
 Itoshi no Muco,1017.25,1,0,0,2,0,0,1,0,0,0,0,0
 Pokemon XY SP: Road to Kalos,3775.0,0,1,0,0,1,0,0,0,0,0,0,0
 Black Blood Brothers,1319.0,2,0,0,0,0,0,0,0,0,0,0,0
 Fireball,6105.666666666667,0,1,1,0,1,0,0,0,0,0,0,0
 Boruto: Naruto the Movie,581.0,1,0,0,1,1,0,1,0,0,0,0,0
-Qin Shi Ming Yue: Kong Shan Niao Yu,3555.285714285714,0,0,0,0,0,0,0,0,0,6,1,0
+Qin Shi Ming Yue: Kong Shan Niao Yu,5248.285714285715,0,0,0,0,0,0,0,0,0,6,1,0
 Chibi☆Devi!,4137.0,1,0,0,0,0,0,0,0,0,0,0,0
 Offside (TV),11570.0,1,0,0,1,0,0,0,0,0,0,0,0
 Injuu Kateikyoushi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4467,11 +4642,13 @@ Soukihei MD Geist,8910.0,0,1,0,0,0,0,0,0,0,0,0,0
 Oyakodon: Oppai Tokumori Bonyuu Tsuyudaku de,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mazinger Z tai Ankoku Daishougun,2203.0,0,0,0,1,0,0,0,0,0,0,1,0
 Genki Bakuhatsu Ganbaruger,2712.3333333333335,0,0,0,0,0,1,0,0,2,0,0,0
-Attacker You!,2498.0,1,1,0,0,0,0,0,0,0,0,0,0
+Attacker You!,5906.5,1,1,0,0,0,0,0,0,0,0,0,0
 Gabriel DropOut,1182.5,1,0,0,0,0,0,1,0,0,0,0,0
 Muka Muka Paradise,3749.0,1,0,0,0,0,0,0,0,0,0,0,0
 Pokemon Omega Ruby & Alpha Sapphire: Mega Special Animation,2866.0,0,0,0,0,0,0,0,0,1,0,0,0
+Hakuouki OVA,761.0,1,0,0,0,0,0,1,0,0,0,0,0
 Ikkyuu Nyuukon,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Wotaku ni Koi wa Muzukashii,585.0,1,0,0,0,0,0,0,0,0,0,0,0
 Sakura Taisen: Ouka Kenran,3723.5,0,1,0,1,0,0,0,0,0,0,0,0
 Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita,299.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sen to Chihiro no Kamikakushi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4499,6 +4676,7 @@ Porong Porong Pororo 4,3937.0,0,1,0,1,1,0,0,0,0,0,0,0
 Vampire,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Comic Party Revolution,5201.333333333333,0,0,0,1,1,0,1,0,0,0,0,0
 Onegai My Melody Sukkiri♪,3854.0,0,1,0,0,1,0,0,0,0,0,0,0
+Mugen Senshi Valis,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aiura,4386.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mission School,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Datenshi-tachi no Kyouen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4530,6 +4708,7 @@ Tsuki ga Kirei Special,195.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kuzu no Honkai,1352.0,1,0,0,0,0,0,0,0,0,0,0,0
 Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki,5081.0,0,0,0,0,0,0,0,0,0,0,1,0
 Macross: Do You Remember Love?,3298.0,0,1,0,1,0,1,0,0,0,0,0,0
+Miraesonyeon Kunta Beomyuda 5000 Nyeon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kurumiwari Ningyou,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kono Sekai no Katasumi ni,172.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nijiiro Hotaru: Eien no Natsuyasumi,3178.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -4537,6 +4716,8 @@ Ramen Tenshi Pretty Menma,5034.0,1,0,0,0,0,0,1,0,0,0,0,0
 Toushinden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shuffle! Memories,2666.0,0,0,0,0,0,0,0,0,0,0,0,1
 Ashita e Attack!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Heya/Keitai,0.0,0,0,0,0,0,0,3,0,0,0,0,0
+Computer Haekjeonham Pokpa Daejakjeon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pecola,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Imouto,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Kono Shihai kara no Sotsugyou: Ozaki Yutaka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4546,6 +4727,7 @@ Demonion: Gaiden,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Short Peace Opening,4672.25,0,0,0,0,0,0,4,0,0,0,0,0
 Stratos 4,5013.0,0,1,0,0,0,1,0,0,0,0,0,0
 Kekkou Kamen,7731.0,1,0,0,0,0,0,0,0,0,0,0,0
+Midori-ko,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Toukiden: The Age of Demons - Introduction,8066.0,0,0,0,1,0,0,0,0,0,0,0,0
 Metal Fighter Miku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Metal Fight Beyblade 4D,5021.5,0,1,0,0,1,0,0,0,0,0,0,0
@@ -4565,7 +4747,7 @@ Winter Sonata Episode 0,1685.0,0,0,0,0,0,0,0,0,0,0,1,0
 Saint Seiya Recap,605.0,0,0,0,0,0,0,0,0,0,0,0,1
 Wooser no Sono Higurashi: Kakusei-hen,2367.5,0,1,0,0,1,0,0,0,0,0,0,0
 Fetikano!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
-Hoshi no Kirby,3514.0,0,0,0,0,0,0,2,0,0,0,0,0
+Hoshi no Kirby,7472.0,0,0,0,0,0,0,2,0,0,0,0,0
 Mahou Shoujo Lyrical Nanoha StrikerS,1569.6666666666667,1,1,0,0,1,0,0,0,0,0,0,0
 JoJo no Kimyou na Bouken: Phantom Blood,79.5,1,0,0,1,0,0,0,0,0,0,0,0
 Baccano!,190.5,1,1,0,0,0,0,0,0,0,0,0,0
@@ -4611,12 +4793,13 @@ InuYasha: Kagami no Naka no Mugenjo,697.0,0,0,0,0,0,0,0,0,0,0,1,0
 Maple Colors,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Million Doll,9149.0,1,0,0,0,0,0,0,0,0,0,0,0
 Air Master,3192.0,1,0,0,0,0,0,0,0,0,0,0,0
+Denshinbashira Elemi no Koi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yareruko! Densha Ecchi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tenjoubito to Akutobito Saigo no Tatakai,2746.0,0,0,0,0,0,0,0,0,0,0,0,1
 K-On!: Live House!,783.0,0,0,0,0,0,0,0,0,0,0,1,0
 Gokicha!!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ryuusei Sentai Musumet,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Ai Shoujo Pollyanna Story,0.0,0,0,0,0,0,1,0,0,0,0,0,0
+Ai Shoujo Pollyanna Story,6781.0,0,0,0,0,0,1,0,0,0,0,0,0
 Imouto Paradise! 2,6459.5,2,1,0,0,1,0,0,0,0,0,0,0
 The Rapeman,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Chrno Crusade,2918.5,1,0,1,0,0,0,0,0,0,0,0,0
@@ -4636,7 +4819,7 @@ Free! Movie 1: Timeless Medley - Kizuna,587.0,0,1,0,0,0,0,2,0,0,0,0,0
 Kumo no You ni Kaze no You ni,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Joshikousei: Girl&#039;s High,2642.0,1,0,1,0,0,0,0,0,0,0,0,0
 Shinreigari: Ghost Hound,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Basilisk: Kouga Ninpou Chou,0.0,1,1,0,0,0,0,0,0,0,0,0,0
+Basilisk: Kouga Ninpou Chou,3780.5,1,1,0,0,0,0,0,0,0,0,0,0
 Mon-Soni! D&#039;Artagnan no Idol Sengen,6153.5,0,0,0,0,1,0,1,0,0,0,0,0
 Nobunaga no Shinobi,3609.3333333333335,1,1,0,0,1,0,0,0,0,0,0,0
 Violence Jack: Hell&#039;s Wind-hen,5536.333333333333,1,0,0,0,2,0,0,0,0,0,0,0
@@ -4646,6 +4829,7 @@ Viper GTS,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tonkatsu DJ Agetarou,2910.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gakuen 2,8612.666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Code:Breaker OVA,3631.0,1,0,0,0,0,0,0,0,0,0,1,0
+Afghanistan Paghman-mura no Monogatari: Boku no Mura ni Circus ga Kita,9542.0,0,0,0,0,1,0,0,0,0,0,0,0
 Houkago no Pleiades: Manner Movie,5574.5,0,0,0,0,0,0,2,0,0,0,0,0
 Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey,131.5,0,0,0,0,0,0,0,0,0,0,2,0
 Tenshi na Konamaiki Specials,1479.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -4664,6 +4848,7 @@ Hiyokoi,2983.5,1,0,0,0,0,0,1,0,0,0,0,0
 Asobi ni Iku yo!: Asobi ni Oide - Owari,3939.0,0,0,0,0,0,0,0,0,0,0,1,0
 Akaneiro ni Somaru Saka: Hardcore,5096.0,0,0,0,0,0,0,0,0,0,0,1,0
 Aldnoah.Zero,2810.6666666666665,1,1,0,0,0,1,0,0,0,0,0,0
+Mochibei,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Black Clover,4335.5,1,0,0,1,0,0,0,0,0,0,0,0
 Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Animation Seisaku Shinkou Kuromi-chan,3555.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -4711,7 +4896,7 @@ Pokemon Best Wishes! Season 2: Shinsoku no Genosect - Mewtwo Kakusei,3358.25,1,0
 Arslan Senki (TV) OVA,838.0,0,0,0,0,0,0,0,0,0,0,1,0
 Diabolus: Kikoku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dorimogu Daa!!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Occultic;Nine,2721.8333333333335,1,0,0,0,0,0,0,0,5,0,0,0
+Occultic;Nine,2722.5,1,0,0,0,0,0,0,0,5,0,0,0
 Chocolate Underground,3305.5,1,0,0,1,0,0,0,0,0,0,0,0
 Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu,2352.0,0,0,0,0,0,0,0,0,0,0,1,0
 Metropolis,1355.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -4812,7 +4997,7 @@ Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annu
 Master of Epic: The Animation Age,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Classroom☆Crisis Special,3148.0,0,0,0,0,0,0,0,0,0,0,1,0
 City Hunter: Bay City Wars,1163.0,0,0,0,0,1,0,0,0,0,0,1,0
-Macross F,1863.2307692307693,2,1,1,4,1,0,3,1,0,0,0,0
+Macross F,2297.3846153846152,2,1,1,4,1,0,3,1,0,0,0,0
 Aoki Hagane no Arpeggio: Ars Nova - Kirikumas,1623.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix,1311.0,0,0,0,0,0,0,1,0,0,0,0,0
 Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4875,7 +5060,7 @@ Fate/Zero: Onegai! Einzbern Soudanshitsu,96.5,0,0,0,0,0,0,0,0,0,0,2,0
 Pokemon: The Origin,1946.0,0,0,0,0,0,0,0,0,1,0,0,0
 Gall Force 2: Destruction,5346.0,0,1,0,0,1,0,0,0,0,0,0,0
 Yong Zhe Da Mao Xian 2nd Season,12768.0,0,0,0,0,1,0,0,0,0,0,0,0
-Lupin III,2070.625,1,1,35,1,1,0,6,1,0,2,0,0
+Lupin III,2296.25,1,1,35,1,1,0,6,1,0,2,0,0
 Ane Jiru The Animation: Shirakawa Sanshimai ni Omakase,8612.666666666666,1,1,0,1,0,0,0,0,0,0,0,0
 Takunomi.,6052.0,1,0,0,0,0,0,0,0,0,0,0,0
 Digital Devil Story: Megami Tensei,4110.0,1,0,0,0,0,0,0,0,1,0,0,0
@@ -4906,6 +5091,7 @@ Mazinkaiser: Shitou! Ankoku Dai Shogun,3046.5,0,0,0,1,1,0,0,0,0,0,0,0
 Ningen Shikkaku: Director&#039;s Cut-ban,807.0,0,0,0,0,0,0,0,0,0,0,0,1
 The iDOLM@STER Million Live! 4th Anniversary PV,545.0,0,0,0,0,1,0,0,0,1,0,0,0
 Sanrio Danshi,4858.0,1,0,0,0,0,0,0,0,0,0,0,0
+Aos,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Lan Mo De Hua,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Arrow Emblem Grand Prix no Taka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bubuki Buranki,3632.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -4929,6 +5115,7 @@ Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!,2450.0,1,0,0,0,1,0,0,0,0,0,0,0
 Cowboy Bebop: Ein no Natsuyasumi,27.0,0,0,0,0,0,0,0,0,0,0,1,0
 Cinderella Girls Gekijou 2nd Season,2095.6,1,1,2,0,1,0,0,0,0,0,0,0
 Shoujo Kyouiku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+15 Sonyeon Uju Pyoryugi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 ReLIFE,314.0,1,1,0,0,0,0,0,0,0,0,0,0
 Yu☆Gi☆Oh! 5D&#039;s,2671.5714285714284,1,0,2,0,1,0,3,0,0,0,0,0
 Märchen Mädchen,8385.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -4953,7 +5140,7 @@ Elfina: Yoru e to Urareta Oukoku de... The Animation,0.0,2,0,0,0,0,0,0,0,0,0,0,0
 Marriage: Kekkon,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Oseam,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Darkside Blues,6609.0,1,0,0,0,0,0,0,0,0,0,0,0
-Ie Naki Ko Remy,207.25,0,0,1,2,0,1,0,0,0,0,0,0
+Ie Naki Ko Remy,477.0,0,0,1,2,0,1,0,0,0,0,0,0
 Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka,4605.0,0,0,0,0,0,0,0,0,0,0,0,1
 Tetsuwan Atom,2383.625,1,0,0,5,1,1,0,0,0,0,0,0
 Happy Seven: The TV Manga,5173.0,1,0,1,0,0,0,0,0,0,0,0,0
@@ -4982,6 +5169,7 @@ Teekyuu 3,4496.75,1,1,1,0,1,0,0,0,0,0,0,0
 Ballroom e Youkoso,196.0,1,0,0,0,0,0,0,0,0,0,0,0
 Duel Masters Victory V3,0.0,0,1,0,0,1,0,0,0,0,0,0,0
 Dragon Ball Kai,539.25,1,1,0,1,1,0,0,0,0,0,0,0
+Dr. Slump: Arale-chan no Koutsuu Anzen,2518.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kero Kero Keroppi no Kero Kero House no Himitsu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gakuen Maria: Bakunyuu Teachers,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aa! Megami-sama!,1788.75,1,1,0,1,0,0,1,0,0,0,0,0
@@ -5001,6 +5189,7 @@ Magic-Kyun! Renaissance,2291.5,1,0,0,0,0,0,1,0,0,0,0,0
 Uchuu Kaizoku Sara Special,6459.5,1,0,0,0,1,0,0,0,0,0,0,0
 Puka Puka Juju,2845.0,0,0,0,0,0,0,3,0,0,0,0,0
 Gokinjo Monogatari,2553.0,1,1,0,1,0,0,0,0,0,0,0,0
+Oyoge ya Oyoge,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nurse Witch Komugi-chan Magikarte,5747.0,0,1,1,0,0,0,0,2,0,0,0,0
 Anmitsu Hime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nurse Witch Komugi-chan R,4673.0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -5025,6 +5214,7 @@ AKB48 Stage Fighter,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shukufuku no Campanella,6308.333333333333,1,1,1,0,0,0,0,0,0,0,0,0
 Shiritsu Araiso Koutougakkou Seitokai Shikkoubu,5995.5,1,0,0,0,0,0,0,0,0,1,0,0
 Injutsu no Yakata The Animation,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
+Molly Star-Racer,1560.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shisha no Sho,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nisemonogatari,2156.8333333333335,1,1,1,0,1,0,1,0,0,1,0,0
 Kabatotto,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5092,8 +5282,10 @@ Hand Maid May,5616.5,0,1,0,0,0,0,0,0,1,0,0,0
 Girlfriend (Kari),0.0,6,0,0,0,0,0,1,0,0,0,0,0
 Doraemon Movie 02: Nobita no Uchuu Kaitakushi,1000.3333333333334,1,0,0,1,0,0,0,0,0,0,1,0
 Momoiro Sisters,6590.0,1,0,0,0,0,0,0,0,0,0,0,0
+Xi You Ji,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kobo-chan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Happy☆Lucky Bikkuriman,0.0,0,0,0,0,1,0,0,0,0,0,0,0
+Crazy for It,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shibainuko-san,7736.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tanoshii Muumin Ikka,2631.5,0,1,0,2,1,0,0,0,0,0,0,0
 Ikenie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5108,6 +5300,7 @@ The Reflection,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Vatican Kiseki Chousakan,3936.0,2,0,1,0,0,0,0,0,0,0,0,0
 Chou Hatsumei Boy Kanipan,4359.0,0,0,0,0,1,0,0,0,0,0,0,0
 Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?,0.0,0,0,0,0,1,0,0,0,0,0,0,0
+Katekyo Hitman Reborn! Special,230.0,0,0,0,0,0,0,0,0,0,0,1,0
 Zero no Tsukaima: Princesses no Rondo,1862.8,1,1,1,0,1,0,0,1,0,0,0,0
 Urusei Yatsura Movie 4: Lum The Forever,1010.0,0,0,0,0,0,0,0,0,0,0,1,0
 Cello Hiki no Gauche (1982),0.0,0,0,0,2,0,0,0,0,0,0,0,0
@@ -5115,7 +5308,7 @@ Rinne no Lagrange Season 2,2567.0,1,0,1,0,1,0,0,0,0,0,0,0
 Shingeki no Kyojin,1929.2727272727273,1,1,1,2,0,1,2,3,0,0,0,0
 Binchou-tan,1813.5,1,0,0,0,0,0,1,0,0,0,0,0
 Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Amanchu!,1366.6666666666667,1,2,0,0,0,0,0,0,0,0,0,0
+Amanchu!,1851.3333333333333,1,2,0,0,0,0,0,0,0,0,0,0
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,341.5,1,0,0,0,0,0,0,0,0,0,1,0
 Princess Lover! Picture Drama,3716.0,0,0,0,0,0,0,1,0,0,0,0,0
 Angel Beats! Specials,227.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -5134,6 +5327,8 @@ Kimagure Orange☆Road OVA,1169.0,1,0,0,0,0,0,0,0,0,0,1,0
 Warau Hyouteki,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Element Hunters,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Zetsuai 1989,10596.0,1,1,0,0,0,0,0,1,0,0,0,0
+Taku Boda,0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Sekai Meisaku Douwa: Hakuchou no Mizuumi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Moon Pride,3486.0,0,0,0,0,0,0,1,0,0,0,0,0
 Memories Off,5928.0,0,1,0,0,0,0,0,0,0,0,0,0
 Agukaru: Play with Ibaraki-hen Episode 0,9223.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -5141,6 +5336,7 @@ RG Veda,6664.0,1,0,0,0,0,0,0,0,0,0,0,0
 Uchuu Taitei God Sigma,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahou no Chocolate,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Blood-C: Special Edition,3506.5,0,1,0,0,0,0,0,0,0,0,0,1
+Comic Girls,2799.0,1,0,0,0,0,0,0,0,0,0,0,0
 Neo Angelique Abyss: Second Age,3688.0,0,0,0,0,1,0,0,0,0,0,0,0
 Toshi Souzou Gakubu Shoukai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yu☆Gi☆Oh!: Hikari no Pyramid,725.5,1,0,0,0,0,0,0,0,0,0,1,0
@@ -5154,6 +5350,7 @@ Kintarou Taiiku Nikki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Densetsu no Yuusha Da Garn,2825.0,0,0,0,0,0,0,0,0,7,0,0,0
 Ippatsu Kiki Musume,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Senki Zesshou Symphogear G,3001.3333333333335,0,1,1,0,1,0,0,0,0,0,0,0
+Afghanistan Paghman-mura no Monogatari: Sekaiichi Utsukushii Boku no Mura,9541.0,0,1,0,0,0,0,0,0,0,0,0,0
 Kairisei Million Arthur,0.0,0,0,0,0,1,0,1,0,0,0,0,0
 Warau Salesman Episode 0,5039.0,0,1,0,0,0,0,0,0,0,0,0,0
 Tamala 2010: A Punk Cat in Space,3506.0,0,1,1,0,0,0,0,0,0,0,0,0
@@ -5169,6 +5366,7 @@ Ryoujoku Famiresu Choukyou Menu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chu Shite Agechau: Oshikake Oneesan no Seikou Chiryou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fate/stay night: Unlimited Blade Works 2nd Season,944.5,0,0,0,1,1,0,0,0,0,0,0,0
 Tennis no Ouji-sama: Another Story - Messages From Past and Future Specials,931.0,0,0,0,0,0,0,0,0,0,0,1,0
+"Nikoniko, Pun",0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Minarai Diva,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering,1911.3333333333333,0,0,0,1,1,0,0,0,1,0,0,0
 Oden-kun,10177.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -5193,6 +5391,7 @@ Saint October,5693.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bakusou Kyoudai Let&#039;s & Go,2998.3333333333335,1,1,1,0,0,0,0,0,0,0,0,0
 .hack//Tasogare no Udewa Densetsu: Offline de Aimashou,4739.0,0,0,0,0,0,0,0,0,0,0,1,0
 Saber Marionette J to X,1803.0,1,1,0,0,2,0,0,0,0,0,0,0
+Ten no Kawa,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Battle Spirits: Burning Soul,6890.333333333333,0,1,0,0,1,0,1,0,0,0,0,0
 Saint Seiya: The Lost Canvas - Meiou Shinwa,295.0,1,1,0,0,0,0,0,0,0,0,0,0
 Cheonbangjichuk Hani,0.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -5207,10 +5406,12 @@ Otogi Juushi Akazukin OVA,3344.0,0,0,0,1,0,0,0,0,0,0,0,0
 Choubatsu Yobikou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dance in the Vampire Bund Recap,2917.0,0,0,0,0,0,0,0,0,0,0,0,1
 Nanocore 2nd Season,0.0,0,1,0,0,1,0,1,0,0,0,0,0
+Oni,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Full Metal Panic!,355.125,3,1,1,0,0,3,0,0,0,0,0,0
 Kamichu! Specials,1730.0,0,0,0,0,0,0,0,0,0,0,1,0
 Damekko Doubutsu,2106.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nihon Omoshiro Mukashibanashi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Mask Masters,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mitsudomoe Special,1137.0,1,0,0,0,0,0,0,0,0,0,1,0
 Rokka no Yuusha,3368.5,1,0,1,0,0,0,0,0,0,0,0,0
 Houkago no Pleiades (TV),2263.0,1,0,0,1,0,0,1,0,0,0,0,0
@@ -5239,6 +5440,7 @@ Generation of Chaos,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Black Lagoon Omake,349.6666666666667,1,0,0,0,0,0,0,0,2,0,0,0
 Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa,2897.5,1,0,0,0,1,0,0,0,0,0,0,0
 Date A Live: Date to Date,1745.0,1,1,0,0,1,0,0,0,0,0,0,0
+Backkom,1094.7142857142858,0,2,0,2,0,0,1,0,2,0,0,0
 Bishoujo Yuugekitai Battle Skipper,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kodomo no Omocha (TV),2572.0,1,0,0,1,0,0,0,0,0,0,0,0
 Pucca,5387.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -5256,6 +5458,7 @@ Chikyuu ga Ugoita Hi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shoukoushi Cedie,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Yurumates 3D,6031.75,1,1,1,0,0,0,1,0,0,0,0,0
 Fortune Arterial: Akai Yakusoku,1782.5,1,1,0,0,0,0,0,0,0,0,0,0
+Bloody Date,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hokuto no Ken 2,3014.75,1,1,0,0,1,0,1,0,0,0,0,0
 Saga-ken wo Meguru Animation,11924.0,0,0,0,0,0,0,1,0,0,0,0,0
 Seisenshi Dunbine OVA,2257.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -5265,6 +5468,7 @@ Seitokai no Ichizon Lv.2,1910.3333333333333,1,0,1,0,1,0,0,0,0,0,0,0
 Princess Holiday: Korogaru Ringo Tei Senya Ichiya,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Sentou Mecha Xabungle,7896.0,0,0,0,0,0,1,0,0,0,0,0,0
 To Heart 2: Dungeon Travelers,4643.0,0,0,0,0,1,0,0,0,1,0,0,0
+Girls & Panzer: Saishuushou,2180.0,0,0,0,0,1,0,0,0,0,0,0,0
 Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki,1121.0,0,1,0,0,1,0,0,0,0,0,1,0
 Otona Joshi no Anime Time,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Deep Voice,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -5315,7 +5519,8 @@ Ougon Bat,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Reikenzan: Eichi e no Shikaku,1348.0,1,0,0,0,1,0,0,0,0,0,0,0
 Hametsu no Mars,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Oni Chichi: Re-born,12919.0,1,1,0,0,1,0,0,0,0,0,0,0
-Detective Conan Movie 09: Strategy Above the Depths,0.0,0,0,0,0,0,1,0,0,0,0,1,0
+Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete,4220.0,0,0,0,0,1,0,0,0,0,0,0,0
+Detective Conan Movie 09: Strategy Above the Depths,461.0,0,0,0,0,0,1,0,0,0,0,1,0
 "Wake Up, Girls!",3984.25,1,1,0,0,1,0,0,1,0,0,0,0
 Ail Maniax: Inma Seifukugari & Majogari no Yoru ni,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens,1052.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -5359,7 +5564,7 @@ Choujin Sentai Baratack,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Barom One,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Omedetou Jesus-sama,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 InuYasha: Kanketsu-hen,697.0,1,0,0,0,1,0,0,0,0,0,0,0
-Piano no Mori,432.0,1,0,0,1,0,0,0,0,0,0,0,0
+Piano no Mori,1865.0,1,0,0,1,0,0,0,0,0,0,0,0
 One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bemubemu Hunter Kotengu Tenmaru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Geragera Boes Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5367,7 +5572,7 @@ Greek Roman Sinhwa: Olympus Guardian,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Detective Conan Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata,93.0,0,0,0,0,0,0,0,0,0,0,2,0
 Unico,3896.25,1,1,1,1,0,0,0,0,0,0,0,0
 Oh! Edo Rocket,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Urashima Tarou,0.0,0,0,0,2,0,0,0,0,0,0,0,0
+Urashima Tarou,4670.5,0,0,0,2,0,0,0,0,0,0,0,0
 PopoloCrois,3054.0,0,0,0,0,1,0,0,0,0,0,0,0
 Uragiri wa Boku no Namae wo Shitteiru,2091.0,1,0,0,0,0,0,0,0,0,0,0,0
 Fatal Fury 2: The New Battle,5062.0,0,1,0,0,1,0,0,2,0,0,0,0
@@ -5415,6 +5620,7 @@ Love Machine: Animaid Shoufu 23-gou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Downloader,5374.5,0,0,0,0,0,0,1,0,0,1,0,0
 Venus Senki,4017.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bible Black: New Testament Recap,12919.0,0,0,0,0,0,0,0,0,0,0,0,1
+Golden Batman,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Momoko,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Eroge! H mo Game mo Kaihatsu Zanmai,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!,741.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -5433,7 +5639,7 @@ Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun,4793.0,0,0,0,0
 Mahoutsukai Nara Miso wo Kue!,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nils no Fushigi na Tabi,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Ankoku Cat,0.0,0,1,0,0,0,0,0,0,0,0,0,0
-Toji no Miko Recap,0.0,0,0,0,0,0,0,0,0,0,0,0,1
+Toji no Miko Recap,6200.0,0,0,0,0,0,0,0,0,0,0,0,1
 Sacred Seven: Shirogane no Tsubasa Picture Drama,4331.0,0,0,0,0,0,0,0,1,0,0,0,0
 Working!!!,591.6666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Schwarzesmarken,3358.0,1,0,0,0,0,0,0,1,0,0,0,0
@@ -5448,12 +5654,13 @@ Madonna: Kanjuku Body Collection,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Love Hina Christmas Special: Silent Eve,2656.0,0,0,0,0,0,0,0,0,0,0,1,0
 Futari no Joe,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hetalia: The Beautiful World Extra Disc,964.0,1,0,0,0,0,0,0,0,0,0,1,0
+The Legend of Huainanzi,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Yuuki Yuuna wa Yuushabu Shozoku,1893.0,1,1,0,0,0,0,3,0,0,0,0,0
 Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari,129.0,0,1,0,1,0,0,0,0,0,0,0,0
 Yowamushi Pedal: Grande Road,906.75,1,1,0,0,1,1,0,0,0,0,0,0
 Ginga Tetsudou 999: Akai Hoshi Betelgeuze - Inochi no Kagayaki,595.0,0,0,0,0,0,0,1,0,0,0,0,0
 Pupa,9472.0,1,0,0,0,0,0,0,0,0,0,0,0
-One Piece Film: Strong World,0.0,0,0,0,0,1,0,0,0,0,0,1,0
+One Piece Film: Strong World,207.5,0,0,0,0,1,0,0,0,0,0,1,0
 One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken,0.0,0,0,0,0,0,0,0,0,0,0,0,1
 Alice in Cyberland,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Inazma Delivery,5285.5,0,1,0,0,0,0,1,0,0,0,0,0
@@ -5473,9 +5680,11 @@ Persona 4 the Golden Animation,3203.0,0,0,0,1,0,0,1,0,0,0,0,0
 Elfen Lied,1700.0,1,0,1,0,0,0,0,0,0,0,0,0
 Papillon Rose,9119.0,0,0,0,0,1,0,0,0,0,0,0,0
 69 Pink Riders 2,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
+Lupin III: Pilot Film,521.5,0,1,0,1,0,0,0,0,0,0,0,0
 Ultra Maniac OVA,2594.0,1,0,0,1,0,0,0,0,0,0,0,0
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA,826.0,0,0,0,0,0,0,0,0,0,0,1,0
 Rape! Rape! Rape!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Kangaroo no Tanjoubi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Arata naru Sekai: World&#039;s/Start/Load/End,0.0,2,0,0,0,0,0,0,0,0,0,0,0
 Genji Monogatari Sennenki,5008.0,0,0,0,1,0,0,0,0,0,0,0,0
 Shin Onimusha: Dawn of Dreams the Story,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5489,6 +5698,7 @@ Uchuu Kyoudai: Apo&#039;s Dream,80.0,0,0,0,0,0,0,0,0,0,0,1,0
 Servamp Specials,3187.0,0,0,0,0,0,0,1,0,0,0,0,0
 Pokemon: Kesshoutou no Teiou Entei,2163.3333333333335,1,0,0,0,0,0,1,0,0,0,1,0
 Kaitou Joker 2nd Season,3350.0,1,1,0,0,1,0,0,0,0,0,0,0
+Super Teukgeup Mazinger 7,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kuroko no Basket: Last Game NG-shuu,249.0,0,0,0,0,0,0,1,0,0,0,0,0
 X Maiden: Izakaya Tamaki,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yodaka no Hoshi (Music),0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5530,7 +5740,7 @@ Hataraki Man,3205.0,1,0,0,0,0,0,0,0,0,0,0,0
 Himitsu no Akko-chan,3980.6666666666665,1,0,0,2,0,0,0,0,0,0,0,0
 Baku Tech! Bakugan,4295.333333333333,1,1,0,0,0,0,1,0,0,0,0,0
 Dragon Ball Movie 2: Majinjou no Nemuri Hime,2420.0,0,1,0,1,1,0,0,0,0,0,0,0
-Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto,1479.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
+Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto,1964.0,1,1,0,0,1,0,0,0,0,0,0,0
 Beelzebub Specials,528.0,0,0,0,0,0,0,1,0,0,0,0,0
 Gregory Horror Show: The Last Train,3912.0,0,0,0,0,1,0,0,0,0,0,0,0
 Atashin&#039;chi Movie,2060.0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -5549,7 +5759,7 @@ One Punch Man,407.75,1,1,2,0,0,0,0,0,0,0,0,0
 Ero Manga! H mo Manga mo Step-up♪,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Inyouchuu Etsu,6459.5,2,1,0,0,1,0,0,0,0,0,0,0
 SKET Dance: SD Character Flash Anime,213.0,0,0,0,0,0,0,1,0,0,0,0,0
-Black Jack,807.375,1,0,2,2,1,0,1,0,0,1,0,0
+Black Jack,1294.875,1,0,2,2,1,0,1,0,0,1,0,0
 Terra Formars,3265.3333333333335,1,1,0,0,1,0,0,0,0,0,0,0
 Miyamoto Musashi: Souken ni Haseru Yume,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Puchi Pri*Yucie,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -5565,6 +5775,7 @@ Inko,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 SF Shinseiki Lensman,5635.0,0,0,0,1,0,0,0,0,0,0,0,0
 Seikou!: Osananajimi wa Terekusasou ni Uso wo Tsuku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 SF Lolita Fantasy Ome-1,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Me wo Samase Toragorou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Asagiri no Miko,6539.0,1,0,0,0,0,0,0,0,0,0,0,0
 Seireitsukai no Blade Dance,3789.5,1,0,0,0,0,0,1,0,0,0,0,0
 Kyokujitsu no Kantai,5993.0,0,0,0,0,0,0,0,0,1,0,0,0
@@ -5613,6 +5824,7 @@ Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation,0.0,0,0,0,0,0,0,0,0,0
 Elf no Wakaokusama,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Lupin III: Walther P-38,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ike! Ina-chuu Takkyuubu,1168.0,1,0,0,0,0,0,0,0,0,0,0,0
+Angel (Special),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ikinari Dagon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Junjou Romantica 3,477.3333333333333,1,0,1,0,1,0,0,0,0,0,0,0
 Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai,3326.5,0,1,0,0,1,0,0,0,0,0,0,0
@@ -5624,6 +5836,7 @@ Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari,1221.0,0,0,0,0,1,0,0
 Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna,1444.75,0,0,0,0,0,0,1,0,0,0,3,0
 Morita-san wa Mukuchi,4873.333333333333,1,0,0,2,0,0,0,0,0,0,0,0
 Goulart Knights: Evoked the Beginning Black,3478.5,1,1,0,0,0,0,0,0,0,0,0,0
+Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki&#039;s Case Files,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Watt Poe to Bokura no Ohanashi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi,124.0,0,0,0,0,0,0,0,0,0,0,1,0
 Okane ga Nai Specials,12919.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -5633,7 +5846,7 @@ Kagaku na Yatsura,7729.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gintama&#039;,69.2,1,1,0,1,1,0,0,0,0,1,0,0
 Yama no Susume: Kabe tte Kowakunai no?,3370.0,1,1,0,0,1,0,0,0,0,0,0,0
 Nikuyoku Gangu Takuhainin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Catman Series III,0.0,0,0,1,0,1,0,0,0,0,0,0,0
+Catman Series III,3031.5,0,0,1,0,1,0,0,0,0,0,0,0
 Stainless Night,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tsuki Kagerou,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gravity Daze The Animation: Ouverture,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5695,6 +5908,7 @@ Seihou Bukyou Outlaw Star Specials,606.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sono Kinisasete yo: My My Mai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Love Kome: We Love Rice,9189.0,0,1,0,0,0,0,0,0,0,0,0,0
 Soushin Shoujo Matoi,3914.5,0,1,0,0,0,1,0,0,0,0,0,0
+Adventures in Beauty Wonderland,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nine,3825.0,1,1,0,1,0,0,0,0,0,0,0,0
 Hybrid Child,531.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ueki no Housoku,807.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -5734,6 +5948,7 @@ MONSTER GENERATiON,1106.5,0,0,0,0,0,0,3,0,0,0,1,0
 Sentakuya Shin-chan,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Weekender Girl,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Mahou Shoujo Madoka★Magica,1426.125,2,1,0,3,0,0,2,0,0,0,0,0
+Detective Conan Movie 10: Promo Special,301.0,0,0,0,0,0,0,0,0,0,0,0,1
 X-Men,6813.0,0,0,0,0,0,0,0,0,0,1,0,0
 Softenni,6107.0,1,0,1,0,0,0,0,0,0,0,0,0
 K-On!: Ura-On!,3039.0,0,1,0,0,0,0,0,0,0,0,1,0
@@ -5749,11 +5964,12 @@ Doubutsu no Mori,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinocchio yori Piccolino no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Black Lagoon: Roberta&#039;s Blood Trail,327.5,1,0,0,0,1,0,0,0,0,0,0,0
 Bloody Night,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Akai Ito,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Gundam SEED C.E.73: Stargazer,1175.0,1,0,0,0,0,0,0,0,0,0,1,0
 Ai Tenchi Muyou! Recaps,6499.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shin Angel,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Perfect Blue,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Ginga no Uo Ursa Minor Blue,0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Ginga no Uo Ursa Minor Blue,6575.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kaibutsu Oujo,3118.6666666666665,1,1,0,1,0,0,0,0,0,0,0,0
 Seijuuden: Twin Dolls,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 Mirai Nikki (TV),2257.2,2,1,1,1,0,0,0,0,0,0,0,0
@@ -5778,6 +5994,7 @@ Ghibli ga Ippai Special Short Short,8409.0,0,0,0,0,0,0,1,0,0,0,0,0
 Druaga no Tou: The Aegis of Uruk - Jil no Bouken,2456.0,0,0,0,0,0,0,0,0,0,0,1,0
 Imouto Bitch ni Shiboraretai,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Teekyuu 7,3429.0,1,1,1,0,1,0,0,0,0,0,0,0
+Go! Go! Ackman,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hengen Taima Yakou Karura Mau! Sendai Kokeshi Enka,7330.0,0,0,0,1,0,0,0,0,0,0,0,0
 Uchuu no Kishi Tekkaman Blade OVA: Burning Clock,1512.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ninja Batman,4569.5,0,0,0,0,0,0,2,0,0,0,0,0
@@ -5788,11 +6005,13 @@ Kanamewo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Kaitei Daisensou: Ai no 20,000 Miles",0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kiseijuu: Sei no Kakuritsu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bokura wa Minna Kawai-sou Specials,826.0,0,0,0,0,0,0,1,0,0,0,0,0
+Haruko no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Biohazard 4: Incubate,2990.0,0,1,0,0,0,0,0,0,0,0,0,0
 "Zone of the Enders: Dolores, I",3662.0,0,0,0,0,1,0,0,0,0,0,0,0
 Mahou Senshi Louie,2687.0,1,0,0,0,0,0,0,0,0,0,0,0
 Toriko Movie: Bishokushin no Special Menu,1120.0,0,0,0,0,0,0,0,0,0,0,1,0
 Macross 7 Encore,2731.0,0,0,0,0,0,0,0,0,0,0,1,0
+Yoshino no Hime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detective Conan Movie 14: The Lost Ship in the Sky,619.0,0,0,1,0,0,0,0,0,0,0,1,0
 Tenkuu Senki Shurato,721.3333333333334,1,1,0,0,0,1,0,0,0,0,0,0
 Norimono Oukoku BuBu ChaCha,2802.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -5870,6 +6089,7 @@ Yuu☆Yuu☆Hakusho: Mu Mu Hakusho,114.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kemono Friends: Bus-teki,521.0,0,1,0,0,1,0,0,0,0,0,0,0
 Osomatsu-kun (1988),5766.222222222223,1,1,3,1,0,0,0,0,0,3,0,0
 Umezu Kazuo no Noroi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Broots,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 School,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 DearS: Kin no Tama desu no?,4570.0,0,0,0,0,0,0,0,0,0,0,1,0
 Tonight,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5879,6 +6099,7 @@ Osomatsu-san Short Film Series,6001.5,0,1,0,0,0,0,0,0,0,0,1,0
 Soukou Kihei Votoms,1726.0,1,1,2,0,3,3,0,3,0,0,0,0
 Rec,1328.5,1,0,1,0,0,0,0,0,0,0,0,0
 Futsuu no Joshikousei ga [Locodol] Yattemita.,2336.6666666666665,1,1,1,0,0,0,0,0,0,0,0,0
+Dekobou no Jidousha Ryokou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Towa no Kizuna,452.0,0,0,0,0,0,0,1,0,0,0,0,0
 Lupin III: Cagliostro no Shiro,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Konna ni Yasashiku Sareta no,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -5886,6 +6107,7 @@ Shining Hearts: Shiawase no Pan,6604.666666666667,0,0,0,0,0,0,2,0,1,0,0,0
 Shounen Ashibe,12127.0,1,0,0,0,0,0,0,0,0,0,0,0
 Dragonaut: The Resonance,3992.0,1,0,1,0,0,0,0,0,0,0,0,0
 Durarara!!x2 Shou,434.75,1,1,1,0,1,0,0,0,0,0,0,0
+Golden Kamuy,786.5,1,0,0,0,0,0,1,0,0,0,0,0
 Major Movie: Yuujou no Winning Shot,121.33333333333333,1,1,0,0,1,0,0,0,0,0,0,0
 Summer Wars,294.0,1,0,0,0,0,0,0,0,0,0,0,0
 Doraemon Movie 06: Nobita no Little Star Wars,517.0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -5893,12 +6115,14 @@ Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku,616.3333333333334
 Mama Puri!?,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hoshi no Kirby:  Taose!! Koukaku Majuu Ebizou,4579.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tanahashi Hiroshi X Mameshiba Pro Wrestling,2686.0,0,0,0,0,0,0,0,0,0,0,1,0
-Dororo to Hyakkimaru,0.0,1,0,0,2,0,0,0,0,0,0,0,0
+Dororo to Hyakkimaru,2462.6666666666665,1,0,0,2,0,0,0,0,0,0,0,0
 Gi(a)rlish Number,1797.0,1,0,0,0,0,0,1,0,0,0,0,0
 Keijo!!!!!!!!,3841.5,1,0,1,0,0,0,0,0,0,0,0,0
+Superflat Monogram,7854.0,0,1,0,0,0,0,0,0,0,0,0,0
 Huyao Xiao Hongniang: Yue Hong,1592.6666666666667,1,1,0,0,1,0,0,0,0,0,0,0
 Ying Xiong Bie Nao,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yama Nezumi Rocky Chuck,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Urashima Tarou (1931),4625.5,0,0,0,2,0,0,0,0,0,0,0,0
 AOTU Shijie,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 El Hazard 2: The Magnificent World,2941.5,0,1,0,0,1,0,0,0,0,0,0,0
 Digimon Adventure: Bokura no War Game!,1478.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -5912,6 +6136,7 @@ Ikkitousen: Xtreme Xecutor Specials,3917.0,0,0,0,0,0,0,0,0,0,0,1,0
 Nageki no Kenkou Yuuryouji,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kidou Tenshi Angelic Layer,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mahoujin Guru Guru Movie,1044.0,0,0,0,0,0,0,0,0,0,0,1,0
+Oz no Mahoutsukai,4247.0,0,0,0,1,0,0,0,0,0,0,0,0
 California Crisis: Tsuigeki no Juuka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Trigger-chan,1095.0,0,0,0,0,0,0,0,0,0,1,0,0
 Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5941,7 +6166,7 @@ Gyakusatsu Kikan,2571.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hengen Taima Yakou Karura Mau! Nara Onryou Emaki,5798.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kagewani: Shou,5558.0,0,0,0,0,1,0,0,0,0,0,0,0
 First Squad: The Moment of Truth,7494.0,0,0,0,0,0,0,1,0,0,0,0,0
-Yowamushi Pedal: New Generation,1320.0,1,1,0,0,1,1,0,0,0,0,0,0
+Yowamushi Pedal: New Generation,1517.0,1,1,0,0,1,1,0,0,0,0,0,0
 Ryuugajou Nanana no Maizoukin (TV) Specials,2474.0,0,0,0,0,0,0,0,0,0,0,1,0
 Clover,3804.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Marriage Blue: ""Konyakusha ga Iru no ni, Doushite Konna Otoko ni......""",0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5959,6 +6184,7 @@ Tenjouhen: Utsunomiko,0.0,0,1,0,1,0,0,0,0,0,0,0,0
 Battle Spirits: Shounen Gekiha Dan,3424.0,1,1,0,0,1,0,0,0,0,0,0,0
 Onegai☆Teacher,2753.0,2,1,1,0,0,1,0,2,0,0,0,0
 Jormungand: Perfect Order Recap,593.5,0,1,0,0,0,0,0,0,0,0,0,1
+Katsura Hime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Isuca,6488.0,1,1,0,0,0,0,0,0,0,0,0,0
 Tenshi Nanka ja Nai,6451.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hello Kitty to Issho,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -5980,6 +6206,7 @@ Mahou no Princess Minky Momo,5032.75,0,0,2,1,0,0,1,0,0,0,0,0
 Youkai Ningen Bem,0.0,0,0,0,2,0,0,0,0,0,0,0,0
 Ganbare! Oden-kun,11566.0,0,0,0,0,1,0,0,0,0,0,0,0
 "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",298.0,0,0,0,0,0,0,0,0,1,0,0,0
+Hellsing: Psalm of Darkness,1349.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tokyo Marble Chocolate,2366.0,1,0,0,0,0,0,0,0,0,0,0,0
 Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari,2813.5,1,1,0,0,0,0,0,0,0,0,0,0
 Manga Naruhodo Monogatari,0.0,0,1,0,0,1,1,0,0,0,0,0,0
@@ -6034,11 +6261,12 @@ Dibetagurashi: Ahiru no Seikatsu,0.0,1,1,0,0,0,0,0,0,0,0,0,0
 Houkago no Shokuinshitsu,8795.0,1,0,0,0,0,0,0,0,0,0,0,0
 Natsume Yuujinchou Shi,313.6,1,2,0,0,1,0,1,0,0,0,0,0
 Revbahaf Wang-gug Jaegeon-soelgi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Da Nao Tiangong,5974.0,0,1,0,0,0,0,0,0,0,0,0,0
 Durarara!!x2 Ketsu,586.0,1,0,1,0,1,0,0,0,0,0,0,0
 Yabai! Fukushuu Yami Site,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Seiki Inma Seiden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "One More Time, One More Chance",610.0,0,0,0,0,0,0,0,0,0,0,0,1
-Wangpai Yushi,2190.0,1,0,0,0,1,0,0,0,0,0,0,0
+Wangpai Yushi,5438.0,1,0,0,0,1,0,0,0,0,0,0,0
 Dansai Bunri no Crime Edge,4179.0,1,0,0,0,0,0,0,0,0,0,0,0
 Wangan Midnight,1654.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bakugan Battle Brawlers: New Vestroia,6222.0,0,1,0,0,1,0,0,0,0,0,0,0
@@ -6051,10 +6279,12 @@ Ark,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Chou Kyou Ryo: Condor Hero,1741.0,0,1,0,0,0,0,0,0,0,0,0,0
 Mashin Eiyuuden Wataru,1066.0,0,2,0,0,0,1,0,0,0,0,0,0
 Nurarihyon no Mago OVA,425.0,0,0,0,0,0,0,1,0,0,0,0,0
+Ultra Dino Makera,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ookami to Koushinryou II Specials,151.0,0,0,0,0,0,0,0,0,0,0,1,0
 Berserk,3036.8,1,1,0,0,2,1,0,0,0,0,0,0
 Genma Taisen,8748.0,0,0,0,1,0,0,0,0,0,0,0,0
-Ashita no Joe,1865.0,1,1,0,1,1,0,1,0,0,0,0,0
+Ai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Ashita no Joe,1893.6,1,1,0,1,1,0,1,0,0,0,0,0
 Fullmetal Alchemist: Brotherhood - 4-Koma Theater,1.0,0,0,0,0,0,0,0,0,0,0,1,0
 Natsume Yuujinchou San,95.66666666666667,1,1,0,0,1,0,0,0,0,0,0,0
 Ghost in the Shell 2: Innocence,192.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -6076,7 +6306,7 @@ Atom: The Beginning,3145.5,1,3,0,0,0,0,0,0,0,0,0,0
 HenSemi (TV),5208.0,1,0,0,1,0,0,0,0,0,0,0,0
 Hika Ryoujoku: Wana ni Hamatta Futari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detective Conan: Black History 2,0.0,0,0,0,0,0,0,0,0,0,0,0,1
-Sword Art Online Fatal Bullet: The Third Episode,3671.3333333333335,0,0,0,1,0,0,2,0,0,0,0,0
+Sword Art Online Fatal Bullet: The Third Episode,4485.666666666667,0,0,0,1,0,0,2,0,0,0,0,0
 Body Jack: Tanoshii Yutai Ridatsu,8256.0,0,0,0,0,0,0,3,0,0,0,0,0
 Akahori Gedou Hour Rabuge,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Netorare Zuma,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -6120,7 +6350,8 @@ Bakumatsu Rock,0.0,1,0,0,0,0,0,1,0,0,0,0,0
 Injuu vs. Onna Spy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yowamushi Pedal Movie,527.0,0,1,0,0,1,0,0,0,0,0,0,0
 Nana Recaps,101.0,0,0,0,0,0,0,0,0,0,0,0,1
-Motto! Ojamajo Doremi,1428.2,0,1,3,0,1,0,0,0,0,0,0,0
+Motto! Ojamajo Doremi,2166.0,0,1,3,0,1,0,0,0,0,0,0,0
+Naita Aka Oni,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Canary wa Kago no Naka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hal,1217.0,1,0,0,0,0,0,0,0,0,0,0,0
 Futatsu no Spica,1805.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -6132,6 +6363,7 @@ Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?,2621.0,0,0,0,0,0,0,0,0,0,0,1,
 Manga Nihonshi (NHK Han),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ganbarist! Shun,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gugure! Kokkuri-san,1750.5,1,0,1,0,0,0,0,0,0,0,0,0
+Golden Time (Movie),0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Flying Witch,5339.333333333333,1,0,2,0,0,0,0,0,0,0,0,0
 Hurricane Live! 2032,3460.5,0,1,0,0,0,0,0,0,0,0,0,1
 Magical★Taruruuto-kun Movie,2358.5,0,1,0,0,0,0,0,0,0,0,1,0
@@ -6140,7 +6372,7 @@ Cyber City Oedo 808,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Flying Witch Petit Special,4345.5,0,0,0,0,0,0,0,0,0,0,1,1
 "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.",0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Aa! Megami-sama! (TV) Specials,1987.0,1,0,0,0,0,0,0,0,0,0,1,0
-Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban,3280.3333333333335,0,0,0,1,0,0,2,0,0,0,0,0
+Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban,4094.6666666666665,0,0,0,1,0,0,2,0,0,0,0,0
 Chiisana Ojisan,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kingdom 2nd Season,317.0,1,0,0,0,1,0,0,0,0,0,0,0
 Diabolik Lovers,4553.4,2,1,1,0,0,1,0,0,0,0,0,0
@@ -6270,9 +6502,11 @@ Tsubasa to Hotaru,4487.0,1,0,0,0,0,0,1,0,0,0,0,0
 Kuroko no Basket 3rd Season NG-shuu,88.0,0,0,0,0,0,0,1,0,0,0,0,0
 Palme no Ki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Crayon Shin-chan Movie 20: Arashi wo Yobu! Ora to Uchuu no Princess,1134.0,0,1,0,0,1,0,0,0,0,0,1,0
+Konjiki no Gash Bell!!: Hashire Gash!! Ubawareta Umagon,1252.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kashimashi: Girl Meets Girl,4243.5,1,1,0,0,0,0,0,0,0,0,0,0
 Shuranosuke Zanmaken: Shikamamon no Otoko,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Saigo no Door wo Shimero!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
+Dragon Ball Z: Atsumare! Gokuu World,228.0,0,0,0,0,0,0,0,0,0,0,1,0
 Mind Game,797.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hitozuma Cosplay Kissa 2: Hitozuma LoveLove - Cosplay OVA,6459.5,1,0,0,0,0,0,0,0,1,0,0,0
 Kawarazaki-ke no Ichizoku 2,0.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -6289,12 +6523,14 @@ Precure All Stars Movie New Stage 2: Kokoro no Tomodachi,2323.5,0,1,0,0,1,0,0,0,
 Kare Baka: Wagahai no Kare wa Baka de R,7395.0,1,0,0,0,0,0,0,0,0,0,0,0
 Love Live! Sunshine!!,1464.375,2,1,3,0,0,1,0,0,1,0,0,0
 Dragon Drive,4182.0,1,0,0,0,0,0,0,0,0,0,0,0
+Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space,971.5,0,1,0,0,0,0,0,0,0,0,1,0
 One Piece Film: Gold Episode 0 - 711 ver.,192.0,0,1,0,0,0,0,0,0,0,0,1,0
 Makoto-chan,11142.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kimihagu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Oni Chichi 2: Harvest,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Muumindani no Suisei,495.0,0,1,0,0,0,0,0,0,0,0,0,0
 Gundam Build Fighters Try: Island Wars,2842.5,0,0,1,0,1,0,0,0,0,0,0,0
+Hajimete no Eigo: Sekai Meisaku Douwa,2813.0,0,0,0,0,0,0,1,0,0,0,0,0
 Casshern: Robot Hunter,3433.0,0,0,0,2,0,0,0,0,0,1,0,0
 Himegoto,7233.0,1,0,0,0,0,0,0,0,0,0,0,0
 Rensa Byoutou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6363,6 +6599,7 @@ Avenger,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hamster Club,5876.0,1,0,0,0,0,0,0,0,0,0,0,0
 True Tears Epilogue,1684.0,0,0,0,0,1,0,0,0,0,0,0,0
 Nar Doma,2775.6666666666665,1,0,2,0,0,0,0,0,0,0,0,0
+Kappo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pair,5065.0,0,0,0,0,0,0,1,0,0,0,0,0
 Perrine Monogatari,0.0,0,0,0,1,0,1,0,0,0,0,0,0
 Sola,2957.0,1,0,1,0,0,0,0,0,0,0,0,0
@@ -6374,6 +6611,7 @@ Kara The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen taikai Kaisai!!,745.0,0,0,0,0,0,0,0,0,0,0,1,0
 Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma na Hibi,82.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bouken! Iczer 3,5007.333333333333,1,1,0,0,1,0,0,0,0,0,0,0
+Tora-chan to Hanayome,0.0,0,1,0,0,1,0,0,0,0,0,0,0
 Ark IX,8726.0,1,0,0,0,0,0,0,0,0,0,0,0
 Negima!?,2376.285714285714,2,1,2,2,0,0,0,0,0,0,0,0
 Micchiri Neko March,4154.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -6382,6 +6620,7 @@ Jinsei,5409.0,1,0,0,0,0,0,0,0,0,0,0,0
 Lupin III: Honoo no Kioku - Tokyo Crisis,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
 Innocent Blue,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ai Yori Aoshi,2231.3333333333335,1,1,1,0,0,0,0,0,0,0,0,0
+Megalo Box,81.33333333333333,1,0,0,0,0,0,2,0,0,0,0,0
 Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen,2755.0,0,0,0,0,1,0,0,0,0,0,0,0
 "Haikyuu!!: vs ""Akaten""",22.0,0,0,0,0,0,0,0,0,0,0,1,0
 Lupin III: Russia yori Ai wo Komete,1043.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -6389,9 +6628,11 @@ Kuroko no Basket Movie 4: Last Game,767.0,1,0,0,0,2,0,2,0,0,0,0,0
 Aoi Hana,2599.0,1,0,0,0,0,0,0,0,0,0,0,0
 Korekuraide Utau,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mini Skirt Gakuen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Nido to Mezamenu Komori Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit SD Gundam Mk III,6461.0,0,1,0,0,1,0,0,0,0,0,0,0
 Yonhyakunijuu Renpai Girl,7471.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nodame Cantabile OVA 2,203.0,0,0,0,0,1,0,0,0,0,0,0,0
+Rusty Nail,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Dragon Ball Z: The Real 4-D,228.0,0,0,0,0,0,0,0,0,0,0,1,0
 Gakuen Shinshoku: XX of the Dead,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kidou Shinsengumi Moeyo Ken TV,7903.0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -6446,7 +6687,7 @@ Tori no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Grimm Masterpiece Theater,1692.0,0,1,0,0,0,0,0,0,0,0,0,0
 Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen,66.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kagaku Ninja-tai Gatchaman F,5374.0,0,0,0,0,1,0,0,0,0,0,0,0
-Devilman,4492.181818181818,1,1,0,3,0,1,2,2,0,1,0,0
+Devilman,5166.0,1,1,0,3,0,1,2,2,0,1,0,0
 Street Fighter Alpha: Generations,5037.0,0,0,0,0,1,0,0,0,0,0,0,0
 Stitch!,2544.6666666666665,0,1,0,0,0,0,0,0,1,1,0,0
 Konnichiwa Onara Gorou,8161.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -6506,8 +6747,10 @@ Yu☆Gi☆Oh! The Dark Side of Dimensions Special: Eien no Rival - Yuugi to Kaib
 Suisei no Gargantia Specials,1364.0,0,0,0,0,0,0,0,0,0,0,1,0
 Macross F: Close Encounter - Deculture Edition,580.0,0,0,0,1,0,0,0,0,0,0,0,0
 Hana wa Saku,7141.0,0,0,0,0,0,0,1,0,0,0,0,0
+Lost Song,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Perman (1983),1146.0,0,0,3,1,1,0,0,0,0,0,0,0
 Puchitto Furikaerintia,1618.0,0,0,0,0,0,0,1,0,0,0,0,1
+Shanshui Qing,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahou Shoujo Nante Mou Ii Desukara.,3530.5,1,1,0,0,0,0,0,0,0,0,0,0
 Quanzhi Gaoshou (2018),458.0,0,0,0,0,1,0,0,0,0,0,0,0
 Planet:Valkyrie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6542,12 +6785,16 @@ Chocchan Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Iriya no Sora, UFO no Natsu",3305.0,1,0,0,0,0,0,0,0,0,0,0,0
 Bouken Yuuki Pluster World,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Spaceship Agga Ruter,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Shen Qi Huan Qi Tan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Queen&#039;s Blade Rebellion vs. Hagure Yuusha no Aesthetica,4369.0,0,0,0,0,0,0,0,0,0,2,0,0
 Canvas 2: Niji-iro no Sketch,0.0,1,0,0,0,0,0,1,0,0,0,0,0
 Rilu Rilu Fairilu: Mahou no Kagami,2273.5,0,1,0,0,1,0,0,0,0,0,0,0
 Chuunibyou demo Koi ga Shitai! Ren,1661.0,1,2,2,0,1,0,0,0,0,0,0,0
 Robin Hood no Daibouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Maison Ikkoku,2464.0,1,1,1,0,1,1,0,0,0,0,0,0
 Takamiya Nasuno Desu!: Teekyuu Spin-off,1390.3333333333333,1,0,1,0,0,0,0,0,0,0,1,0
+Kiseichuu no Ichiya,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Why,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Mayoi Neko Overrun! Specials,4201.0,0,0,0,0,0,0,0,0,0,0,1,0
 Mirai Nikki,1229.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kaichuu!,7523.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -6567,14 +6814,17 @@ Mayoiga no Oneesan The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Turning Girls,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Toriko: Barbarian Ivy wo Hokaku Seyo!,1120.0,1,0,0,0,0,0,1,0,0,0,0,0
 Busou Chuugakusei: Basket Army,7661.0,1,0,0,0,0,0,0,0,0,0,0,0
-Oz no Mahoutsukai (1986),0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Oz no Mahoutsukai (1986),7120.0,0,0,0,1,0,0,0,0,0,0,0,0
 Busou Shinki,3701.6666666666665,1,1,0,0,0,0,1,0,0,0,0,0
 Vampire Knight: Gekiai no Portrait,2447.0,0,0,0,0,0,0,0,0,0,0,1,0
 Time Travel Tondekeman!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Starmyu,2973.5,1,1,0,0,0,0,0,0,0,0,0,0
 Genji Monogatari,3530.0,0,0,0,1,0,0,0,0,0,0,0,0
+Darling in the FranXX,342.0,1,0,0,0,0,0,0,0,0,0,0,0
 Onegai☆Teacher: Himitsu na Futari,3075.3333333333335,0,0,0,0,0,0,0,2,0,0,1,0
+Kuro,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kanokon Specials,4972.0,0,0,0,0,0,0,0,0,0,0,1,0
+Hello Kitty no Stump Village,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hokuto no Ken Movie,600.0,1,0,0,1,0,0,0,0,0,0,0,0
 Usaband,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Stay the Same,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6590,15 +6840,18 @@ Onboro Film,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Coppelion,5443.0,1,0,0,0,0,0,0,0,0,0,0,0
 The Hakkenden: Shin Shou,4737.0,0,0,0,0,1,0,0,0,0,0,0,0
 Shoujo Ramune,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Watashi no Kao,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gakuen Nanafushigi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mirai Nikki: Redial,1013.0,1,0,0,0,1,0,0,0,0,0,0,0
 Persona 4 the Animation: The Factor of Hope,639.0,1,0,0,0,0,0,0,0,0,0,0,1
 Gunslinger Stratos: The Animation - Kikan/Kaze no Yukue,6689.5,0,0,0,2,0,0,0,0,0,0,0,0
 Ashita no Joe 2 (Movie),69.0,0,0,0,0,0,0,0,0,0,0,0,1
 Sousei no Onmyouji,1993.0,1,0,0,0,0,0,0,0,0,0,0,0
-Persona 5 the Animation: The Day Breakers,0.0,1,0,0,0,0,0,1,0,0,0,0,0
+Persona 5 the Animation: The Day Breakers,1125.5,1,0,0,0,0,0,1,0,0,0,0,0
 Bikini Warriors Special,8332.5,0,1,0,0,1,0,0,0,0,0,0,0
 Ahiru no Pekkle no Ahiru no Drakestail,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2020 Nyeon Ujuui Wonder Kiddy,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+6HP (Six Hearts Princess),7963.0,0,0,0,0,0,0,1,0,0,0,0,0
 Detective Conan Movie 19: The Hellfire Sunflowers,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Hime Gal♥Paradise,6858.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shocking Pink!,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -6617,6 +6870,7 @@ Force Live,3041.5,0,0,0,0,0,0,2,0,0,0,0,0
 Tokumu Sousakan Rei & Fuko,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Anne Happy♪,3293.0,1,0,0,0,0,0,0,0,0,0,0,0
 Digimon Tamers: Boukensha-tachi no Tatakai,1215.0,0,0,0,0,0,0,0,0,0,0,1,0
+Coffee Break,9145.0,0,0,0,0,0,0,1,0,0,0,0,0
 Zoku Gosenzo San&#039;e,12919.0,0,0,0,0,1,0,0,0,0,1,0,0
 Bavel no Hon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kyojin no Hoshi,2211.714285714286,1,1,4,1,0,0,0,0,0,0,0,0
@@ -6668,6 +6922,7 @@ Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!,948.0,0,1,0,0,1,0,0,0,0,0,0,0
 Otenki Oneesan,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shinkon Gattai Godannar!!,3428.0,0,1,0,0,0,0,0,0,0,0,0,0
 Fukusuke,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Hanaori,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Blood Royale,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Black Magic M-66,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Grenadier: Hohoemi no Senshi,2529.5,1,0,1,0,0,0,0,0,0,0,0,0
@@ -6683,6 +6938,7 @@ Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki,1946.0,0,0,0,0,0,
 Kyouiku Shidou The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Project A-Ko 3: Cinderella Rhapsody,2450.0,0,1,0,0,1,0,0,0,0,0,0,0
 Sanjougattai Transformers Go!,1312.0,0,0,0,0,0,0,1,0,0,0,0,0
+Chains & Rings,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Psychic Force,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Joou Heika no Petite Angie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ecchi de Happy! Pin! Pin! Pin!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6697,15 +6953,17 @@ To Heart 2 Adnext,3409.0,1,1,0,0,1,0,0,0,0,0,0,0
 Mobile Suit Gundam Wing: Operation Meteor,817.0,0,0,0,0,0,0,0,0,0,0,0,1
 Senran Kagura,2668.0,1,1,2,0,0,0,0,0,0,0,0,0
 Kansen 5: The Daybreak,12919.0,0,0,0,0,1,0,1,0,0,0,0,0
+Propagate,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shin Mazinger Shougeki! Z-hen,1294.0,2,0,0,1,0,0,0,0,0,0,0,0
 Koutetsushin Jeeg,2778.0,0,0,0,0,1,0,0,0,0,0,0,0
 Fukumenkei Noise,2957.0,1,0,0,0,0,0,0,0,0,0,0,0
 Silent Möbius,5331.666666666667,1,0,0,2,0,0,0,0,0,0,0,0
 Jinzou Ningen Kikaider The Animation,2272.25,2,1,0,0,0,0,0,0,0,1,0,0
 Shin Hurricane Polymar,4848.0,0,0,0,1,0,0,0,0,0,0,0,0
-Kyoto Animation: Megane-hen,409.6666666666667,0,0,0,0,0,0,8,0,0,0,0,1
+Kyoto Animation: Megane-hen,2028.6666666666667,0,0,0,0,0,0,8,0,0,0,0,1
 Genzai Byoto,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Fullmetal Alchemist,950.0,2,1,1,1,0,1,0,0,0,0,0,0
+Ai Tenshi Densetsu Wedding Peach Specials,4433.0,0,0,0,0,0,0,0,0,0,0,1,0
 Toshi Densetsu Series,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special,4362.0,0,0,0,0,0,0,1,0,0,0,0,0
 Dousou Kai,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -6758,6 +7016,7 @@ Chou Dendou Robo Tetsujin 28-gou FX,5351.0,0,0,0,0,1,0,0,0,0,0,0,0
 Hakuouki Shinkai: Kaze no Shou,1522.0,0,0,0,0,0,0,0,0,0,0,1,0
 Sin in the Rain,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detective Conan OVA 11: A Secret Order from London,0.0,0,0,0,0,0,0,0,0,0,0,1,0
+Dreams,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Earthian,6642.0,1,0,0,0,0,0,0,0,0,0,0,0
 One: Kagayaku Kisetsu e - True Stories,8767.0,0,0,0,0,1,0,0,0,0,0,0,0
 Canaan,3011.0,2,0,0,0,0,1,0,0,0,0,0,0
@@ -6774,6 +7033,7 @@ Project ARMS,1435.0,1,1,0,0,0,0,0,0,0,0,0,0
 Ginga Kikoutai Majestic Prince,643.6666666666666,2,1,0,0,0,0,0,0,0,0,0,0
 Stitch!: Itazura Alien no Daibouken,7464.0,0,1,0,0,1,0,0,0,0,0,0,0
 IS: Infinite Stratos 2 - Hitonatsu no Omoide,3908.5,1,0,0,1,0,0,0,0,0,0,0,0
+Yowai Mushi,1015.0,0,0,0,0,0,0,1,0,0,0,0,0
 Major: Message,42.333333333333336,1,1,0,0,1,0,0,0,0,0,0,0
 C³,4219.5,1,0,1,0,0,0,0,0,0,0,0,0
 Umi ga Kikoeru,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6784,6 +7044,7 @@ Asa kara Zusshiri Milk Pot,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Cipher,8992.0,1,0,0,0,0,0,0,0,0,0,0,0
 My Life,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kindaichi Shounen no Jikenbo,1724.7,3,1,4,1,0,0,1,0,0,0,0,0
+Junjou Romantica Special,568.0,1,0,0,0,0,0,1,0,0,0,0,0
 ChäoS;Child: Silent Sky,5398.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kaitou Reinya,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Mamotte Shugogetten!,4910.5,1,1,0,0,0,0,0,0,0,0,0,0
@@ -6811,15 +7072,18 @@ Yuugen Kaisha,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Ushio to Tora (TV),1961.6666666666667,1,1,0,1,0,0,0,0,0,0,0,0
 Enkou Shoujo: Rikujoubu Yukki no Baai The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Suzy&#039;s Zoo: Daisuki! Witzy,7446.0,0,0,1,0,0,0,0,0,0,0,0,0
+I&#039;m Here with You,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari,9346.5,0,0,0,1,1,0,0,0,0,0,0,0
 Kemono no Souja Erin,1729.5,1,0,0,0,0,1,0,0,0,0,0,0
 Zhan Guo FAN,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Detective Conan OVA 01: Conan vs. Kid vs. Yaiba,1463.0,0,0,0,0,0,0,0,0,0,0,2,0
 Muteki Koujin Daitarn 3,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ito Junji: Collection,0.0,17,0,0,0,0,0,1,0,0,0,0,0
 Akane Maniax,2238.0,0,0,0,0,0,0,0,1,0,0,0,0
 Shuten Douji,7597.0,1,0,0,0,0,0,0,0,0,0,0,0
 VS Knight Lamune & 40 Fire,5518.0,1,1,0,0,1,0,0,0,0,0,0,0
 Kaze no Toori Michi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Yami wo Mitsumeru Hane,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahou Shoujo Ai San: The Anime,12919.0,1,0,0,0,1,0,0,0,0,0,0,0
 Koro-sensei Quest!,2391.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kateikyoushi no Oneesan The Animation: H no Hensachi Agechaimasu,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
@@ -6833,6 +7097,7 @@ Cowboy Bebop: Tengoku no Tobira,27.0,0,0,0,0,0,0,0,0,0,0,1,0
 Seto no Hanayome OVA Specials,584.0,0,0,0,0,0,0,0,1,0,0,0,0
 Sparrow&#039;s Hotel,8287.0,1,0,0,0,0,0,0,0,0,0,0,0
 Crayon Shin-chan Gaiden: Omocha Wars,1077.25,1,1,0,0,1,0,1,0,0,0,0,0
+Dororo Pilot,852.3333333333334,1,0,0,2,0,0,0,0,0,0,0,0
 Gintama.,29.666666666666668,1,1,0,0,1,0,0,0,0,0,0,0
 Uchuu Senkan Yamato: Fukkatsu-hen,3478.0,0,0,0,0,1,0,0,0,0,0,0,0
 Munto,2858.5,0,1,0,1,0,0,0,0,0,0,0,0
@@ -6848,6 +7113,7 @@ Shuffle!,3658.25,2,0,0,1,0,1,0,0,0,0,0,0
 Mobile Suit Gundam UC: A Phantom World,232.0,0,0,0,0,0,0,1,0,0,0,0,0
 Sekaiichi Hatsukoi OVA,234.5,1,0,0,0,0,0,0,0,0,0,1,0
 Yurumates 3D Plus,3996.3333333333335,1,0,1,0,1,0,0,0,0,0,0,0
+Ginga Eiyuu Densetsu: Die Neue These - Kaikou,4.0,1,1,0,1,0,0,0,0,0,0,0,0
 Ginga Senpuu Braiger,5984.0,0,1,0,0,0,0,0,0,0,0,0,0
 Lo Re: Pako Sukusuku Mizuki-chan The Animation,6459.5,1,0,0,0,0,0,1,0,0,0,0,0
 Kyou kara Maou! 3rd Series,703.5,1,0,0,0,1,0,0,0,0,0,0,0
@@ -6856,7 +7122,7 @@ Beyblade Burst,4114.0,1,1,0,0,0,0,1,1,0,1,0,0
 Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Spoon Oba-san,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuki no Joou (TV),0.0,0,0,0,1,0,0,0,0,0,0,0,0
-Tengen Toppa Gurren Lagann,1679.7777777777778,1,0,2,2,0,0,0,1,2,1,0,0
+Tengen Toppa Gurren Lagann,1896.888888888889,1,0,2,2,0,0,0,1,2,1,0,0
 Dondon Domeru to Ron,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kekkaishi,1135.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ray The Animation,537.0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -6898,6 +7164,7 @@ Unico: Mahou no Shima e,2367.0,0,0,0,0,1,0,0,0,0,0,0,0
 Honto ni Atta! Reibai Sensei,6652.0,1,0,0,0,0,0,1,0,0,0,0,0
 Mardock Scramble: The Third Exhaust,866.5,1,0,0,0,1,0,0,0,0,0,0,0
 Captain Tsubasa: Road to 2002,1964.5,1,0,0,0,1,0,0,0,0,0,0,0
+Hunter x Hunter Pilot,118.0,1,0,0,0,0,0,0,0,0,0,1,0
 Nanako SOS,5998.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Subarashii Sekai Ryokou: New York Tabi ""Computopia Seireki Nisennen no Monogatari""",0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Mushrambo,1618.0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -6925,6 +7192,7 @@ Eat-Man &#039;98,5113.0,1,0,0,0,1,0,0,0,0,0,0,0
 Injuu Gakuen EX,8612.666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Discipline Zero,12919.0,0,1,0,0,0,0,0,0,0,0,0,0
 GJ-bu@,1846.0,0,0,0,0,1,0,0,0,0,0,0,0
+Beatless,3474.0,1,0,0,0,0,1,0,0,0,0,0,0
 Bobby ni Kubittake,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sugai-kun to Kazoku Ishi The Movie,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Doctor Chichibuyama,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6954,6 +7222,7 @@ Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer,686.0,0,0,0,0,0,0,
 Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,693.0,0,0,0,0,0,0,0,0,0,0,1,0
 Yami no Matsuei,2874.0,1,0,0,0,0,0,0,0,0,0,0,0
 Dragon Age: Blood Mage no Seisen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+12-gatsu no Uta,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mobile Suit Gundam 0083: The Fading Light of Zeon,971.5,1,0,0,0,0,0,0,0,1,0,0,0
 Dr. Slump,883.2857142857143,1,0,3,1,0,0,0,1,0,1,0,0
 Hyakka Ryouran: Samurai Bride,4157.5,1,1,1,0,1,0,0,0,0,0,0,0
@@ -7008,7 +7277,7 @@ Fushigi na Somera-chan,3729.0,1,0,1,0,0,0,0,0,0,0,0,0
 Telepathy Shoujo Ran,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gift: Eternal Rainbow Special,4575.0,0,0,0,0,0,0,0,0,0,0,1,0
 Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks,298.5,1,0,0,0,0,0,0,0,0,0,1,0
-Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,2.5,0,1,0,1,0,0,0,0,0,0,0,0
+Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,4.5,0,1,0,1,0,0,0,0,0,0,0,0
 Rhythm: Koi no Rhythm,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kami nomi zo Shiru Sekai: 4-nin to Idol,1794.25,1,1,0,0,1,0,1,0,0,0,0,0
 God Mazinger,3605.5,1,0,0,0,0,0,1,0,0,0,0,0
@@ -7027,6 +7296,7 @@ Shoujo Sect,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Captain Tsubasa: Europe Daikessen,2173.0,0,0,0,0,0,0,0,0,0,0,1,0
 Stitch!: Piko Kara no Chousenjou,6910.5,0,1,0,0,1,0,0,0,0,0,0,0
 Dokgotak Dasi Chajeun Maundeu,11366.0,0,0,0,0,1,0,0,0,0,0,0,0
+Yukidoke,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bishoujo Senshi Sailor Moon Crystal Season III,1296.5,1,1,0,1,1,0,0,0,0,0,0,0
 Mobile Suit Gundam 00 Special Edition,321.0,0,0,0,0,0,0,0,0,0,0,0,2
 Seijuuki Cyguard,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7037,6 +7307,7 @@ Higashi no Eden Movie I: The King of Eden,545.6666666666666,1,1,0,0,1,0,0,0,0,0,
 Gokiburi-tachi no Tasogare,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Reinou Tantei Miko,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tokubetsu Jugyou,6459.5,1,1,0,0,0,0,0,0,0,0,0,0
+Badaui Jeonseol Jangbogo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 School Days: Magical Heart Kokoro-chan,7313.0,0,0,0,0,0,0,0,1,0,0,0,0
 Gundam: G no Reconguista,2498.6,1,0,2,0,1,0,1,0,0,0,0,0
 Love Live! School Idol Project 2nd Season Recap,1749.0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -7057,12 +7328,14 @@ Teito Monogatari,7313.0,1,0,0,0,0,0,0,0,0,0,0,0
 Don Chuck Monogatari,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Tokkou,4911.0,1,0,0,0,0,0,0,0,0,0,0,0
 Doraemon (1979),1658.8392857142858,1,1,52,1,1,0,0,0,0,0,0,0
+Super Mario World: Mario to Yoshi no Bouken Land,8955.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tsuyokiss,4865.0,1,0,0,0,0,0,0,0,0,0,0,0
 Guren,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Injuu Nerawareta Idol,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bakumatsu Kikansetsu Irohanihoheto,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Otome Chibaku Yuugi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Oishinbo,6911.0,1,1,0,0,0,0,0,0,0,0,0,0
+Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film,1229.0,0,0,0,0,0,0,1,0,0,0,0,0
 Joou-sama wa M Dorei,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Spirit of Wonder: China-san Tanpenshuu,2212.0,0,0,1,0,0,0,0,0,0,0,1,0
 Doraemon Movie 17: Nobita to Ginga Express,1646.3333333333333,1,0,0,0,0,0,1,0,0,0,1,0
@@ -7115,6 +7388,7 @@ GA: Geijutsuka Art Design Class OVA,2809.0,1,0,0,0,0,0,0,0,0,0,1,0
 Sonic★the★Hedgehog,5478.5,0,0,0,0,0,0,0,0,2,0,0,0
 Ichigo Mashimaro Episode 0,1039.0,1,0,0,0,0,0,0,0,0,0,1,0
 Aquarian Age: Sign for Evolution,3735.0,1,1,0,0,0,0,0,0,0,0,0,0
+Detective Conan: Let&#039;s Try a Curious Experiment!,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Umi Monogatari: Marin no Kore Naani?,4605.0,0,0,0,0,0,0,0,0,0,0,1,0
 Rainbow: Nisha Rokubou no Shichinin,72.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mahoutsukai Haley no Speed Story,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7157,9 +7431,12 @@ Aa Harimanada,6814.0,1,0,0,0,0,0,0,0,0,0,0,0
 Morita-san wa Mukuchi. 2,3752.5,1,0,1,1,1,0,0,0,0,0,0,0
 Dorami & Doraemons: Robot School&#039;s Seven Mysteries,2106.0,0,0,0,0,0,0,1,0,0,0,0,0
 Hump Bang,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Sakura,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ookiku Furikabutte Special,479.0,0,0,0,0,0,0,0,0,0,0,1,0
 Aries: Shinwa no Seizakyuu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Pururun! Shizuku-chan,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Nanoha,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Boku no Hero Academia 3rd Season,57.333333333333336,1,0,0,0,1,0,1,0,0,0,0,0
 Neo Ranga,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Spectral Force,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Yozakura Quartet: Tsuki ni Naku,2656.5,1,0,0,0,1,0,0,0,0,0,0,0
@@ -7171,7 +7448,8 @@ Tanken Driland,6481.0,1,0,0,0,0,0,0,0,1,0,0,0
 Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma no Hibi,344.0,0,0,0,0,0,0,0,0,0,0,1,0
 Kiddy Grade: Maelstrom,2728.6666666666665,0,1,0,0,1,0,0,0,0,0,0,1
 Ginga Eiyuu Densetsu Gaiden,271.0,1,1,0,0,0,0,0,0,0,0,1,0
-Kujira no Chouyaku,0.0,0,0,0,1,0,0,0,0,0,0,0,0
+Kujira no Chouyaku,6575.0,0,0,0,1,0,0,0,0,0,0,0,0
+Kouchou-sensei to Kujira,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Canaan: Minorikawa Report 201X Shanghai,2172.0,0,0,0,0,0,0,0,0,0,0,0,1
 Mobile Suit Gundam III: Encounters in Space,970.3333333333334,0,1,0,0,1,0,0,0,0,0,0,1
 Doraemon: The Day When I Was Born,2417.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -7193,8 +7471,10 @@ Geneshaft,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Idol☆Sister,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Ginga Hyouryuu Vifam 13,2611.0,0,0,0,1,0,0,0,0,0,0,0,0
 Cookin&#039; Idol Ai! Mai! Main!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Yowamushi Pedal: Glory Line,600.5,1,0,0,0,1,0,0,0,0,0,0,0
 Nanatsu no Bitoku Specials,8835.0,0,0,0,0,0,0,0,0,0,0,1,0
 Comic Party Specials,4956.0,0,0,0,0,0,0,0,0,0,0,1,0
+Piano no Mori (TV),864.0,1,0,0,1,0,0,0,0,0,0,0,0
 Norakuro Nitouhei: Kyouren no Maki,2982.0,1,0,0,0,0,0,2,0,0,0,0,0
 TO-Y,6285.0,1,0,0,0,0,0,0,0,0,0,0,0
 Pico x CoCo x Chico,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -7214,6 +7494,7 @@ Nama Lo Re: Furachimono The Animation,6459.5,1,0,0,0,1,0,0,0,0,0,0,0
 Final Fantasy VII: Advent Children Complete,1770.5,0,0,1,1,0,0,0,0,0,0,0,0
 Tsunpri,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Red Ash: Gearworld,2536.0,0,0,0,0,0,0,3,0,0,0,0,0
+Don&#039;t You Wish You Were Here?,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Animation Kikou: Marco Polo no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Maido! Urayasu Tekkin Kazoku,4990.5,1,0,0,0,1,0,0,0,0,0,0,0
 Inazma Delivery: Dougyousha Attack-hen,3110.0,0,0,0,0,1,0,1,0,0,0,0,0
@@ -7230,6 +7511,7 @@ Green Legend Ran,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chou Mashin Eiyuuden Wataru,3309.0,0,0,0,0,1,0,0,0,0,0,0,0
 Koe de Oshigoto! The Animation,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Mori no Densetsu,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Kaitei no Boukun,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 B Who I Want 2 B,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nameko-ke no Ichizoku,0.0,0,0,0,0,0,0,0,0,1,0,0,0
 "Yuyushiki: Komarasetari, Komarasaretari",1915.0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -7246,6 +7528,7 @@ Minami no Niji no Lucy,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Midori no Hibi,2077.0,1,0,0,0,0,0,0,0,0,0,0,0
 Quanzhi Fashi,4984.0,0,1,0,0,0,0,0,0,0,0,0,0
 Ai no Gakkou Cuore Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Okon Joururi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambrian,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Super Lovers,1236.6666666666667,1,2,0,0,0,0,0,0,0,0,0,0
 OZ,8345.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -7267,6 +7550,7 @@ Pucca (2008),5387.0,0,0,0,0,1,0,0,0,0,0,0,0
 Arabian Nights: Sindbad no Bouken (TV),0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kishin Taisen Gigantic Formula,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Omoide Poroporo,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Hinamatsuri,508.0,1,0,0,0,0,0,0,0,0,0,0,0
 Phantasy Star Online 2 The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Akebi no Hana: Maho,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hanasaku Iroha,2242.6666666666665,1,0,1,0,0,0,0,0,0,1,0,0
@@ -7281,12 +7565,13 @@ Tono to Issho: Ippunkan Gekijou,3184.6666666666665,1,1,0,1,0,0,0,0,0,0,0,0
 Bakemonogatari,1253.5,1,1,1,0,1,1,1,0,0,0,0,0
 Hinako Note,4270.0,1,0,0,0,0,0,0,0,0,0,0,0
 Violence Gekiga David no Hoshi,0.0,0,1,0,0,0,0,0,0,0,0,0,0
-Atagoal wa Neko no Mori,0.0,1,0,0,0,0,0,0,0,0,1,0,0
+Atagoal wa Neko no Mori,5065.5,1,0,0,0,0,0,0,0,0,1,0,0
 Suishou no Yoru: Aoi Kokuhaku yori,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mojakou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Grisaia no Meikyuu: Caprice no Mayu 0,848.75,1,1,1,0,1,0,0,0,0,0,0,0
 Road to You: Kimi e to Tsuzuku Michi,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Yozakura Quartet: Yoza-Quar!,1450.0,0,0,0,0,0,0,1,0,0,0,0,0
+Kaguya-hime,4379.666666666667,0,0,0,3,0,0,0,0,0,0,0,0
 Yakin Byoutou Kranke,12919.0,0,0,0,0,0,0,0,1,0,0,0,0
 Marimo no Hana: Saikyou Butouha Shougakusei Densetsu,8977.0,1,0,0,0,0,0,0,0,0,0,0,0
 Uchuu no Kishi Tekkaman Blade OVA: Twin Blood,1512.0,0,0,0,1,0,0,0,0,0,0,0,0
@@ -7315,12 +7600,15 @@ Shijou Saikyou no Deshi Kenichi Specials,407.0,0,0,0,0,0,1,0,0,0,0,1,0
 Top wo Nerae 2! Diebuster,446.0,2,0,0,1,1,0,1,0,0,0,0,0
 Uchuu no Kishi Tekkaman Blade II,1512.0,0,0,0,0,1,0,0,0,0,0,0,0
 Ojisan to Marshmallow,5981.5,1,0,1,0,0,0,0,0,0,0,0,0
+Hoshizora no Violin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Zukkoke Knight: Don De La Mancha,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aozora Shoujo-tai,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Agitated Screams of Maggots,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 One Piece: Adventure of Nebulandia,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Net-juu no Susume Special,785.0,1,0,0,0,1,0,0,0,0,0,0,0
 Mikan-bune,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Time Bokan 24,2568.0,0,1,0,0,0,0,0,0,1,0,0,0
+One Piece Film: Strong World Episode 0,70.0,1,1,0,0,0,0,0,0,0,0,1,0
 Shin Seiki Cream Lemon,12919.0,0,0,0,0,0,0,0,0,0,0,1,0
 Saint Seiya: Meiou Hades Meikai-hen,642.0,1,1,0,0,1,0,0,0,0,0,0,0
 Biohazard: Vendetta,2221.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -7339,6 +7627,7 @@ Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials,2147.0,0,0,0,0,0,0,0,0,0,0,
 Magic Knight Rayearth,2168.0,1,1,0,1,0,0,0,0,0,0,0,0
 Mahou no Princess Minky Momo: Yume wo Dakishimete,3453.0,0,0,2,1,0,0,0,0,0,0,0,0
 Elite Jack!!,10062.0,1,0,0,0,0,0,0,0,0,0,0,0
+Tada-kun wa Koi wo Shinai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rescue Me!,7216.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gravitation,3037.0,1,0,1,0,0,0,0,0,0,0,0,0
 Shikabane Hime: Kuro,3004.25,1,0,2,0,1,0,0,0,0,0,0,0
@@ -7346,7 +7635,7 @@ Garo: Honoo no Kokuin - Home,1287.5,0,1,0,0,1,0,0,0,0,0,0,0
 A-Channel+smile,3442.0,1,0,0,0,1,0,0,0,0,0,0,0
 Wakako-zake,4823.0,1,0,0,0,0,0,0,0,0,0,0,0
 Omishi Mahou Gekijou: Risky★Safety,0.0,1,0,0,0,0,0,0,0,0,0,0,0
-Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin,114.0,0,0,0,0,0,0,1,0,0,0,1,0
+Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin,2067.5,0,0,0,0,0,0,1,0,0,0,1,0
 "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",235.0,1,0,0,0,1,0,0,0,0,0,0,0
 Yuri Seijin Naoko-san,6425.0,1,0,0,0,0,0,1,0,0,0,0,0
 Pokemon Best Wishes!: Victini to Kuroki Eiyuu Zekrom,3078.6666666666665,1,0,0,1,0,0,0,0,0,0,1,0
@@ -7386,7 +7675,7 @@ Ushiro no Shoumen Daare,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Higurashi no Naku Koro ni Rei,64.33333333333333,2,0,0,0,1,0,0,0,0,0,0,0
 Ooyasan wa Shishunki!,5798.0,1,0,0,0,0,0,0,0,0,1,0,0
 Jigoku Sensei Nube: Gozen 0 toki Nube Shisu!,1198.0,0,0,0,0,0,0,0,0,0,0,1,0
-Qin Shi Ming Yue: Ye Jin Tianming,1942.3333333333333,0,1,0,0,1,0,0,4,0,0,0,0
+Qin Shi Ming Yue: Ye Jin Tianming,3917.5,0,1,0,0,1,0,0,4,0,0,0,0
 Amagami SS+ Plus Picture Drama,1452.0,0,0,0,0,0,0,1,0,0,0,0,0
 Ba La La Xiao Mo Xian Zhi: Qiji Wubu,6710.5,0,1,0,0,1,0,0,0,0,0,0,0
 Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland,30.0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -7407,7 +7696,9 @@ Gyo,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kuroko no Basket 2nd Season NG-shuu,109.0,0,0,0,0,0,0,1,0,0,0,0,0
 Battle Athletess Daiundoukai,1779.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kill Me Baby,3506.0,1,0,1,0,0,0,0,0,0,0,0,0
+Detective Conan OVA 02: 16 Suspects,0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Gear Fighter Dendoh,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+the FLY BanD!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kyouhaku II (Second): Mou Hitotsu no Ashita The Animation,12919.0,0,0,0,1,1,0,0,0,0,0,0,0
 Mobile Suit Gundam AGE: Memory of Eden,5339.0,0,0,0,0,0,0,0,0,0,0,0,1
 Akage no Anne Specials,957.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -7423,6 +7714,7 @@ Yuuki Yuuna wa Yuusha de Aru,2770.0,1,1,0,0,1,1,1,0,0,0,0,0
 Nisekoi OVA,1349.75,2,0,0,0,0,0,1,0,0,0,1,0
 Shin Ringetsu,12919.0,0,0,0,1,0,0,0,0,0,1,0,0
 Nozomi Witches,5999.0,1,0,0,0,0,0,0,0,0,0,0,0
+Zoku Attacker You! Kin Medal e no Michi,4996.0,0,0,0,0,1,0,0,0,0,0,0,0
 DigiGirl Pop!: Strawberry & Pop Mix Flavor,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hungry Days: Aoharu ka yo.,921.3333333333334,0,0,0,3,0,0,0,0,0,0,0,0
 Tengen Toppa Gurren Lagann: Parallel Works,1715.0,0,1,0,0,0,0,0,0,1,0,0,0
@@ -7433,6 +7725,7 @@ Kimi ga Nozomu Eien: Next Season,2238.0,0,0,0,1,0,0,0,0,0,0,0,0
 Kamikaze Kaitou Jeanne,1577.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tenpou Suikoden Neo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yakushiji Ryouko no Kaiki Jikenbo,1493.0,1,0,0,0,0,1,0,0,0,0,0,0
+Last Period: Owarinaki Rasen no Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kaze Tachinu,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Love Live! Sunshine!! 2nd Season,943.6666666666666,0,1,0,0,1,0,1,0,0,0,0,0
 Angel Core: Tenshi-tachi no Sumika,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7446,6 +7739,7 @@ Needless,3163.0,1,0,1,0,0,0,0,0,0,0,0,0
 "Naruto Shippuuden: Shippuu! ""Konoha Gakuen"" Den",337.0,0,0,0,0,0,0,0,0,0,0,1,0
 Boogiepop wa Warawanai: Boogiepop Phantom,0.0,1,0,0,0,0,0,1,0,0,0,0,0
 Tenshi no Drop,9475.0,1,0,0,0,0,0,0,0,0,0,0,0
+Kitsune no Home Run Ou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Macross 7 Plus,2731.0,0,0,0,0,0,0,0,0,0,0,1,0
 Bokurano,3862.5,1,0,0,0,0,1,0,0,0,0,0,0
 Ikenai Koto The Animation,8612.666666666666,1,1,0,0,0,0,1,0,0,0,0,0
@@ -7508,7 +7802,7 @@ Run=Dim,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kara no Kyoukai 5: Mujun Rasen,1741.0,1,1,0,0,1,1,1,0,0,0,0,0
 Sensei no Ojikan: Doki Doki School Hours OVA,4512.0,0,0,0,0,1,0,0,0,0,0,0,0
 Tasogare Otome x Amnesia: Taima Otome,644.0,0,0,0,0,1,0,0,0,0,0,0,0
-High School DxD BorN: Yomigaeranai Fushichou,574.0,0,1,0,0,1,0,0,0,0,0,0,0
+High School DxD BorN: Yomigaeranai Fushichou,1287.5,0,1,0,0,1,0,0,0,0,0,0,0
 Osomatsu-san Short Film Series 2nd Season,3028.5,0,0,0,0,1,0,0,0,0,0,1,0
 Eureka Seven AO Final Episode: One More Time - Lord Don&#039;t Slow Me Down,4265.0,0,0,0,0,1,0,0,0,0,0,0,0
 Handsome Girl,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -7525,6 +7819,7 @@ Hori-san to Miyamura-kun,1973.0,1,0,0,0,0,0,0,0,0,0,0,0
 IGPX: Immortal Grand Prix (2005) 2nd Season,2847.0,0,0,0,0,1,0,0,0,0,0,0,0
 Toaru Hikuushi e no Tsuioku,1836.0,1,0,0,0,0,0,0,1,0,0,0,0
 Arslan Senki (TV): Dakkan no Yaiba,838.0,0,0,0,0,0,0,0,0,0,0,0,1
+Detective Conan: Anti-Crime Guide,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Noragami OVA,301.0,2,0,0,0,0,0,1,0,0,0,1,0
 True Blue: Gaiden,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Acchi Kocchi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7543,6 +7838,7 @@ Kaidan Restaurant,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Maid-san to Boin Damashii,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Atarashii Sekai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Break Blade 4: Sanka no Chi,1370.75,1,1,0,1,1,0,0,0,0,0,0,0
+Anime Douyou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Miami Guns,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nurarihyon no Mago Recaps,2856.5,0,1,0,0,0,0,0,0,0,0,0,1
 Fullmetal Alchemist: Reflections,247.0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -7600,6 +7896,7 @@ Fate/Apocrypha: Seihai Daisen Kaimaku-hen,2840.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shinmai Maou no Testament Burst OVA,3058.0,0,0,0,0,0,0,0,0,0,0,1,0
 Fairy Tail OVA,452.0,1,0,0,0,0,0,0,0,0,0,1,0
 Detatoko Princess,7131.0,1,0,0,0,0,0,0,0,0,0,0,0
+Doujouji,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 M Ogui: Last Order,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Silent Möbius: The Motion Picture,4677.333333333333,1,1,0,1,0,0,0,0,0,0,0,0
 Onmyouji Ayakashi no Megami: Inran Jubaku,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -7607,6 +7904,7 @@ Nozo x Kimi,5230.0,1,0,0,0,0,0,0,0,0,0,1,0
 Ningyou no Yakata,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tell Your World,1712.5,0,0,0,0,0,0,0,0,0,2,0,0
 Ace wo Nerae!: Final Stage,2238.5,1,0,0,0,1,0,0,0,0,0,0,0
+Enkinhou no Hako: Hakase no Sagashimono,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Soul Eater NOT!,3613.5,1,0,0,0,0,0,0,0,0,0,1,0
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,396.3333333333333,1,0,1,0,1,0,0,0,0,0,0,0
 Sei Yariman Sisters Pakopako Nikki The Animation,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -7617,6 +7915,7 @@ Pia Carrot e Youkoso!! 2 DX,7356.0,0,1,0,0,0,0,0,0,0,0,0,0
 Senkou no Night Raid: Yogen,3792.0,0,0,0,0,0,0,0,0,0,0,0,1
 Oneechan ga Kita,5517.5,1,1,0,0,0,0,0,0,0,0,0,0
 30th Gundam Perfect Mission,763.0,0,0,0,0,0,0,1,0,0,0,0,0
+Mr. Deniroo in Henteko Mushi,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Urda,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Grope: Yami no naka no Kotoritachi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Michiko to Hatchin,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7636,8 +7935,10 @@ Tennis no Ouji-sama: Mini Theater,550.0,0,0,0,0,0,0,0,0,0,0,1,0
 Karaoke Senshi Mike-tarou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rilu Rilu Fairilu: Yousei no Door,11875.0,0,1,0,0,0,0,0,0,0,0,0,0
 Detective Conan OVA 09: The Stranger in 10 Years...,0.0,0,0,0,0,0,0,0,0,0,0,1,0
+Kago Shintarou Anime Sakuhin Shuu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Full Metal Panic? Fumoffu,374.75,2,0,0,0,0,0,0,0,0,0,2,0
 Candy Candy,1445.75,1,0,2,0,0,1,0,0,0,0,0,0
+Jubilee,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimi to Boku,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Wizard Girl Ambitious,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sakura Trick,3008.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -7650,8 +7951,9 @@ Higurashi no Naku Koro ni Kaku: Outbreak,437.0,0,0,0,0,0,0,0,0,0,0,1,0
 Utawarerumono: Itsuwari no Kamen Specials,2289.0,0,0,0,0,0,0,0,0,0,0,1,0
 Junk Story: Tetsukuzu Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bakemonogatari Recap,191.0,0,0,0,0,0,0,0,0,0,0,0,1
-Magic Kaito 1412,290.5,1,0,0,1,0,0,0,1,1,0,0,0
+Magic Kaito 1412,620.5,1,0,0,1,0,0,0,1,1,0,0,0
 Tensai Bakavon: Yomigaeru Flanders no Inu,3711.5,0,0,0,0,0,0,2,0,0,0,0,0
+Kyoto Animation: Ikitaku Naru Omise-hen,2133.5,0,0,0,0,0,0,8,0,0,0,0,0
 Kimi dake no Boku de Iru kara,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Metal Fight Beyblade,4395.0,1,1,0,0,0,0,0,1,0,0,0,0
 Red Baron,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7666,6 +7968,7 @@ Konjiki no Gash Bell!!: 101 Banme no Mamono,1252.0,0,0,0,0,0,0,0,0,0,0,1,0
 Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension,438.0,0,0,0,0,0,0,0,0,0,0,1,0
 Arbeit Shiyo!!,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Brave Fire S0.9,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Robotica*Robotics,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aria The Natural,761.25,1,1,1,0,1,0,0,0,0,0,0,0
 Tailenders,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rokudenashi Blues 1993,6659.0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -7731,7 +8034,9 @@ Monsuto Anime: Kieyuku Uchuu-hen,3018.5,0,0,0,0,1,0,1,0,0,0,0,0
 Kennel Tokorozawa,9215.0,1,0,0,0,0,0,0,0,0,0,0,0
 Girls & Panzer: Nihon Senshadou Renmei News,1217.0,0,0,0,0,0,0,1,0,0,0,0,0
 Eiyuu Gaiden Mozaicka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Isu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kiddy Grade,2718.8333333333335,1,2,0,0,0,3,0,0,0,0,0,0
+Tennis no Ouji-sama: Sonzoku Yama no Hi,550.0,0,0,0,0,0,0,0,0,0,0,1,0
 CB Chara Go Nagai World,4867.0,0,0,0,0,0,0,4,0,0,0,0,0
 ef: A Tale of Melodies. - Prologue,407.0,0,1,0,0,0,0,0,0,0,0,0,0
 Aria The Origination,813.4,1,1,2,0,1,0,0,0,0,0,0,0
@@ -7748,6 +8053,8 @@ Fuujin Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Natsu-iro Kiseki: 15-kaime no Natsuyasumi,3419.0,0,0,0,0,1,0,0,0,0,0,0,0
 Claymore,752.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hottarake no Shima: Haruka to Mahou no Kagami,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Sekaikei Sekai Ron,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Anime Hachiko Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 The House,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Minami-ke Okawari,1056.6666666666667,1,1,0,0,1,0,0,0,0,0,0,0
 Lupin III: Lupin vs. Fukusei-ningen,720.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -7833,6 +8140,7 @@ Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou,5916.0,0,0,0,0,0,0,0,0,0
 Sentou Yousei Shoujo Tasukete! Mave-chan,2587.0,0,0,0,0,0,0,1,0,0,0,0,0
 Doraemon Movie 09: Nobita no Parallel Saiyuuki,1034.0,0,0,0,0,0,0,0,0,0,0,1,0
 Shinmai Maou no Testament Departures,3188.0,1,0,0,0,1,0,0,0,0,0,0,0
+Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko,1252.0,0,0,0,0,0,0,0,0,0,0,1,0
 Okusama wa Moto Yariman,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Hanbun no Tsuki ga Noboru Sora,1269.0,2,0,0,0,0,0,0,0,0,0,0,0
 Vampire Holmes,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7843,6 +8151,7 @@ Dr. Slump: Arale-chan - Penguin Mura Eiyuu Densetsu,2518.0,0,0,0,0,0,0,0,0,0,0,1
 Mobile Suit Gundam SEED: After-Phase Between the Stars,1547.0,0,1,0,0,1,0,0,0,0,0,0,0
 Yattokame Tanteidan,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Arslan Senki,2179.5,1,0,0,1,0,0,0,0,0,0,0,0
+Jigazou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Chiisana Obake Acchi, Kocchi, Socchi",0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirin Hyoketsu: Atarashiku Ikou Animation Movie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ketsuekigata-kun! 4,5800.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -7859,8 +8168,9 @@ Shitai wo Arau The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kunoichi Sakuya,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 3x3 Eyes Seima Densetsu,3864.0,0,0,0,0,1,0,0,0,0,0,0,0
 Moyashimon Returns,817.3333333333334,1,0,0,0,1,0,1,0,0,0,0,0
+Inochi Kagayaku Akari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Riki-Oh 2: Horobi no Ko,3533.0,1,0,0,0,1,0,0,0,0,0,0,0
-Hikaru no Go,689.0,1,1,0,1,0,1,0,0,0,0,0,0
+Hikaru no Go,1069.75,1,1,0,1,0,1,0,0,0,0,0,0
 GetBackers,1129.0,1,0,0,0,0,0,0,0,0,0,0,0
 Boku no Yayoi-san,12919.0,1,1,0,0,0,0,0,0,0,0,0,0
 Devilman: Crybaby,5227.25,1,0,0,2,0,1,0,0,0,0,0,0
@@ -7936,9 +8246,10 @@ Zettai Muteki Raijin-Oh,4582.666666666667,0,1,0,0,0,0,0,0,2,0,0,0
 Pokemon the Movie XY&Z: Volcanion to Karakuri no Magearna,442.0,1,0,0,0,0,0,0,0,0,0,1,0
 Piano,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Terra Formars: Bugs 2-hen,3109.0,1,1,0,0,0,0,0,0,0,0,0,0
+Domo TV,5151.0,0,0,0,0,0,0,0,0,0,0,1,0
 Les Misérables: Shoujo Cosette,0.0,0,0,0,2,0,0,0,0,0,0,0,0
 Relic Armor Legaciam,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-ChäoS;HEAd,3176.8333333333335,1,1,0,1,0,0,0,0,3,0,0,0
+ChäoS;HEAd,3177.5,1,1,0,1,0,0,0,0,3,0,0,0
 Mazinkaiser,2486.5,1,1,0,1,0,0,0,1,0,0,0,0
 Jungle Book Shounen Mowgli,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Chuunibyou demo Koi ga Shitai!,2201.4,1,1,2,0,0,1,0,0,0,0,0,0
@@ -7961,6 +8272,7 @@ Gregory Horror Show,3674.3333333333335,1,1,1,0,0,0,0,0,0,0,0,0
 Tekken: Blood Vengeance,8640.0,0,0,0,0,0,0,0,0,1,0,0,0
 Doraemon Meets Hattori the Ninja,1034.0,0,0,0,0,0,0,0,0,0,0,1,0
 High☆Speed!: Free! Starting Days,699.5,1,1,0,0,0,0,0,0,0,0,0,0
+Fetish Doll,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Choujuu Kishin Dancougar: Ushinawareta Monotachi e no Requiem,4879.0,0,1,0,0,1,0,0,0,0,0,0,0
 Yami Shibai 4,6568.5,0,1,0,0,1,0,0,0,0,0,0,0
 Neko Hiki no Ororane,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7983,8 +8295,9 @@ Fatal Fury: Legend of the Hungry Wolf,4767.75,0,2,0,0,0,0,0,2,0,0,0,0
 Joshikousei Nobunaga-chan!!,10645.0,1,0,0,0,0,0,0,0,0,0,0,0
 Doraemon Movie 21: Nobita no Taiyou Ou Densetsu,708.75,1,0,0,0,0,0,2,0,0,0,1,0
 Elf Hime Nina,0.0,0,0,0,0,0,0,0,0,0,0,0,0
-Ginga Eiyuu Densetsu,129.44444444444446,2,0,2,4,1,0,0,0,0,0,0,0
-Hunter x Hunter,74.25,1,1,1,1,0,0,0,0,0,0,0,0
+Full Moon Party,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Ginga Eiyuu Densetsu,295.6666666666667,2,0,2,4,1,0,0,0,0,0,0,0
+Hunter x Hunter,651.0,1,1,1,1,0,0,0,0,0,0,0,0
 Norabbits&#039; Minutes,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Isshuukan Friends.: Tomodachi to no Omoide,1219.0,0,0,0,0,0,0,0,0,0,0,0,1
 Gibo no Toiki: Haitoku Kokoro ni Tadayou Haha no Iroka,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -8005,11 +8318,13 @@ Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu,1930.0,1,0,1,0,0,0,1,0,0,0,0,0
 Hotaru no Haka,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Milky Passion: Dougenzaka - Ai no Shiro,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Robot Carnival,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Wei Qi Shao Nian,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Reunion,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Nami,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hyouka,1013.0,1,0,1,0,0,0,0,0,0,0,0,0
 One Pound Gospel,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Redial,3720.0,0,0,0,0,0,0,1,0,0,0,0,0
-Saint Seiya: Meiou Hades Juuni Kyuu-hen,474.0,1,1,0,0,1,1,0,0,0,0,0,0
+Saint Seiya: Meiou Hades Juuni Kyuu-hen,650.25,1,1,0,0,1,1,0,0,0,0,0,0
 Injuu Seisen XX,12919.0,0,0,0,0,1,0,0,0,0,0,0,0
 Osu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Captain Tsubasa: Sekai Daikessen!! Jr. World Cup,2173.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -8040,7 +8355,7 @@ Fantastic Children Special,1268.0,0,0,0,0,1,0,0,0,0,0,0,0
 Piyoko ni Omakase pyo!,4232.0,0,0,0,1,0,0,0,0,0,0,0,0
 Blood Lad: Kanketsu Kinen,1601.0,0,0,0,0,0,0,1,0,0,0,0,0
 Captain Herlock,852.0,1,0,0,1,0,0,0,0,0,0,0,0
-Amada Anime Series: Super Mario Brothers,2645.0,0,0,0,0,0,0,1,0,1,1,0,0
+Amada Anime Series: Super Mario Brothers,5360.333333333333,0,0,0,0,0,0,1,0,1,1,0,0
 Hakoiri Shoujo: Virgin Territory,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nogizaka Haruka no Himitsu,2465.5,1,1,0,0,0,0,0,0,0,0,0,0
 Denpa Kyoushi (TV),5632.0,1,0,0,0,0,0,1,0,0,0,0,0
@@ -8075,10 +8390,12 @@ Onna Kyoushi Nijuusan-sai,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Triangle Heart: Sazanami Joshi Ryo,6530.0,0,1,0,0,0,0,0,0,0,0,0,0
 Saiko Robot Kombock,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mei King,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Rokuhoudou Yotsuiro Biyori,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Zone of the Enders: 2167 Idolo,3480.0,0,1,0,0,0,0,0,0,0,0,0,0
 Sore ga Seiyuu!: Petit Uchiage,3244.0,0,0,0,0,1,0,0,0,0,0,0,0
 Kaitou Saint Tail,1247.0,1,0,0,0,0,0,0,0,0,0,0,0
 Taimanin Yukikaze,9689.25,1,0,0,0,0,0,0,0,3,0,0,0
+Jiu Se Lu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Battery,7833.0,1,0,0,0,0,0,0,0,0,0,0,0
 Tokiwa Kitareri!!,8028.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shakugan no Shana,2554.125,1,1,3,0,0,1,0,1,0,1,0,0
@@ -8094,13 +8411,16 @@ Bishoujo Yuugi Unit Crane Game Girls,9176.0,0,1,0,0,0,0,0,0,0,0,0,0
 Peeping Life,1227.5714285714287,0,1,3,0,0,0,10,0,0,0,0,0
 "Love Hina: Motoko no Sentaku, Koi ka Ken... ""Naku na""",2656.0,0,0,0,0,0,0,0,0,0,0,1,0
 Keiraku no Houteishiki Level-C,12919.0,1,0,0,0,0,0,0,0,0,0,0,0
+Nurse Witch Komugi-chan Magikarte Z Special,4366.0,0,0,0,0,0,0,0,0,0,0,1,0
 Akuma-kun,0.0,0,0,1,1,0,0,0,0,0,0,0,0
 UFO Princess Valkyrie 3: Seiresetsu no Hanayome,3504.5,0,1,0,0,1,0,0,0,0,0,0,0
 Acchi Kocchi (TV): Place=Princess,1318.0,0,0,0,0,1,0,0,0,0,0,0,0
 Fuuun Ishin Dai☆Shogun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Kumo no Ito (OVA),269.0,0,0,0,3,0,0,0,0,0,0,0,0
 Asari-chan,7855.5,1,1,0,0,0,0,0,0,0,0,0,0
 Mousou Dairinin,0.0,0,0,0,1,0,0,0,0,0,0,0,0
 Dragon Nest: Throne of Elves,2303.0,0,0,0,0,1,0,0,0,0,0,0,0
+Tokyo Ghoul:re,854.0,1,1,0,0,1,0,0,0,0,0,0,0
 Norakuro Nitouhei: Enshuu no Maki,2999.6666666666665,1,0,0,0,0,0,2,0,0,0,0,0
 12-sai.,5720.0,1,1,0,0,0,0,1,0,0,0,0,0
 Wonderful Days,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8109,12 +8429,13 @@ Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu,1111.0,0,0,0,0,1,0,0,0
 Koinaka: Koinaka de Hatsukoi x Nakadashi Sexual Life The Animation,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tokyo Juushouden,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Genocyber,7326.0,1,0,0,0,0,0,0,0,0,0,0,0
+Hakyuu Houshin Engi,915.0,1,0,0,1,0,1,0,0,0,0,0,0
 eX-Driver: Nina & Rei Danger Zone,4141.0,0,1,0,0,0,0,0,0,0,0,0,0
 Happiness Charge Precure!,2420.3529411764707,0,0,1,0,0,0,0,2,14,0,0,0
 Witch Craft Works Specials,2833.0,0,0,0,0,0,0,0,0,0,0,1,0
 Card Wang: Mix Master,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Kyou no 5 no 2 Kagai Jugyou: Mizukake,2462.0,0,0,0,0,0,0,0,0,0,0,1,0
-Tokyo Ghoul √A,373.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
+Tokyo Ghoul √A,615.6666666666666,1,1,0,0,1,0,0,0,0,0,0,0
 Kokoro Connect,339.6666666666667,2,1,0,0,0,0,0,0,0,0,0,0
 Gyakkyou Burai Kaiji: Ultimate Survivor,85.0,1,1,0,0,0,0,0,1,0,0,0,0
 Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,168.0,0,0,0,1,1,0,0,0,0,0,0,0
@@ -8160,6 +8481,7 @@ RESTOL: Special Rescue Team,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Big X,4854.0,1,0,0,0,1,0,0,0,0,0,0,0
 Kaitou Joker 3rd Season,2692.0,1,1,0,0,1,0,0,0,0,0,0,0
 Tenjou Tenge,3155.0,1,1,0,0,0,1,0,0,0,0,0,0
+Gulliver Funtouki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Girls & Panzer: Shoukai Shimasu!,1217.0,0,0,0,0,0,0,0,0,0,0,0,1
 Ai Monogatari: 9 Love Stories,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Shinzou Ningen Casshern,2362.0,0,0,0,2,0,0,0,0,0,1,0,0
@@ -8179,6 +8501,7 @@ Hyper-Psychic Geo Garaga,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Soratobu Yuureisen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Captain Future,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Sword Art Online II: Sword Art Offline II,3582.0,0,0,0,0,1,0,0,0,0,0,1,0
+Kyoto Animation: Sora-hen,1900.875,0,0,0,0,0,0,8,0,0,0,0,0
 AIKa Zero,7498.0,0,1,1,0,1,0,0,0,0,0,0,0
 Wonder Garden,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Mobile Fighter G Gundam,254.33333333333334,2,0,0,0,0,0,0,0,0,0,1,0
@@ -8189,11 +8512,14 @@ Kodomo no Jikan OVA,8190.5,1,0,0,0,0,0,0,0,0,0,1,0
 Masou Gakuen HxH Specials,5889.0,0,0,0,0,0,0,0,0,0,0,1,0
 ID-0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Kinnikuman (Movie),1139.0,0,1,0,0,1,0,0,0,0,0,0,0
+Full Metal Panic! Invisible Victory,514.0,0,0,0,0,1,0,0,0,0,0,0,0
+Dimension Loop,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Shinryaku! Ika Musume: Ika Ice Tabena-ika?,1508.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tsumiki no Ie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Macross Flash Back 2012,501.5,0,0,0,0,0,0,0,0,0,0,0,2
 Happy Party Train,1630.6666666666667,0,0,0,0,0,0,2,0,0,0,1,0
 Figure 17: Tsubasa & Hikaru,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Pop,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Tiger & Bunny Pilot,480.0,0,1,0,0,0,0,1,0,0,0,0,0
 Groove Adventure Rave,751.6666666666666,1,0,0,0,0,0,0,1,0,1,0,0
 Animegataris,0.0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -8207,6 +8533,7 @@ Uchuu no Kishi Tekkaman Blade OVA: Missing Link,1512.0,0,0,0,0,0,0,0,0,0,0,1,0
 Gyouten Ningen Batsealer,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Lime-iro Ryuukitan X,6188.0,0,0,0,0,1,0,0,0,0,0,0,0
 Di Gi Charat: Kuchi Kara Bazooka,4696.0,0,0,0,0,0,0,0,0,0,0,1,0
+Yodaka no Hoshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pretty Rhythm: Aurora Dream,2669.0,2,1,1,1,0,1,1,0,1,0,0,0
 Kaitou Tenshi Twin Angel,7451.333333333333,0,0,0,0,0,0,3,0,0,0,0,0
 Happiness!,5100.666666666667,2,0,1,0,0,0,0,0,0,0,0,0
@@ -8218,6 +8545,7 @@ Romance wa Tsurugi no Kagayaki II,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Blue Dragon,4782.0,0,1,0,0,0,0,0,0,0,0,0,0
 Yubisaki Annainin Shirudaku Settai Okawari Sanhaime,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Africa no Salaryman,9554.0,1,0,0,0,0,0,0,0,0,0,0,0
+Hajimete no Eigo: Nippon Mukashibanashi,10304.0,0,0,0,0,0,0,1,0,0,0,0,0
 Imouto sae Ireba Ii.,3785.0,1,0,2,0,0,0,0,0,0,0,0,0
 Demashita! Powerpuff Girls Z,5875.0,1,0,0,0,0,0,0,0,0,0,0,0
 Trinity Seven: Nanatsu no Taizai to Nana Madoushi,1955.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -8230,6 +8558,7 @@ Happy Pasta Story,2067.1428571428573,0,0,0,0,1,0,0,0,0,0,6,0
 One Piece: Glorious Island,112.0,0,1,0,0,0,0,0,0,0,0,1,0
 One Piece Movie 2: Nejimaki-jima no Daibouken,1235.5,0,0,1,0,0,0,0,0,0,0,1,0
 Pandora Hearts,1293.0,1,0,1,0,0,0,0,0,0,0,0,0
+Beompeoking Jaepeo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Gakusen Toshi Asterisk,2727.5,1,1,0,0,0,0,0,0,0,0,0,0
 Issho ni Sleeping: Sleeping with Hinako,9142.5,0,0,0,0,0,0,0,2,0,0,0,0
 Black Lagoon,1473.0,1,1,0,0,0,0,0,0,1,0,0,0
@@ -8245,13 +8574,14 @@ Dia Horizon (Kabu),0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Udon no Kuni no Kiniro Kemari,914.0,1,0,0,0,0,0,0,0,0,0,0,0
 Fate/kaleid liner Prisma☆Illya 2wei!,2638.8,1,1,2,0,1,0,0,0,0,0,0,0
 Maou Dante,5515.666666666667,1,0,0,0,0,0,1,0,0,0,1,0
-Kenyuu Densetsu Yaiba,0.0,1,0,1,0,0,0,0,0,0,0,0,0
+Kenyuu Densetsu Yaiba,1136.0,1,0,1,0,0,0,0,0,0,0,0,0
 Ba La La Xiao Mo Xian Zhi: Meng Huan Xuan Lu,4836.0,0,1,0,0,1,0,0,0,0,0,0,0
 Detective Conan Movie 15: Quarter of Silence,882.0,0,0,1,0,0,0,0,0,0,0,1,0
 Saiunkoku Monogatari Recaps,512.0,1,0,0,0,0,0,0,0,0,0,0,1
 Akira,352.0,1,0,0,0,0,0,0,0,0,0,0,0
 Gekitou! Crush Gear Turbo,5060.0,1,1,0,0,0,0,0,1,0,0,0,0
 Ryuusei no Rockman,3438.2,1,1,0,0,0,0,0,2,1,0,0,0
+Persona 5 the Animation,1883.6,1,0,0,0,0,0,1,0,3,0,0,0
 Future GPX Cyber Formula Saga,1266.0,0,1,0,0,1,0,0,0,0,0,0,0
 Kakyuusei 2: Anthology,6591.6,0,0,1,0,1,0,0,0,3,0,0,0
 Dark Blue,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8267,7 +8597,7 @@ Zero no Tsukaima,1364.0,1,1,0,0,0,0,0,0,0,0,0,0
 Sousei no Aquarion OVA,3465.5,0,0,0,2,0,0,0,0,0,0,0,0
 No Doubt,1297.0,0,0,0,0,0,0,0,0,0,0,1,0
 Donyatsu,0.0,1,0,1,0,0,0,0,0,0,0,0,0
-City Hunter,643.4,1,1,0,1,0,0,1,1,0,0,0,0
+City Hunter,1627.6,1,1,0,1,0,0,1,1,0,0,0,0
 Aoki Hagane no Arpeggio: Ars Nova DC,712.3333333333334,1,1,0,1,0,0,0,0,0,0,0,0
 Moeru! Oniisan (OVA),0.0,0,0,0,0,0,0,0,0,0,0,1,0
 Hello Kitty no Match Uri Shoujo,0.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8333,6 +8663,7 @@ Dash! Yonkurou,3404.0,1,0,0,0,0,0,0,0,0,0,0,0
 Nanaka 6/17,4676.0,1,0,1,0,0,0,0,0,0,0,0,0
 Kiss x Sis,3264.5,1,0,1,0,0,0,0,0,0,0,0,0
 DinoZone,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Sheep in the Island,0.0,0,0,0,0,0,0,0,0,0,1,0,0
 Shuffle! Prologue,2666.0,0,0,0,1,0,0,0,0,0,0,0,0
 Houkago Renai Club: Koi no Étude,12919.0,0,0,0,0,0,0,0,1,0,0,0,0
 Transformers Superlink Special,6418.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -8365,18 +8696,19 @@ Burn Up Scramble,5853.0,0,0,0,2,0,0,0,0,0,0,0,0
 To LOVE-Ru Darkness 2nd Specials,1591.3333333333333,1,1,0,0,1,0,0,0,0,0,0,0
 Doubutsu Takarajima,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Hagure Yuusha no Aesthetica: Hajirai Ippai,2964.0,0,0,0,0,0,0,0,0,0,0,1,0
-Aftermath,0.0,0,0,0,0,0,0,2,0,0,0,0,0
+Aftermath,507.5,0,0,0,0,0,0,2,0,0,0,0,0
 Kishin Houkou Demonbane (TV),3432.0,2,0,0,1,0,0,1,0,0,0,0,0
 Candy Boy Episode: EX01 - Mirai Yohouzu,3663.0,0,1,0,0,0,0,0,0,0,0,0,0
 Si Ling Bianma: Zhi Shijie Caozong Zhe,0.0,0,0,0,0,0,1,0,0,0,0,0,0
 Makura no Danshi,0.0,0,1,0,0,0,0,0,0,0,0,0,0
+Bulsajo Robot Phoenix King,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Rayearth,1577.0,0,0,0,1,0,0,0,0,0,0,0,0
 Clannad,610.0,2,1,0,1,0,0,0,0,2,0,0,0
 Yozakura Quartet: Hoshi no Umi,3058.6666666666665,1,0,0,1,0,0,0,0,0,0,0,1
 Tokyo Magnitude 8.0,2944.0,0,0,0,0,0,1,0,0,0,0,0,0
 Holy Knight,6752.0,1,0,0,0,0,0,0,0,0,0,0,0
 Kiniro no Corda: Primo Passo - Hitonatsu no Encore,1273.0,0,0,0,0,1,0,0,0,0,0,0,0
-ChäoS;Child,3403.5,1,1,0,0,2,0,0,0,4,0,0,0
+ChäoS;Child,3404.0,1,1,0,0,2,0,0,0,4,0,0,0
 Choujin Densetsu Urotsukidouji Movie,6459.5,1,0,0,0,0,0,0,0,0,0,0,1
 Ookiku Furikabutte: Natsu no Taikai-hen,867.3333333333334,1,0,1,0,1,0,0,0,0,0,0,0
 Saishuu Shiken Kujira Progressive,8910.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -8420,7 +8752,7 @@ Kaleido Star: Good da yo! Goood!!,517.0,0,0,0,0,0,0,0,1,0,0,0,0
 Overlord: Ple Ple Pleiades (OVA),1929.5,0,0,0,0,1,0,0,0,0,0,1,0
 Mobile Suit Gundam: Char&#039;s Counterattack,1473.5714285714287,2,2,0,0,1,2,0,0,0,0,0,0
 Ashita no Nadja,1188.0,1,0,0,0,0,0,0,0,0,0,0,0
-Persona: Trinity Soul,1806.4,1,0,0,0,1,0,1,0,2,0,0,0
+Persona: Trinity Soul,2256.6,1,0,0,0,1,0,1,0,2,0,0,0
 Tayutama: Kiss on My Deity,2811.5,1,0,1,0,0,0,0,0,0,0,0,0
 Tiger & Bunny,1683.2,4,1,1,0,1,1,2,0,0,0,0,0
 Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special,6384.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -8434,6 +8766,7 @@ Taiho Shichau zo The Movie,2146.0,1,2,0,0,4,0,0,1,0,0,0,0
 Nekopara,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Star Driver the Movie,2360.0,0,0,0,0,0,0,0,0,0,0,0,1
 Shakugan no Shana: Friagne to Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2,2700.0,0,0,0,0,1,0,0,0,0,0,1,0
+Komaneko: Hajime no Ippo,5967.0,0,0,0,0,0,0,1,0,0,0,0,0
 Sasami: Mahou Shoujo Club,4158.0,0,1,0,1,0,0,0,0,0,0,0,0
 Shinryaku! Ika Musume Specials,1508.0,0,0,0,0,0,0,0,0,0,0,1,0
 Freezing Specials,3158.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -8475,6 +8808,7 @@ New Dominion Tank Police,2299.3333333333335,1,1,0,0,1,0,0,0,0,0,0,0
 Ai no Wakakusa Monogatari,284.6666666666667,0,1,0,1,0,1,0,0,0,0,0,0
 Kuiba III: Zhanshen Jueqi,5497.5,0,0,0,1,1,0,0,0,0,0,0,0
 Makasete Iruka!,6719.0,1,0,0,0,0,0,0,0,0,0,0,0
+Tabi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 TWO-MIX: White Reflection,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Natsume Yuujinchou Roku,89.5,1,1,1,0,1,0,0,0,0,0,0,0
 Trava: Fist Planet,212.0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -8499,6 +8833,7 @@ Yozakura Quartet: Hana no Uta,3229.8,1,1,1,1,0,0,1,0,0,0,0,0
 Bishoujo Senshi Sailor Moon Crystal,1582.2,1,1,0,2,0,0,1,0,0,0,0,0
 Sweet Valerian,3882.5,1,0,1,0,0,0,0,0,0,0,0,0
 Grick no Bouken,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Balgwanghaneun Hyeondaesa,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Promised Town,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Maken-Ki!,5351.0,1,1,1,0,0,0,0,0,0,0,0,0
 High Score,7925.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -8507,6 +8842,7 @@ Mermaid Melody Pichi Pichi Pitch Pure,1588.0,1,0,0,0,1,0,0,0,0,0,0,0
 World Calling,4852.0,0,0,0,0,0,0,1,0,0,0,0,0
 Tsuritama,4069.5,1,0,1,0,0,0,0,0,0,0,0,0
 Concerto,0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Tonpei to Sarukichi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Golgo 13 (TV),4276.0,1,0,0,0,2,0,0,0,0,0,0,0
 Tezuka Osamu no Don Dracula,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",1124.5,1,0,1,0,0,0,0,0,0,0,0,0
@@ -8522,12 +8858,14 @@ One Piece Film: Gold,683.6666666666666,0,0,0,0,2,0,3,0,0,0,1,0
 Kuroshitsuji Recap,569.0,0,0,0,0,0,0,0,0,0,0,0,1
 Ze Tian Ji 2nd Season,8654.0,0,1,0,0,1,0,0,0,0,0,0,0
 Tanuki to Kitsune,6185.5,1,1,0,0,0,0,0,0,0,0,0,0
+Idol Ace,0.0,1,0,0,0,0,0,0,0,0,0,0,0
 Beck,181.0,1,0,0,0,0,0,0,0,0,0,0,0
 Code Geass: Soubou no Oz Picture Drama,15.0,1,0,0,0,0,0,0,0,1,0,0,0
 Tsurupika Hagemaru-kun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Angel Blade,12919.0,0,1,1,0,0,0,0,0,0,0,0,0
 Miracle Giants Doumu-kun,0.0,0,0,1,0,0,0,0,0,0,0,0,0
 Ushio to Tora,2715.0,1,0,1,2,0,0,0,0,0,0,0,0
+Di Gi Charat Christmas Special,5106.0,0,0,0,0,1,0,0,0,0,0,0,0
 Koko wa Green Wood,3782.0,1,0,0,0,0,0,0,0,0,0,0,0
 Topo Gigio,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 UQ Holder! OVA,1531.0,1,0,0,0,0,0,1,0,0,0,0,0
@@ -8573,6 +8911,7 @@ Tenshi no Habataki Jun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Hitou Meguri Kakure Yu: Mao-hen,12919.0,0,1,0,0,0,0,1,0,0,0,0,0
 Magical★Taruruuto-kun,0.0,1,0,0,1,0,0,0,0,0,0,0,0
 Kichiku: Haha Shimai Choukyou Nikki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Kaba no Potomasu,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nihonbashi Koukashita R Keikaku,7012.0,0,0,0,0,0,0,1,0,0,0,0,0
 Lupin III: Part II,1429.0,0,1,0,0,1,0,0,0,0,0,0,0
 Lovely★Complex,335.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -8581,13 +8920,15 @@ Kimi to Boku.,671.5,1,1,0,0,0,0,0,0,0,0,0,0
 Himawari!,2724.5,1,1,0,0,0,0,0,0,0,0,0,0
 The SoulTaker: Tamashii-gari,2336.5,0,0,1,0,0,0,0,1,0,0,0,0
 Chobits: Chibits,1546.0,0,0,0,0,0,0,0,0,0,0,1,0
+Oshiri Kajiri Mushi,8727.0,0,0,0,0,0,0,1,0,0,0,0,0
 Guitar wo Motta Shounen: Kikaider vs. Inazuman,3574.5,0,0,0,0,1,0,0,0,0,1,0,0
 "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",1816.5,0,1,0,0,0,0,0,0,0,0,1,0
 Jungle Taitei: Susume Leo!,3891.5,1,0,0,0,0,0,0,0,1,0,0,0
 Chou Kidou Densetsu DinaGiga,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 No Game No Life: Zero,968.0,1,1,0,0,0,0,1,0,0,0,0,0
 Ookiku Furikabutte,1326.0,1,1,1,0,0,1,0,0,0,0,0,0
-Oban Star-Racers,0.0,0,0,0,0,0,0,1,0,0,0,0,0
+Oban Star-Racers,8044.0,0,0,0,0,0,0,1,0,0,0,0,0
+Hoozuki no Reitetsu 2nd Season: Sono Ni,735.5,1,0,0,0,1,0,0,0,0,0,0,0
 Tenrankai no E,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Yuusha-Ou GaoGaiGar,2320.7,1,2,0,0,0,0,0,0,7,0,0,0
 Nana Toshi Monogatari: Hokkyokukai Sensen,0.0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -8630,6 +8971,7 @@ Anime Tenchou x Touhou Project,3854.25,0,0,0,0,0,0,0,0,2,2,0,0
 Giniro no Kami no Agito,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Working!!,1012.0,1,1,0,0,0,0,0,0,1,0,0,0
 Naruto: The Cross Roads,745.0,0,0,0,0,0,0,0,0,0,0,1,0
+Grancrest Senki,5465.0,1,0,0,0,0,1,0,0,0,0,0,0
 Viper&#039;s Creed,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Detonator Orgun,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Ninpuu Kamui Gaiden: Tsukihigai no Maki,3752.0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -8642,10 +8984,12 @@ Gundam Build Fighters Specials,658.0,0,0,0,0,0,0,0,0,0,0,1,0
 11eyes,4890.0,1,0,1,0,0,0,1,0,0,0,0,0
 Eisai Kyoiku,12919.0,0,0,0,0,0,0,1,0,0,0,0,0
 Senkou no Night Raid,3285.3333333333335,0,0,2,0,0,1,0,0,0,0,0,0
+Detective Conan OVA 04: Conan and Kid and Crystal Mother,394.6666666666667,0,0,0,0,0,0,0,2,0,0,1,0
 G-On Riders,0.0,1,1,0,0,0,0,0,0,0,0,0,0
 Bakukyuu Renpatsu!! Super B-Daman,7775.5,1,0,0,0,0,1,0,0,0,0,0,0
 Namiuchigiwa no Muromi-san OVA,3470.0,1,0,0,0,0,0,0,0,0,0,1,0
 Youshou,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Anomalies,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 AIUEO Anime Sekai no Douwa: Aesop Monogatari Anime Series,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Aura: Maryuuin Kouga Saigo no Tatakai,1344.0,1,0,0,0,0,0,0,0,0,0,0,0
 "Wake Up, Girls! Shin Shou",2544.0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -8656,10 +9000,12 @@ Be-yond,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Sousei no Aquarion,2904.714285714286,2,1,0,3,0,0,1,0,0,0,0,0
 Pokemon: Pikachu no Fuyuyasumi (2001),3643.5,0,0,0,0,1,0,0,0,0,0,1,0
 Sono Hanabira ni Kuchizuke wo: Risa x Miya Gekijou,4945.0,0,0,0,0,0,0,1,0,0,0,0,0
+Futon,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Owari no Seraph: Nagoya Kessen-hen - Owaranai Seraph - Nagoya Kessen-hen,883.0,0,0,0,0,0,0,1,0,0,0,0,0
 Shounen Sarutobi Sasuke,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva no Kenshi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 "Suki de Suki de, Suki de The Animation",0.0,1,0,0,0,0,0,0,0,0,0,0,0
+Maabou no Daikyousou,0.0,0,1,0,0,0,0,0,0,0,0,0,0
 Duel Masters Victory,0.0,0,1,0,0,1,0,0,0,0,0,0,0
 Ebenbourg no Kaze,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Alexander Senki,0.0,0,0,0,1,0,0,0,0,0,0,0,0
@@ -8670,13 +9016,18 @@ Nepos Napos,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Very! Merry!! Session!!!,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Suicide Ballad,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Nanatsuko Nezumi Series,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Uli Chingu Kkachi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Mebuki,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Eikou e no Spur: Igaya Chiharu Monogatari,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Bad Badtz-Maru no Otoko Dokyou no Omoiyari,0.0,0,0,0,0,0,0,1,0,0,0,0,0
 Robocar Poli 2,0.0,0,0,0,0,1,0,0,0,0,0,0,0
 Diamond Fusion,3256.0,0,0,0,0,0,0,1,0,0,0,1,0
 Hitori no Shita: The Outcast Recap,2289.5,0,1,0,0,1,0,0,0,0,0,0,0
 Inazuma Eleven x Kaitou Gru no Tsuki Dorobou,1148.0,0,0,0,0,0,0,0,0,0,1,0,0
+Boku no Diet Daisakusen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 History of Les Merveilleuses: Brand Movie,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Atashi Tenshi Anata Akuma,0.0,0,0,0,0,0,0,0,0,0,0,0,0
 Pastel Life,4131.0,0,0,0,0,0,0,0,1,0,0,0,0
 Hibike! Euphonium Movie: Todoketai Melody - Photo Session e Youkoso,1404.0,0,0,0,0,0,0,1,0,0,0,0,0
+Quiz de Manabu Pinocchio no Koutsuu Ansen,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+Ichinen Ikkumi,0.0,0,0,0,0,0,0,0,0,0,0,0,0
