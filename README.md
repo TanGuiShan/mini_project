@@ -43,7 +43,7 @@ Conclusions for insights and recommendations
 - Breaking down our problem to smaller chunks and steps
 - Exposed to more advanced Regression/Classification Techniques
   - Linear/Polynomial Regression, Gradient Boosting, etc.
-  - Random Forest Tree
+  - Random Forest Classifier
 - Working as a team using GitHub
   - Managing merge conflicts
   - Implementing a One-feature-one-branch workflow (Generally)
